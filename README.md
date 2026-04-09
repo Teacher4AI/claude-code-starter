@@ -18,33 +18,72 @@ Deze repo geeft je een werkende startstructuur voor Claude Code:
 - **`cases/`** — Werkmap voor je eigen projecten
 - **`data/`** — Voorbeelddata om mee te experimenteren
 
+## Wat heb je nodig?
+
+Voordat je begint, zorg dat je het volgende hebt:
+
+| Vereiste | Hoe installeren |
+|----------|----------------|
+| **Claude Code** | Volg de [installatie-instructies van Anthropic](https://docs.anthropic.com/en/docs/claude-code/getting-started) |
+| **Node.js** (v18+) | Download van [nodejs.org](https://nodejs.org/) — kies de LTS versie |
+| **Git** | Meestal al geinstalleerd. Test met `git --version` in je terminal |
+
+> **Geen Git?** Geen probleem — je kunt de bestanden ook als ZIP downloaden (zie optie B hieronder).
+
+---
+
 ## Snel starten
 
-### 1. Clone de repo
+### Stap 1: Haal de bestanden op naar je computer
 
+Open je **Terminal** (Mac) of **Command Prompt** (Windows) en kies een van deze opties:
+
+**Optie A — Met Git (aanbevolen):**
 ```bash
 git clone https://github.com/Teacher4AI/claude-code-starter.git
+```
+Dit maakt een map `claude-code-starter` aan op de plek waar je terminal staat (meestal je thuismap).
+
+**Optie B — Als ZIP downloaden (zonder Git):**
+1. Ga naar [github.com/Teacher4AI/claude-code-starter](https://github.com/Teacher4AI/claude-code-starter)
+2. Klik op de groene knop **"<> Code"**
+3. Kies **"Download ZIP"**
+4. Pak het ZIP-bestand uit op een plek die je kunt vinden (bijv. je Documenten map)
+
+### Stap 2: Ga naar de map
+
+```bash
 cd claude-code-starter
 ```
 
-### 2. Open met Claude Code
+> **Tip:** Weet je niet waar de map staat? Op Mac kun je in Finder de map openen, dan in Terminal `cd ` typen (met spatie) en de map vanuit Finder naar het Terminal-venster slepen.
+
+### Stap 3: Start Claude Code
 
 ```bash
 claude
 ```
 
-Claude leest automatisch `CLAUDE.md` en kent je mappenstructuur.
+Claude Code opent en leest automatisch `CLAUDE.md` — het weet meteen hoe je workspace eruitziet.
 
-### 3. Pas CLAUDE.md aan
+**Test of het werkt:** typ in Claude Code:
+```
+Gebruik de hello-world skill
+```
+Claude doorloopt dan de voorbeeldstappen uit `skills/hello-world/SKILL.md`.
 
-Open `CLAUDE.md` en vul je eigen gegevens in:
+### Stap 4: Maak het je eigen
+
+Open `CLAUDE.md` in een teksteditor (of vraag het aan Claude!) en vul in:
 - Jouw naam en rol
-- Welke tools je gebruikt
-- Je werkregels en voorkeuren
+- Welke tools je wilt gebruiken
+- Je eigen regels en voorkeuren
 
-### 4. Koppel MCP servers (optioneel)
+### Stap 5: Koppel externe tools (optioneel)
 
-Zie `.claude/README.md` voor stap-voor-stap instructies om Gmail en Notion te koppelen.
+Wil je dat Claude je email kan lezen of je Notion kan doorzoeken? Zie `.claude/README.md` voor stap-voor-stap instructies om MCP servers zoals Gmail en Notion te koppelen.
+
+> **Let op:** Dit is optioneel. Claude Code werkt prima zonder externe tools — je kunt dit altijd later doen.
 
 ## Mappenstructuur
 
