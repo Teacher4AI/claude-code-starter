@@ -6,6 +6,9 @@
 credentials.json
 token.json
 
+# Persoonlijke Claude Code instellingen (projectinstellingen deel je wel)
+.claude/settings.local.json
+
 # OS bestanden
 .DS_Store
 Thumbs.db

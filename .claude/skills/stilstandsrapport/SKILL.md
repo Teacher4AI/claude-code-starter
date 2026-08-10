@@ -1,3 +1,8 @@
+---
+name: stilstandsrapport
+description: Zet een ruwe stilstands- of storingsregistratie om in een Pareto-analyse met grafiek en een rapport. Gebruik dit bij een CSV met meldingen, storingen of stilstanden waarin je wilt zien waar de verloren tijd zit.
+---
+
 # Skill: Stilstandsrapport
 
 ## Doel
@@ -99,9 +104,9 @@ Trek geen conclusies die de data niet draagt. Noem het een signaal, niet een oor
 ## Zo roep je hem aan
 
 ```
-Gebruik de stilstandsrapport skill
-Gebruik de stilstandsrapport skill op mijn eigen export in data/techniek/
-Gebruik de stilstandsrapport skill, alleen kwartaal 2
+/stilstandsrapport
+/stilstandsrapport op mijn eigen export in data/techniek/
+/stilstandsrapport, alleen kwartaal 2
 ```
 
 ## Deze skill aanpassen

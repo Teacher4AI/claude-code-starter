@@ -2,7 +2,7 @@
 
 **Kant-en-klare workspace om snel aan de slag te gaan met Claude Code.**
 
-Gemaakt door [Teacher4AI](https://teacher4ai.net) — AI-trainingen uit Rotterdam.
+Gemaakt door [Teacher4AI](https://teacher4ai.net), AI-trainingen uit Rotterdam.
 
 ---
 
@@ -11,99 +11,133 @@ Gemaakt door [Teacher4AI](https://teacher4ai.net) — AI-trainingen uit Rotterda
 Deze repo geeft je een werkende startstructuur voor Claude Code:
 
 - **`CLAUDE.md`** — Template kennisbank die Claude leest bij elke sessie
-- **`skills/`** — Herbruikbare instructies, met twee werkende voorbeelden
-- **`commands/`** — Plek voor custom slash commands
-- **`hooks/`** — Pre- en post-hooks voor automatisering
-- **`.claude/`** — MCP configuratie voorbeelden (Gmail, Notion)
+- **`.claude/skills/`** — Herbruikbare instructies, met twee werkende voorbeelden
+- **`.claude/commands/`** — Plek voor eigen slash commands
+- **`.claude/hooks/`** — Scripts die automatisch draaien voor of na een actie
+- **`.claude/`** — Projectinstellingen en MCP-uitleg
 - **`cases/`** — Werkmap voor je eigen projecten
 - **`data/`** — Voorbeelddata per spoor, klaar om echt iets mee te doen
 
 ## Wat heb je nodig?
 
-Voordat je begint, zorg dat je het volgende hebt:
-
-| Vereiste | Hoe installeren |
-|----------|----------------|
-| **Claude Code** | Volg de [installatie-instructies van Anthropic](https://docs.anthropic.com/en/docs/claude-code/getting-started) |
-| **Node.js** (v18+) | Download van [nodejs.org](https://nodejs.org/) — kies de LTS versie |
+| Vereiste | Hoe |
+|----------|-----|
+| **Claude Code** | Zie stap 1 hieronder |
+| **Een Claude-abonnement** | Pro, Max, Team of Enterprise. Het gratis Claude.ai-plan geeft geen toegang tot Claude Code |
 | **Git** | Meestal al geinstalleerd. Test met `git --version` in je terminal |
 
-> **Geen Git?** Geen probleem — je kunt de bestanden ook als ZIP downloaden (zie optie B hieronder).
+> **Geen Git?** Geen probleem, je kunt de bestanden ook als ZIP downloaden. Zie optie B bij stap 2.
 
 ---
 
 ## Snel starten
 
-### Stap 1: Haal de bestanden op naar je computer
+### Stap 1: Installeer Claude Code
 
-Open je **Terminal** (Mac) of **Command Prompt** (Windows) en kies een van deze opties:
+Open je **Terminal** (Mac) of **PowerShell** (Windows) en plak het commando dat bij je systeem hoort.
 
-**Optie A — Met Git (aanbevolen):**
+**macOS, Linux of WSL:**
+```bash
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+**Windows PowerShell:**
+```powershell
+irm https://claude.ai/install.ps1 | iex
+```
+
+**Liever Homebrew?**
+```bash
+brew install --cask claude-code
+```
+
+Controleer daarna of het gelukt is:
+```bash
+claude --version
+```
+
+> **Liever geen terminal?** Er is ook een desktop-app. Die werkt prima, maar deze starterskit
+> gaat uit van de terminal, want daar hoort het clonen van deze repo bij.
+
+Volledige installatie-instructies en alternatieve routes staan in de
+[Claude Code documentatie](https://code.claude.com/docs/en/setup).
+
+### Stap 2: Haal deze workspace op
+
+**Optie A, met Git (aanbevolen):**
 ```bash
 git clone https://github.com/Teacher4AI/claude-code-starter.git
 ```
-Dit maakt een map `claude-code-starter` aan op de plek waar je terminal staat (meestal je thuismap).
+Dit maakt een map `claude-code-starter` aan op de plek waar je terminal staat, meestal je thuismap.
 
-**Optie B — Als ZIP downloaden (zonder Git):**
+**Optie B, als ZIP (zonder Git):**
 1. Ga naar [github.com/Teacher4AI/claude-code-starter](https://github.com/Teacher4AI/claude-code-starter)
 2. Klik op de groene knop **"<> Code"**
 3. Kies **"Download ZIP"**
-4. Pak het ZIP-bestand uit op een plek die je kunt vinden (bijv. je Documenten map)
+4. Pak het bestand uit op een plek die je terugvindt, bijvoorbeeld je map Documenten
 
-### Stap 2: Ga naar de map
+### Stap 3: Ga naar de map
 
 ```bash
 cd claude-code-starter
 ```
 
-> **Tip:** Weet je niet waar de map staat? Op Mac kun je in Finder de map openen, dan in Terminal `cd ` typen (met spatie) en de map vanuit Finder naar het Terminal-venster slepen.
+> **Tip:** weet je niet waar de map staat? Op Mac open je hem in Finder, typ je in Terminal
+> `cd ` (met een spatie) en sleep je de map naar het Terminal-venster.
 
-### Stap 3: Start Claude Code
+### Stap 4: Start Claude Code
 
 ```bash
 claude
 ```
 
-Claude Code opent en leest automatisch `CLAUDE.md` — het weet meteen hoe je workspace eruitziet.
+De eerste keer vraagt Claude Code je om in te loggen via je browser. Daarna opent een
+sessie in je terminal en leest Claude automatisch `CLAUDE.md`, zodat het meteen weet hoe
+je workspace eruitziet.
 
 **Test of het werkt:** typ in Claude Code:
 ```
-Gebruik de hello-world skill
+/hello-world
 ```
-Claude doorloopt dan de voorbeeldstappen uit `skills/hello-world/SKILL.md`.
 
-### Stap 4: Maak het je eigen
+Claude doorloopt dan de stappen uit `.claude/skills/hello-world/SKILL.md`. Zie je het
+commando niet in de lijst als je `/` typt? Dan staat de skill niet op de goede plek of
+mist de frontmatter bovenaan het bestand.
 
-Open `CLAUDE.md` in een teksteditor (of vraag het aan Claude!) en vul in:
+### Stap 5: Maak het je eigen
+
+Open `CLAUDE.md` in een teksteditor, of vraag het aan Claude, en vul in:
+
 - Jouw naam en rol
 - Welke tools je wilt gebruiken
 - Je eigen regels en voorkeuren
 
-### Stap 5: Doe iets echts
+### Stap 6: Doe iets echts
 
 Een begroeting is leuk, maar je wilt zien wat het je oplevert. In `data/` staat
 voorbeeldmateriaal per spoor.
 
 **Techniek.** Er staat een stilstandsregistratie van een productiebedrijf klaar: drie
-lijnen, een vol jaar, ongeveer 1350 meldingen, met alle rommel die daar in het echt in zit.
-Typ in Claude Code:
+lijnen, een vol jaar, ongeveer 1350 meldingen, met alle rommel die er in het echt ook in
+zit. Typ in Claude Code:
 
 ```
-Gebruik de stilstandsrapport skill
+/stilstandsrapport
 ```
 
-Claude leest het bestand, groept de oorzaken die in tien schrijfwijzen zijn ingevoerd,
+Claude leest het bestand, groepeert de oorzaken die in tien schrijfwijzen zijn ingevoerd,
 rekent een Pareto-analyse uit, maakt de grafiek en schrijft een rapport in
 `cases/techniek/stilstandsanalyse/`. Wissel daarna het voorbeeldbestand om voor je eigen
 export en draai hem opnieuw.
 
 **Onderwijs.** In `data/onderwijs/` staan leerlinggegevens en een rubric om mee te oefenen.
 
-### Stap 6: Koppel externe tools (optioneel)
+### Stap 7: Koppel externe tools (optioneel)
 
-Wil je dat Claude je email kan lezen of je Notion kan doorzoeken? Zie `.claude/README.md` voor stap-voor-stap instructies om MCP servers zoals Gmail en Notion te koppelen.
+Wil je dat Claude je e-mail kan lezen of je Notion kan doorzoeken? Zie
+[`.claude/README.md`](.claude/README.md) voor het koppelen van MCP-servers.
 
-> **Let op:** Dit is optioneel. Claude Code werkt prima zonder externe tools — je kunt dit altijd later doen.
+> **Let op:** dit is optioneel. Claude Code werkt prima zonder externe tools.
 
 ## Mappenstructuur
 
@@ -113,28 +147,22 @@ claude-code-starter/
 ├── README.md              ← Dit bestand
 ├── .gitignore
 │
-├── .claude/               ← Configuratie
-│   ├── README.md          ← MCP setup instructies
-│   ├── mcp-config-example.json  ← Voorbeeld (geen echte keys!)
-│   └── settings.json      ← Project instellingen
-│
-├── skills/                ← Herbruikbare instructies
-│   ├── hello-world/       ← Werkend voorbeeld
-│   │   └── SKILL.md
-│   └── stilstandsrapport/ ← Data-analyse met grafiek en rapport
-│       └── SKILL.md
-│
-├── commands/              ← Custom slash commands
-│   └── README.md
-│
-├── hooks/                 ← Pre/post automatisering
-│   └── README.md
+├── .claude/               ← Alles wat Claude Code automatisch inleest
+│   ├── README.md          ← MCP koppelen
+│   ├── settings.json      ← Projectinstellingen en hooks
+│   ├── skills/            ← Herbruikbare instructies
+│   │   ├── hello-world/SKILL.md        ← Werkend voorbeeld
+│   │   └── stilstandsrapport/SKILL.md  ← Data-analyse met grafiek en rapport
+│   ├── commands/          ← Eigen slash commands
+│   │   └── README.md
+│   └── hooks/             ← Scripts voor pre/post automatisering
+│       └── README.md
 │
 ├── cases/                 ← Jouw werkbestanden
-│   ├── techniek/          ← Technische cases
+│   ├── techniek/
 │   │   ├── README.md
 │   │   └── stilstandsanalyse/  ← Resultaten van de stilstandsrapport-skill
-│   └── onderwijs/         ← Onderwijs cases
+│   └── onderwijs/
 │       └── README.md
 │
 └── data/                  ← Voorbeelddata per spoor
@@ -146,27 +174,59 @@ claude-code-starter/
         └── voorbeeld-rubric.md
 ```
 
+**Waarom staat alles onder `.claude/`?** Claude Code leest skills, commands en instellingen
+alleen daar. Een map `skills/` in de hoofdmap wordt niet gevonden.
+
 ## Skills gebruiken
 
-Een skill is een gestructureerde instructie die Claude stap-voor-stap volgt. Bekijk het voorbeeld in `skills/hello-world/SKILL.md` en maak je eigen skills door een nieuwe map aan te maken in `skills/`.
+Een skill is een gestructureerde instructie die Claude stap-voor-stap volgt. De mapnaam
+wordt het commando dat je typt.
 
-**Voorbeeld:**
 ```
-Jij: "Gebruik de hello-world skill"
-Claude: *leest skills/hello-world/SKILL.md en voert de stappen uit*
+Jij:    /hello-world
+Claude: leest .claude/skills/hello-world/SKILL.md en voert de stappen uit
 ```
+
+Claude kan een skill ook zelf oppakken als hij past bij wat je vraagt. Daarvoor leest hij
+de `description` uit de frontmatter.
+
+### Zelf een skill maken
+
+Maak een map onder `.claude/skills/` met een `SKILL.md` erin. De frontmatter bovenaan is
+verplicht, zonder die regels wordt het bestand niet als skill herkend.
+
+```markdown
+---
+name: mijn-skill
+description: Wat de skill doet en wanneer je hem gebruikt. Claude leest dit om te bepalen wanneer hij de skill oppakt.
+---
+
+# Skill: Mijn skill
+
+## Doel
+...
+
+## Stappen
+1. Eerste stap
+2. Tweede stap
+```
+
+Claude Code merkt nieuwe skills op tijdens je sessie. Heb je de map `.claude/skills/` net
+aangemaakt terwijl Claude al draaide? Start hem dan één keer opnieuw.
 
 ## Meer leren?
 
 | Resource | Link |
 |----------|------|
-| Claude Code documentatie | [docs.anthropic.com](https://docs.anthropic.com/en/docs/claude-code) |
-| MCP Protocol | [modelcontextprotocol.io](https://modelcontextprotocol.io) |
+| Claude Code documentatie | [code.claude.com/docs](https://code.claude.com/docs) |
+| Skills | [code.claude.com/docs/en/skills](https://code.claude.com/docs/en/skills) |
+| MCP koppelen | [code.claude.com/docs/en/mcp](https://code.claude.com/docs/en/mcp) |
 | Teacher4AI trainingen | [teacher4ai.net](https://teacher4ai.net) |
 
 ### Over Teacher4AI
 
-Teacher4AI verzorgt praktijkgerichte AI-trainingen voor het technisch onderwijs en het MKB. Van basiskennis tot geavanceerd werken met Claude Code — altijd hands-on, altijd toepasbaar.
+Teacher4AI verzorgt praktijkgerichte AI-trainingen voor het technisch onderwijs en het MKB.
+Van basiskennis tot geavanceerd werken met Claude Code, altijd hands-on en toepasbaar.
 
 📍 Rotterdam | 🌐 [teacher4ai.net](https://teacher4ai.net) | 📧 info@teacher4ai.eu
 

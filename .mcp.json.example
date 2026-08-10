@@ -1,0 +1,16 @@
+{
+  "_comment": "Voorbeeld. Hernoem naar .mcp.json en vul je eigen servers in. Makkelijker: gebruik 'claude mcp add', dan schrijft Claude Code dit bestand zelf. Zet hier NOOIT API-sleutels in als de repo op GitHub staat.",
+  "mcpServers": {
+    "voorbeeld-http-server": {
+      "type": "http",
+      "url": "https://voorbeeld.nl/mcp"
+    },
+    "voorbeeld-lokale-server": {
+      "command": "npx",
+      "args": ["-y", "naam-van-het-pakket"],
+      "env": {
+        "API_TOKEN": "${MIJN_API_TOKEN}"
+      }
+    }
+  }
+}

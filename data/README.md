@@ -23,5 +23,5 @@ Plaats hier je eigen datasets. Let op:
 Je kunt Claude vragen:
 
 - "Analyseer `data/techniek/voorbeeld-stilstand.csv` en vertel me wat opvalt"
-- "Gebruik de weekrapport-stilstand skill"
+- "/stilstandsrapport"
 - "Genereer vergelijkbare testdata voor mijn eigen lijn"

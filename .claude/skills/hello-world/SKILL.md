@@ -1,13 +1,18 @@
+---
+name: hello-world
+description: Eerste kennismaking met skills. Begroet de gebruiker, controleert de workspace en maakt een testbestand aan. Gebruik dit om te testen of je skills werken.
+---
+
 # Skill: Hello World
 
 ## Doel
 
-Dit is een voorbeeld-skill om te laten zien hoe skills werken. Claude volgt deze stappen wanneer je vraagt: "Gebruik de hello-world skill."
+Dit is een voorbeeld-skill om te laten zien hoe skills werken. Claude volgt deze stappen wanneer je vraagt: "/hello-world."
 
 ## Wanneer gebruiken
 
 - Als eerste kennismaking met skills
-- Om te testen of Claude je `skills/` map leest
+- Om te testen of Claude je `.claude/skills/` map leest
 - Als template voor je eigen skills
 
 ## Stappen
@@ -23,7 +28,7 @@ Begroet de gebruiker met:
 
 Controleer de mappenstructuur:
 1. Bestaat `CLAUDE.md`? → Lees en toon de naam en rol
-2. Hoeveel skills staan er in `skills/`?
+2. Hoeveel skills staan er in `.claude/skills/`?
 3. Zijn er bestanden in `cases/`?
 4. Welke MCP servers zijn geconfigureerd?
 
@@ -47,7 +52,7 @@ Demonstreer een kleine taak:
 Geef de gebruiker tips:
 - "Pas `CLAUDE.md` aan met jouw gegevens"
 - "Koppel een MCP server (zie `.claude/README.md`)"
-- "Maak je eigen skill in `skills/jouw-skill/SKILL.md`"
+- "Maak je eigen skill in `.claude/skills/jouw-skill/SKILL.md`"
 
 ## Output
 
@@ -58,7 +63,7 @@ Geef de gebruiker tips:
 ## Voorbeeld interactie
 
 ```
-Gebruiker: "Gebruik de hello-world skill"
+Gebruiker: "/hello-world"
 
 Claude: "👋 Hallo [naam]! Het is [datum].
 

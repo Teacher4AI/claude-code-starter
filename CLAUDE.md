@@ -50,35 +50,46 @@ Hieronder beschrijf je welke MCP servers je hebt gekoppeld. Claude weet dan wann
 ```
 mijn-project/
 ├── CLAUDE.md          ← Dit bestand (jouw kennisbank)
-├── .claude/           ← Claude Code configuratie + MCP setup
-├── skills/            ← Herbruikbare instructies voor Claude
-├── commands/          ← Custom slash commands
-├── hooks/             ← Automatische acties (pre/post)
+├── .claude/           ← Alles wat Claude Code automatisch inleest
+│   ├── settings.json  ← Projectinstellingen en hooks
+│   ├── skills/        ← Herbruikbare instructies
+│   ├── commands/      ← Eigen slash commands
+│   └── hooks/         ← Automatische acties (pre/post)
 ├── cases/             ← Werkbestanden per project of case
 │   ├── techniek/      ← Cases voor technisch werk
 │   └── onderwijs/     ← Cases voor onderwijswerk
-└── data/              ← Voorbeelddata en templates
+└── data/              ← Voorbeelddata per spoor
+    ├── techniek/
+    └── onderwijs/
 ```
 
 ---
 
 ## Skills
 
-Skills zijn gestructureerde instructies die Claude kan volgen. Denk aan een recept: stap-voor-stap, altijd hetzelfde resultaat.
+Skills zijn gestructureerde instructies die Claude kan volgen. Denk aan een recept: stap-voor-stap, altijd hetzelfde resultaat. De mapnaam wordt het commando dat je typt.
 
 ```
-skills/
-├── hello-world/       ← Voorbeeld-skill (bekijk deze eerst!)
+.claude/skills/
+├── hello-world/          ← Voorbeeld-skill (bekijk deze eerst!)
 │   └── SKILL.md
-└── jouw-skill/        ← Maak je eigen skills
+├── stilstandsrapport/    ← Data-analyse met grafiek en rapport
+│   └── SKILL.md
+└── jouw-skill/           ← Maak je eigen skills
     └── SKILL.md
 ```
 
 ### Een skill maken
 
-Maak een map in `skills/` met een `SKILL.md` bestand:
+Maak een map in `.claude/skills/` met een `SKILL.md` erin. De frontmatter bovenaan is
+verplicht: zonder die regels wordt het bestand niet als skill herkend.
 
 ```markdown
+---
+name: jouw-skill
+description: Wat de skill doet en wanneer je hem gebruikt. Hieraan herkent Claude of hij de skill moet oppakken.
+---
+
 # Skill: [Naam]
 
 ## Doel
@@ -90,7 +101,6 @@ Bij welke vraag of opdracht?
 ## Stappen
 1. Eerste stap
 2. Tweede stap
-3. ...
 
 ## Output
 Wat lever je op?

@@ -1,51 +1,63 @@
 # .claude/ — Configuratie
 
-Deze map bevat configuratiebestanden voor Claude Code.
+Alles wat Claude Code automatisch inleest staat in deze map: je skills, je eigen commands,
+je hooks en je projectinstellingen.
 
-## MCP Servers koppelen
+| Bestand of map | Doel |
+|---|---|
+| `settings.json` | Projectinstellingen: permissies, hooks, omgevingsvariabelen |
+| `skills/` | Herbruikbare instructies. Mapnaam wordt het commando |
+| `commands/` | Eigen slash commands. Werkt naast skills |
+| `hooks/` | Scripts die je vanuit `settings.json` aanroept |
 
-MCP (Model Context Protocol) servers geven Claude toegang tot externe tools zoals Gmail en Notion.
+## MCP-servers koppelen
 
-### Stap 1: Settings openen
+MCP (Model Context Protocol) geeft Claude toegang tot externe systemen zoals e-mail,
+agenda's, databases en projecttools.
 
-In Claude Code, type:
+### Toevoegen via de CLI (aanbevolen)
+
+Dit is de kortste route. Claude Code schrijft de configuratie zelf naar het juiste bestand.
+
+```bash
+claude mcp add --transport http <naam> <url>
 ```
-/settings
+
+Bekijken wat er gekoppeld is:
+
+```bash
+claude mcp list
 ```
 
-Of bewerk het bestand `~/.claude/settings.json` handmatig.
+Binnen een sessie zie je de status met `/mcp`.
 
-### Stap 2: MCP server toevoegen
+### Waar de configuratie terechtkomt
 
-Kopieer de voorbeeldconfiguratie uit `mcp-config-example.json` en pas de waarden aan.
+| Bestand | Bereik |
+|---|---|
+| `.mcp.json` in je project | Alleen dit project. Deel je mee in Git, handig voor een team |
+| `~/.claude.json` | Al je projecten, alleen voor jou |
 
-### Gmail koppelen
+MCP-configuratie hoort **niet** in `settings.json`. Dat bestand is voor permissies, hooks
+en omgevingsvariabelen.
 
-1. Ga naar [Google Cloud Console](https://console.cloud.google.com/)
-2. Maak een project aan en activeer de Gmail API
-3. Maak OAuth2 credentials aan (type: Desktop App)
-4. Download het `credentials.json` bestand
-5. Installeer de Gmail MCP server:
-   ```bash
-   npx @anthropic/create-mcp -t gmail
-   ```
-6. Volg de instructies om te authenticeren
+### Welke servers zijn er?
 
-### Notion koppelen
+Het aanbod verandert snel, dus wij houden hier geen lijst bij die veroudert. Kijk in de
+[MCP-documentatie van Claude Code](https://code.claude.com/docs/en/mcp) voor de actuele
+servers en de exacte commando's per stuk.
 
-1. Ga naar [Notion Integrations](https://www.notion.so/my-integrations)
-2. Maak een nieuwe integratie aan
-3. Kopieer de API token
-4. Deel de gewenste pagina's/databases met je integratie
-5. Voeg de token toe aan je MCP configuratie
+> **Let op:** bewaar API-sleutels NOOIT in een Git-repository. Gebruik omgevingsvariabelen
+> of een `.env`-bestand, dat staat in `.gitignore`.
 
-> **Let op:** Bewaar API keys NOOIT in een Git repository!
-> Gebruik environment variables of een `.env` bestand (staat in `.gitignore`).
+## Instellingen aanpassen
 
-## Bestanden in deze map
+Binnen een sessie open je de instellingen met `/config`. Handmatig bewerken kan ook:
 
-| Bestand | Doel |
-|---------|------|
-| `README.md` | Deze uitleg |
-| `mcp-config-example.json` | Voorbeeld MCP configuratie (zonder echte keys) |
-| `settings.json` | Claude Code project-instellingen (optioneel) |
+| Bestand | Bereik |
+|---|---|
+| `.claude/settings.json` | Dit project, deelbaar via Git |
+| `.claude/settings.local.json` | Dit project, alleen voor jou. Staat in `.gitignore` |
+| `~/.claude/settings.json` | Al je projecten |
+
+Zie de [documentatie over settings](https://code.claude.com/docs/en/settings) voor alle opties.
