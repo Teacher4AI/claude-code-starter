@@ -1,0 +1,1360 @@
+datum,tijd,lijn,machine,oorzaak,duur_min,ploeg,monteur,opmerking
+2025-07-01,02:55,L3 Extrusie,Extruder,Operator afwezig,19,C,TD-07,
+2025-07-01,07:05,L2 Verpakking,Palletiseerder,geen materiaal,23,A,TD-06,
+2025-07-01,23:25,L2 Verpakking,Etiketteermachine,etiketstoring,9,C,TD-01,
+2025-07-02,06:20,L1 Assemblage,Robotcel,Sensor storing,17,A,,storing herhaalt zich
+2025-07-02,13:45,L2 Verpakking,Vulmachine,sensor defect,13,A,TD-03,opgelost door ploeg zelf
+2025-07-02,20:40,L1 Assemblage,Schroefstation,materiaaltoevoer leeg,23,B,TD-02,wachten op onderdeel
+2025-07-02,22:45,L1 Assemblage,Robotcel,persluchtstoring,39,C,TD-07,opgelost door ploeg zelf
+2025-07-02,23:10,L1 Assemblage,Robotcel,materiaaltoevoer leeg,22,C,TD-02,monteur opgeroepen
+2025-07-03,03:00,L2 Verpakking,Etiketteermachine,etiket vastgelopen,12,C,,storing herhaalt zich
+2025-07-03,06:05,L2 Verpakking,Etiketteermachine,sensorstoring,25,A,TD-02,monteur opgeroepen
+2025-07-03,07:45,L1 Assemblage,Toevoerband,Gepland onderhoud,65,A,TD-05,storing herhaalt zich
+2025-07-03,12:35,L2 Verpakking,Krimptunnel,PLC storing,127,A,TD-01,storing herhaalt zich
+2025-07-03,15:30,L3 Extrusie,Extruder,gepland onderhoud,66,B,,wachten op onderdeel
+2025-07-03,16:55,L2 Verpakking,Krimptunnel,materiaaltoevoer leeg,28,B,,
+2025-07-04,01:05,L3 Extrusie,Trekbank,smeerbeurt,46,C,TD-05,onderdeel besteld
+2025-07-04,09:05,L1 Assemblage,Testcel,storing besturing,121,A,TD-01,"tijdelijk opgelost, melding blijft staan"
+2025-07-04,09:50,L2 Verpakking,Vulmachine,Materiaal op,19,A,TD-03,opgelost door ploeg zelf
+2025-07-04,11:55,L2 Verpakking,Etiketteermachine,etiket vastgelopen,11,A,TD-06,
+2025-07-04,18:05,L3 Extrusie,Extruder,Extruder verstopt,200,B,TD-07,onderdeel besteld
+2025-07-07,03:35,L2 Verpakking,Etiketteermachine,luchtdruk te laag,20,C,,afgehandeld volgens checklist
+2025-07-07,04:25,L2 Verpakking,Palletiseerder,sensor storing,11,C,TD-06,storing herhaalt zich
+2025-07-07,06:45,L1 Assemblage,Schroefstation,Sensor storing,4,A,TD-02,tweede keer deze week
+2025-07-07,09:30,L3 Extrusie,Trekbank,sensor storing,24,A,TD-08,afgehandeld volgens checklist
+2025-07-07,12:35,L2 Verpakking,Vulmachine,Materiaal op,18,A,TD-07,
+2025-07-07,19:55,L2 Verpakking,Etiketteermachine,etiketstoring,8,B,TD-03,
+2025-07-08,02:35,L2 Verpakking,Krimptunnel,sensor storing,16,C,,
+2025-07-08,05:10,L1 Assemblage,Robotcel,Perslucht te laag,39,C,,onderdeel besteld
+2025-07-08,09:50,L3 Extrusie,Extruder,Matrijswissel,137,A,TD-02,wachten op onderdeel
+2025-07-09,01:20,L2 Verpakking,Palletiseerder,Perslucht te laag,31,C,TD-02,opgelost door ploeg zelf
+2025-07-09,05:50,L1 Assemblage,Toevoerband,sensorstoring,25,C,TD-07,"tijdelijk opgelost, melding blijft staan"
+2025-07-09,07:05,L2 Verpakking,Vulmachine,Reiniging,31,A,TD-08,
+2025-07-09,07:10,L2 Verpakking,Etiketteermachine,geen materiaal,17,A,,storing herhaalt zich
+2025-07-09,12:15,L2 Verpakking,Etiketteermachine,etiket vastgelopen,13,A,TD-07,"tijdelijk opgelost, melding blijft staan"
+2025-07-09,15:05,L2 Verpakking,Etiketteermachine,geen materiaal,12,B,TD-02,wachten op onderdeel
+2025-07-09,20:10,L2 Verpakking,Palletiseerder,Sensor storing,5,B,TD-01,afgehandeld volgens checklist
+2025-07-09,22:50,L3 Extrusie,Zaagunit,Sensor storing,4,C,TD-07,"tijdelijk opgelost, melding blijft staan"
+2025-07-10,02:10,L2 Verpakking,Krimptunnel,Sensor storing,10,C,,opgelost door ploeg zelf
+2025-07-10,03:25,L3 Extrusie,Koelbad,persluchtstoring,11,C,TD-03,afgehandeld volgens checklist
+2025-07-10,04:50,L3 Extrusie,Extruder,matrijswissel,185,C,TD-05,"tijdelijk opgelost, melding blijft staan"
+2025-07-10,06:20,L1 Assemblage,Robotcel,Materiaal op,24,A,TD-01,
+2025-07-10,12:20,L2 Verpakking,Etiketteermachine,etiketstoring,15,A,TD-01,onderdeel besteld
+2025-07-10,21:35,L3 Extrusie,Zaagunit,persluchtstoring,28,B,TD-04,
+2025-07-11,00:35,L2 Verpakking,Krimptunnel,materiaal op,7,C,,
+2025-07-11,02:45,L2 Verpakking,Etiketteermachine,etiket vastgelopen,12,C,TD-01,wachten op onderdeel
+2025-07-11,09:00,L2 Verpakking,Etiketteermachine,etiket vastgelopen,15,A,TD-08,onderdeel besteld
+2025-07-11,11:25,L2 Verpakking,Palletiseerder,Lager vervangen,86,A,TD-07,tweede keer deze week
+2025-07-11,13:40,L2 Verpakking,Etiketteermachine,Sensor storing,25,A,TD-04,opgelost door ploeg zelf
+2025-07-14,05:45,L2 Verpakking,Etiketteermachine,etiket vastgelopen,17,C,TD-03,wachten op onderdeel
+2025-07-14,08:10,L2 Verpakking,Krimptunnel,Omstelling,98,A,TD-01,tweede keer deze week
+2025-07-14,11:35,L3 Extrusie,Extruder,Extruder verstopt,205,A,TD-05,tweede keer deze week
+2025-07-14,19:50,L2 Verpakking,Krimptunnel,personeelstekort,29,B,TD-02,tweede keer deze week
+2025-07-14,22:25,L2 Verpakking,Palletiseerder,geen materiaal,30,C,TD-03,
+2025-07-15,09:50,L3 Extrusie,Koelbad,sensorstoring,16,A,TD-06,tweede keer deze week
+2025-07-15,09:55,L3 Extrusie,Zaagunit,Materiaal op,19,A,TD-06,
+2025-07-15,15:50,L1 Assemblage,Toevoerband,personeelstekort,53,B,TD-01,
+2025-07-15,16:10,L3 Extrusie,Trekbank,luchtdruk te laag,26,B,,wachten op onderdeel
+2025-07-15,17:20,L2 Verpakking,Etiketteermachine,Materiaal op,23,B,,monteur opgeroepen
+2025-07-15,19:25,L2 Verpakking,Krimptunnel,Sensor storing,6,B,TD-07,onderdeel besteld
+2025-07-15,21:40,L1 Assemblage,Testcel,personeelstekort,49,B,TD-04,
+2025-07-16,02:15,L2 Verpakking,Krimptunnel,Operator afwezig,17,C,TD-02,
+2025-07-16,04:05,L2 Verpakking,Etiketteermachine,Perslucht te laag,33,C,TD-01,afgehandeld volgens checklist
+2025-07-16,07:05,L1 Assemblage,Robotcel,personeelstekort,54,A,TD-08,
+2025-07-16,10:20,L3 Extrusie,Trekbank,omstelling product,134,A,TD-04,monteur opgeroepen
+2025-07-16,19:45,L2 Verpakking,Palletiseerder,lager vervangen,160,B,TD-03,
+2025-07-17,06:00,L1 Assemblage,Schroefstation,PLC storing,39,A,,
+2025-07-17,10:55,L3 Extrusie,Extruder,materiaal op,29,A,TD-04,monteur opgeroepen
+2025-07-17,13:20,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,12,A,,
+2025-07-17,16:55,L2 Verpakking,Krimptunnel,sensor defect,13,B,,storing herhaalt zich
+2025-07-18,05:10,L3 Extrusie,Koelbad,persluchtstoring,29,C,,
+2025-07-18,14:10,L2 Verpakking,Palletiseerder,sensorstoring,14,B,TD-06,
+2025-07-18,18:30,L2 Verpakking,Etiketteermachine,etiket vastgelopen,7,B,TD-03,
+2025-07-18,20:30,L3 Extrusie,Trekbank,spanningsuitval,64,B,TD-08,storing herhaalt zich
+2025-07-18,22:35,L2 Verpakking,Vulmachine,Materiaal op,14,C,TD-04,
+2025-07-18,23:40,L1 Assemblage,Toevoerband,sensor defect,17,C,TD-02,
+2025-07-21,04:20,L1 Assemblage,Testcel,Perslucht te laag,28,C,TD-08,
+2025-07-21,06:50,L2 Verpakking,Etiketteermachine,etiketstoring,11,A,,wachten op onderdeel
+2025-07-21,11:10,L3 Extrusie,Zaagunit,materiaal op,22,A,TD-01,
+2025-07-21,15:10,L1 Assemblage,Robotcel,reiniging,45,B,TD-05,onderdeel besteld
+2025-07-21,16:20,L3 Extrusie,Koelbad,Sensor storing,18,B,TD-03,
+2025-07-21,18:45,L2 Verpakking,Etiketteermachine,sensor defect,13,B,TD-02,tweede keer deze week
+2025-07-22,05:50,L1 Assemblage,Robotcel,Operator afwezig,27,C,TD-08,storing herhaalt zich
+2025-07-22,14:30,L3 Extrusie,Trekbank,omstelling product,74,B,TD-01,onderdeel besteld
+2025-07-22,14:40,L1 Assemblage,Schroefstation,omstelling product,107,B,,
+2025-07-23,07:00,L3 Extrusie,Zaagunit,luchtdruk te laag,11,A,,storing herhaalt zich
+2025-07-23,19:30,L3 Extrusie,Trekbank,Sensor storing,13,B,TD-08,
+2025-07-23,19:30,L3 Extrusie,Extruder,materiaaltoevoer leeg,21,B,,
+2025-07-23,22:20,L2 Verpakking,Krimptunnel,sensor defect,18,C,TD-04,afgehandeld volgens checklist
+2025-07-24,01:40,L3 Extrusie,Trekbank,sensorstoring,9,C,TD-04,opgelost door ploeg zelf
+2025-07-24,15:15,L1 Assemblage,Robotcel,sensor defect,18,B,TD-03,
+2025-07-24,18:30,L3 Extrusie,Trekbank,smeerbeurt,48,B,TD-03,
+2025-07-24,18:55,L3 Extrusie,Zaagunit,materiaaltoevoer leeg,21,B,,
+2025-07-24,20:35,L2 Verpakking,Etiketteermachine,etiketstoring,5,B,TD-03,"tijdelijk opgelost, melding blijft staan"
+2025-07-24,21:50,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,6,B,,onderdeel besteld
+2025-07-25,00:35,L2 Verpakking,Palletiseerder,Sensor storing,13,C,,afgehandeld volgens checklist
+2025-07-25,10:40,L2 Verpakking,Krimptunnel,materiaal op,22,A,TD-03,storing herhaalt zich
+2025-07-25,14:35,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,16,B,,
+2025-07-25,22:05,L1 Assemblage,Toevoerband,materiaal op,30,C,TD-01,wachten op onderdeel
+2025-07-28,01:45,L3 Extrusie,Zaagunit,reiniging,27,C,TD-08,
+2025-07-28,06:30,L3 Extrusie,Koelbad,sensor defect,14,A,TD-06,wachten op onderdeel
+2025-07-28,16:35,L3 Extrusie,Zaagunit,sensorstoring,6,B,,
+2025-07-28,17:30,L2 Verpakking,Etiketteermachine,sensor defect,12,B,TD-04,
+2025-07-29,03:50,L3 Extrusie,Extruder,Sensor storing,25,C,,opgelost door ploeg zelf
+2025-07-29,05:50,L2 Verpakking,Etiketteermachine,etiket vastgelopen,8,C,TD-04,storing herhaalt zich
+2025-07-29,10:05,L3 Extrusie,Trekbank,Sensor storing,15,A,,monteur opgeroepen
+2025-07-29,11:50,L1 Assemblage,Testcel,lagerbreuk,102,A,TD-02,afgehandeld volgens checklist
+2025-07-29,11:55,L1 Assemblage,Toevoerband,reiniging,34,A,TD-05,
+2025-07-30,09:50,L2 Verpakking,Krimptunnel,materiaaltoevoer leeg,23,A,TD-02,onderdeel besteld
+2025-07-30,16:30,L1 Assemblage,Testcel,sensor defect,7,B,TD-01,opgelost door ploeg zelf
+2025-07-30,19:10,L2 Verpakking,Vulmachine,afkeur controle,48,B,TD-02,onderdeel besteld
+2025-07-30,19:25,L1 Assemblage,Toevoerband,lagerbreuk,157,B,TD-08,
+2025-07-31,10:40,L2 Verpakking,Etiketteermachine,etiket vastgelopen,18,A,TD-05,
+2025-07-31,11:25,L2 Verpakking,Krimptunnel,Omstelling,119,A,TD-05,
+2025-07-31,12:00,L3 Extrusie,Extruder,Perslucht te laag,26,A,TD-03,onderdeel besteld
+2025-08-01,00:30,L3 Extrusie,Trekbank,sensor storing,20,C,TD-07,
+2025-08-01,04:05,L2 Verpakking,Etiketteermachine,Operator afwezig,12,C,,monteur opgeroepen
+2025-08-01,17:35,L1 Assemblage,Testcel,Omstelling,110,B,TD-05,
+2025-08-01,18:15,L3 Extrusie,Extruder,Sensor storing,9,B,TD-04,wachten op onderdeel
+2025-08-01,19:40,L1 Assemblage,Robotcel,sensorstoring,4,B,TD-02,wachten op onderdeel
+2025-08-04,01:00,L1 Assemblage,Testcel,reiniging,29,C,TD-02,
+2025-08-04,04:15,L1 Assemblage,Schroefstation,storing besturing,47,C,TD-06,tweede keer deze week
+2025-08-04,07:55,L1 Assemblage,Testcel,sensor storing,25,A,TD-01,tweede keer deze week
+2025-08-04,09:00,L1 Assemblage,Robotcel,lager vervangen,98,A,TD-07,
+2025-08-04,12:35,L3 Extrusie,Koelbad,sensor defect,23,A,TD-05,opgelost door ploeg zelf
+2025-08-04,18:35,L1 Assemblage,Schroefstation,Besturing storing,71,B,,
+2025-08-04,19:55,L3 Extrusie,Extruder,reiniging,44,B,TD-03,tweede keer deze week
+2025-08-05,00:55,L3 Extrusie,Zaagunit,persluchtstoring,8,C,TD-01,
+2025-08-05,10:40,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,11,A,TD-08,onderdeel besteld
+2025-08-05,15:50,L2 Verpakking,Palletiseerder,storing besturing,113,B,TD-08,storing herhaalt zich
+2025-08-05,19:35,L2 Verpakking,Etiketteermachine,sensor defect,4,B,TD-06,opgelost door ploeg zelf
+2025-08-06,03:40,L3 Extrusie,Koelbad,stroomstoring,79,C,TD-03,monteur opgeroepen
+2025-08-06,07:10,L3 Extrusie,Extruder,plc-storing,112,A,TD-02,opgelost door ploeg zelf
+2025-08-06,14:05,L3 Extrusie,Zaagunit,Reiniging,26,B,TD-03,
+2025-08-06,15:55,L1 Assemblage,Robotcel,kwaliteitscontrole afkeur,53,B,TD-03,
+2025-08-06,21:50,L1 Assemblage,Schroefstation,sensorstoring,4,B,TD-02,tweede keer deze week
+2025-08-07,00:05,L3 Extrusie,Zaagunit,operator afwezig,54,C,TD-08,onderdeel besteld
+2025-08-07,05:35,L2 Verpakking,Etiketteermachine,etiketstoring,10,C,TD-01,
+2025-08-07,11:25,L3 Extrusie,Koelbad,kwaliteitscontrole afkeur,43,A,TD-03,storing herhaalt zich
+2025-08-07,17:05,L1 Assemblage,Schroefstation,reiniging,27,B,TD-06,afgehandeld volgens checklist
+2025-08-07,17:05,L3 Extrusie,Extruder,Matrijswissel,86,B,TD-06,
+2025-08-07,19:00,L3 Extrusie,Trekbank,Besturing storing,29,B,TD-07,tweede keer deze week
+2025-08-07,19:50,L1 Assemblage,Robotcel,personeelstekort,10,B,TD-02,tweede keer deze week
+2025-08-08,01:30,L3 Extrusie,Extruder,Extruder verstopt,203,C,TD-01,tweede keer deze week
+2025-08-08,01:40,L1 Assemblage,Robotcel,sensor storing,18,C,TD-02,
+2025-08-08,16:35,L3 Extrusie,Extruder,Extruder verstopt,147,B,,afgehandeld volgens checklist
+2025-08-08,19:35,L3 Extrusie,Extruder,extruder verstopt,113,B,TD-05,afgehandeld volgens checklist
+2025-08-08,21:05,L2 Verpakking,Etiketteermachine,reiniging,20,B,TD-08,onderdeel besteld
+2025-08-11,04:05,L1 Assemblage,Robotcel,operator afwezig,59,C,TD-04,opgelost door ploeg zelf
+2025-08-11,04:15,L1 Assemblage,Toevoerband,Lager vervangen,145,C,,tweede keer deze week
+2025-08-11,10:35,L2 Verpakking,Etiketteermachine,etiket vastgelopen,14,A,TD-07,
+2025-08-11,11:50,L3 Extrusie,Trekbank,Sensor storing,13,A,TD-04,
+2025-08-11,16:05,L3 Extrusie,Extruder,omstelling product,55,B,TD-06,
+2025-08-11,21:00,L3 Extrusie,Zaagunit,materiaal op,16,B,TD-01,
+2025-08-12,08:45,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,6,A,TD-03,
+2025-08-12,10:05,L2 Verpakking,Krimptunnel,sensor storing,16,A,TD-08,"tijdelijk opgelost, melding blijft staan"
+2025-08-12,19:55,L3 Extrusie,Extruder,PLC storing,26,B,,wachten op onderdeel
+2025-08-12,22:25,L3 Extrusie,Trekbank,Besturing storing,93,C,TD-07,storing herhaalt zich
+2025-08-13,03:45,L3 Extrusie,Trekbank,sensor storing,22,C,TD-04,"tijdelijk opgelost, melding blijft staan"
+2025-08-13,09:10,L2 Verpakking,Krimptunnel,storing besturing,87,A,TD-02,storing herhaalt zich
+2025-08-13,10:00,L1 Assemblage,Robotcel,sensorstoring,10,A,TD-05,afgehandeld volgens checklist
+2025-08-13,14:50,L3 Extrusie,Zaagunit,smeerbeurt,69,B,TD-04,
+2025-08-13,15:10,L3 Extrusie,Extruder,sensor defect,15,B,TD-06,"tijdelijk opgelost, melding blijft staan"
+2025-08-13,17:35,L2 Verpakking,Etiketteermachine,etiketstoring,7,B,TD-02,monteur opgeroepen
+2025-08-14,01:40,L1 Assemblage,Robotcel,sensorstoring,13,C,TD-01,
+2025-08-14,04:50,L2 Verpakking,Krimptunnel,sensor defect,23,C,,storing herhaalt zich
+2025-08-14,09:55,L2 Verpakking,Etiketteermachine,reiniging tussen batches,26,A,TD-06,
+2025-08-14,16:20,L2 Verpakking,Etiketteermachine,reiniging,35,B,,
+2025-08-14,16:40,L2 Verpakking,Etiketteermachine,etiket vastgelopen,16,B,,
+2025-08-15,02:00,L1 Assemblage,Toevoerband,persluchtstoring,26,C,TD-05,
+2025-08-15,07:35,L2 Verpakking,Vulmachine,personeelstekort,49,A,,
+2025-08-15,07:50,L3 Extrusie,Extruder,sensor storing,24,A,TD-04,
+2025-08-15,12:10,L2 Verpakking,Krimptunnel,sensor storing,15,A,TD-06,wachten op onderdeel
+2025-08-15,14:20,L1 Assemblage,Robotcel,Materiaal op,6,B,TD-06,tweede keer deze week
+2025-08-15,15:35,L1 Assemblage,Schroefstation,kwaliteitscontrole afkeur,46,B,TD-02,
+2025-08-15,18:10,L1 Assemblage,Schroefstation,omstelling product,93,B,,afgehandeld volgens checklist
+2025-08-18,02:50,L2 Verpakking,Etiketteermachine,etiketstoring,18,C,TD-06,"tijdelijk opgelost, melding blijft staan"
+2025-08-18,03:50,L3 Extrusie,Koelbad,omstelling,136,C,TD-02,storing herhaalt zich
+2025-08-18,04:05,L2 Verpakking,Etiketteermachine,etiket vastgelopen,14,C,TD-03,monteur opgeroepen
+2025-08-18,14:30,L3 Extrusie,Zaagunit,afkeur controle,23,B,TD-03,
+2025-08-18,23:00,L2 Verpakking,Vulmachine,omstelling,55,C,TD-06,wachten op onderdeel
+2025-08-19,09:20,L1 Assemblage,Robotcel,operator afwezig,11,A,TD-03,opgelost door ploeg zelf
+2025-08-19,09:30,L1 Assemblage,Toevoerband,plc-storing,50,A,TD-07,opgelost door ploeg zelf
+2025-08-19,10:05,L2 Verpakking,Etiketteermachine,etiketstoring,5,A,TD-08,
+2025-08-19,15:45,L2 Verpakking,Krimptunnel,sensor storing,8,B,TD-01,wachten op onderdeel
+2025-08-19,18:30,L2 Verpakking,Vulmachine,kwaliteitscontrole afkeur,53,B,TD-06,"tijdelijk opgelost, melding blijft staan"
+2025-08-19,18:40,L1 Assemblage,Robotcel,sensor defect,7,B,TD-02,opgelost door ploeg zelf
+2025-08-19,23:25,L3 Extrusie,Zaagunit,materiaal op,17,C,TD-07,"tijdelijk opgelost, melding blijft staan"
+2025-08-20,02:35,L1 Assemblage,Schroefstation,Materiaal op,7,C,TD-08,
+2025-08-20,04:25,L2 Verpakking,Etiketteermachine,etiket vastgelopen,16,C,TD-01,
+2025-08-20,16:00,L3 Extrusie,Extruder,reiniging,37,B,TD-02,
+2025-08-20,17:15,L1 Assemblage,Schroefstation,Perslucht te laag,10,B,TD-08,
+2025-08-20,19:55,L3 Extrusie,Zaagunit,gepland onderhoud,31,B,TD-05,monteur opgeroepen
+2025-08-20,21:50,L1 Assemblage,Toevoerband,smeerbeurt,44,B,TD-08,
+2025-08-21,07:20,L1 Assemblage,Schroefstation,sensorstoring,10,A,,
+2025-08-21,11:25,L2 Verpakking,Krimptunnel,personeelstekort,27,A,TD-07,afgehandeld volgens checklist
+2025-08-21,16:05,L1 Assemblage,Testcel,materiaal op,28,B,TD-06,monteur opgeroepen
+2025-08-21,18:40,L1 Assemblage,Toevoerband,reiniging,37,B,TD-05,
+2025-08-22,01:00,L3 Extrusie,Extruder,PLC storing,69,C,TD-02,opgelost door ploeg zelf
+2025-08-22,01:55,L1 Assemblage,Testcel,materiaaltoevoer leeg,5,C,TD-04,storing herhaalt zich
+2025-08-22,08:25,L2 Verpakking,Etiketteermachine,omstelling product,159,A,,
+2025-08-22,17:40,L2 Verpakking,Palletiseerder,PLC storing,89,B,TD-03,
+2025-08-25,01:50,L3 Extrusie,Extruder,reiniging,35,C,,onderdeel besteld
+2025-08-25,14:45,L3 Extrusie,Koelbad,omstelling,99,B,TD-02,opgelost door ploeg zelf
+2025-08-25,23:40,L3 Extrusie,Zaagunit,lagerbreuk,109,C,TD-04,afgehandeld volgens checklist
+2025-08-26,00:15,L1 Assemblage,Schroefstation,sensorstoring,19,C,TD-03,
+2025-08-26,15:35,L2 Verpakking,Krimptunnel,PLC storing,80,B,TD-02,
+2025-08-26,15:55,L1 Assemblage,Testcel,PLC storing,74,B,TD-04,
+2025-08-26,21:50,L3 Extrusie,Extruder,Matrijswissel,162,B,TD-06,
+2025-08-26,22:00,L3 Extrusie,Koelbad,reiniging,41,C,,storing herhaalt zich
+2025-08-27,04:45,L1 Assemblage,Robotcel,PLC storing,62,C,TD-06,
+2025-08-27,13:05,L2 Verpakking,Etiketteermachine,Reiniging,32,A,TD-04,
+2025-08-27,15:25,L2 Verpakking,Krimptunnel,Besturing storing,47,B,TD-08,"tijdelijk opgelost, melding blijft staan"
+2025-08-27,21:55,L3 Extrusie,Trekbank,Besturing storing,99,B,TD-08,wachten op onderdeel
+2025-08-28,01:15,L1 Assemblage,Robotcel,materiaal op,11,C,TD-08,afgehandeld volgens checklist
+2025-08-28,09:15,L1 Assemblage,Robotcel,PLC storing,77,A,TD-02,
+2025-08-28,10:35,L3 Extrusie,Trekbank,Afkeur,50,A,TD-05,storing herhaalt zich
+2025-08-28,17:10,L3 Extrusie,Extruder,Extruder verstopt,112,B,TD-01,
+2025-08-29,05:35,L1 Assemblage,Schroefstation,persluchtstoring,34,C,TD-04,afgehandeld volgens checklist
+2025-08-29,08:15,L3 Extrusie,Zaagunit,geen materiaal,8,A,,
+2025-08-29,21:55,L2 Verpakking,Etiketteermachine,reiniging,36,B,TD-06,
+2025-08-29,23:30,L1 Assemblage,Robotcel,Besturing storing,37,C,TD-03,
+2025-09-01,01:40,L3 Extrusie,Extruder,extruder verstopt,86,C,TD-05,onderdeel besteld
+2025-09-01,11:50,L1 Assemblage,Schroefstation,Reiniging,40,A,TD-05,opgelost door ploeg zelf
+2025-09-01,15:25,L3 Extrusie,Extruder,Extruder verstopt,171,B,,
+2025-09-01,16:55,L2 Verpakking,Krimptunnel,Gepland onderhoud,52,B,TD-03,
+2025-09-01,18:45,L3 Extrusie,Koelbad,lagerbreuk,167,B,TD-04,
+2025-09-01,21:10,L2 Verpakking,Etiketteermachine,etiket vastgelopen,10,B,TD-05,
+2025-09-02,11:30,L1 Assemblage,Schroefstation,sensor defect,11,A,TD-04,tweede keer deze week
+2025-09-02,14:10,L2 Verpakking,Palletiseerder,Afkeur,45,B,,monteur opgeroepen
+2025-09-02,14:10,L2 Verpakking,Etiketteermachine,sensorstoring,19,B,TD-06,
+2025-09-02,14:40,L3 Extrusie,Trekbank,Besturing storing,73,B,TD-04,afgehandeld volgens checklist
+2025-09-02,17:15,L1 Assemblage,Toevoerband,PLC storing,0,B,TD-04,wachten op onderdeel
+2025-09-02,18:00,L3 Extrusie,Koelbad,afkeur controle,30,B,,wachten op onderdeel
+2025-09-02,21:05,L1 Assemblage,Schroefstation,sensor defect,14,B,TD-02,
+2025-09-02,22:45,L1 Assemblage,Toevoerband,afkeur controle,46,C,,
+2025-09-03,09:20,L2 Verpakking,Etiketteermachine,etiket vastgelopen,10,A,,
+2025-09-03,12:30,L2 Verpakking,Vulmachine,sensor defect,10,A,TD-01,onderdeel besteld
+2025-09-03,15:15,L1 Assemblage,Toevoerband,personeelstekort,44,B,TD-03,wachten op onderdeel
+2025-09-03,19:40,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,16,B,,opgelost door ploeg zelf
+2025-09-03,21:40,L3 Extrusie,Koelbad,luchtdruk te laag,13,B,TD-03,
+2025-09-04,07:25,L3 Extrusie,Trekbank,afkeur controle,61,A,,afgehandeld volgens checklist
+2025-09-04,09:30,L2 Verpakking,Palletiseerder,persluchtstoring,33,A,TD-04,wachten op onderdeel
+2025-09-04,13:35,L2 Verpakking,Etiketteermachine,etiketstoring,18,A,TD-01,storing herhaalt zich
+2025-09-04,14:25,L2 Verpakking,Etiketteermachine,reiniging tussen batches,,B,,
+2025-09-05,02:45,L1 Assemblage,Schroefstation,,14,C,TD-02,monteur opgeroepen
+2025-09-05,04:40,L3 Extrusie,Zaagunit,Sensor storing,7,C,TD-05,
+2025-09-05,06:15,L2 Verpakking,Etiketteermachine,etiketstoring,12,A,TD-04,
+2025-09-05,09:35,L2 Verpakking,Vulmachine,PLC storing,,A,TD-07,monteur opgeroepen
+2025-09-05,18:10,L1 Assemblage,Toevoerband,materiaal op,21,B,TD-03,storing herhaalt zich
+2025-09-08,02:45,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,5,C,TD-07,
+2025-09-08,04:20,L3 Extrusie,Trekbank,gepland onderhoud,54,C,TD-02,afgehandeld volgens checklist
+2025-09-08,12:05,L2 Verpakking,Palletiseerder,kwaliteitscontrole afkeur,57,A,TD-03,opgelost door ploeg zelf
+2025-09-08,23:00,L2 Verpakking,Palletiseerder,smeerbeurt,45,C,TD-07,
+2025-09-09,01:25,L1 Assemblage,Schroefstation,Omstelling,113,C,TD-05,storing herhaalt zich
+2025-09-09,03:40,L2 Verpakking,Etiketteermachine,reiniging,40,C,,
+2025-09-09,05:25,L1 Assemblage,Toevoerband,operator afwezig,42,C,TD-06,
+2025-09-09,10:20,L3 Extrusie,Extruder,extruder verstopt,222,A,,
+2025-09-09,16:50,L3 Extrusie,Zaagunit,storing besturing,71,B,,
+2025-09-09,18:30,L1 Assemblage,Testcel,Besturing storing,127,B,TD-01,wachten op onderdeel
+2025-09-09,18:40,L2 Verpakking,Etiketteermachine,etiketstoring,16,B,TD-01,storing herhaalt zich
+2025-09-09,20:00,L2 Verpakking,Vulmachine,sensor storing,23,B,TD-06,
+2025-09-10,09:05,L1 Assemblage,Testcel,Perslucht te laag,38,A,TD-01,
+2025-09-10,11:30,L2 Verpakking,Etiketteermachine,etiketstoring,17,A,TD-01,monteur opgeroepen
+2025-09-10,12:05,L2 Verpakking,Vulmachine,sensor defect,16,A,TD-05,opgelost door ploeg zelf
+2025-09-10,19:10,L2 Verpakking,Etiketteermachine,etiket vastgelopen,12,B,TD-01,opgelost door ploeg zelf
+2025-09-10,21:15,L2 Verpakking,Vulmachine,sensor storing,11,B,TD-07,
+2025-09-11,06:35,L1 Assemblage,Toevoerband,sensorstoring,24,A,TD-07,
+2025-09-11,11:00,L3 Extrusie,Koelbad,gepland onderhoud,56,A,TD-06,onderdeel besteld
+2025-09-11,18:00,L2 Verpakking,Krimptunnel,sensor defect,21,B,TD-03,
+2025-09-11,19:05,L3 Extrusie,Trekbank,materiaaltoevoer leeg,25,B,TD-02,tweede keer deze week
+2025-09-11,21:25,L1 Assemblage,Testcel,persluchtstoring,12,B,TD-08,afgehandeld volgens checklist
+2025-09-11,23:35,L2 Verpakking,Krimptunnel,luchtdruk te laag,17,C,TD-03,wachten op onderdeel
+2025-09-12,08:40,L3 Extrusie,Trekbank,sensorstoring,12,A,TD-05,
+2025-09-12,09:30,L1 Assemblage,Toevoerband,lagerbreuk,77,A,,opgelost door ploeg zelf
+2025-09-12,13:15,L2 Verpakking,Palletiseerder,PLC storing,75,A,TD-06,onderdeel besteld
+2025-09-12,13:40,L2 Verpakking,Krimptunnel,personeelstekort,29,A,TD-05,opgelost door ploeg zelf
+2025-09-12,17:15,L1 Assemblage,Robotcel,operator afwezig,23,B,TD-08,monteur opgeroepen
+2025-09-12,18:40,L3 Extrusie,Koelbad,Lager vervangen,107,B,,
+2025-09-15,05:45,L1 Assemblage,Schroefstation,omstelling product,79,C,TD-06,monteur opgeroepen
+2025-09-15,05:55,L3 Extrusie,Koelbad,sensor defect,20,C,TD-01,
+2025-09-15,07:20,L2 Verpakking,Etiketteermachine,Sensor storing,13,A,TD-03,monteur opgeroepen
+2025-09-15,11:00,L1 Assemblage,Toevoerband,Omstelling,175,A,TD-06,
+2025-09-15,12:20,L1 Assemblage,Robotcel,materiaaltoevoer leeg,,A,,
+2025-09-15,18:35,L2 Verpakking,Palletiseerder,materiaal op,19,B,TD-01,
+2025-09-15,19:45,L3 Extrusie,Trekbank,personeelstekort,59,B,,monteur opgeroepen
+2025-09-16,05:45,L2 Verpakking,Etiketteermachine,etiketstoring,9,C,TD-04,afgehandeld volgens checklist
+2025-09-16,07:40,L2 Verpakking,Etiketteermachine,etiket vastgelopen,6,A,TD-04,wachten op onderdeel
+2025-09-16,11:55,L1 Assemblage,Schroefstation,PLC storing,33,A,TD-05,opgelost door ploeg zelf
+2025-09-16,19:35,L3 Extrusie,Koelbad,geen materiaal,25,B,TD-02,monteur opgeroepen
+2025-09-16,19:55,L2 Verpakking,Palletiseerder,materiaaltoevoer leeg,13,B,TD-07,monteur opgeroepen
+2025-09-17,07:30,L2 Verpakking,Etiketteermachine,etiket vastgelopen,14,A,,
+2025-09-17,08:30,L2 Verpakking,Etiketteermachine,etiketstoring,16,A,,opgelost door ploeg zelf
+2025-09-17,09:15,L2 Verpakking,Etiketteermachine,omstelling,154,A,TD-03,opgelost door ploeg zelf
+2025-09-17,11:15,L1 Assemblage,Testcel,omstelling product,139,A,,onderdeel besteld
+2025-09-17,14:40,L3 Extrusie,Trekbank,sensor defect,10,B,TD-07,onderdeel besteld
+2025-09-17,23:00,L3 Extrusie,Zaagunit,Perslucht te laag,14,C,TD-06,
+2025-09-18,04:50,L1 Assemblage,Toevoerband,materiaal op,16,C,TD-08,tweede keer deze week
+2025-09-18,20:05,L1 Assemblage,Schroefstation,Sensor storing,6,B,TD-04,wachten op onderdeel
+2025-09-18,23:30,L2 Verpakking,Palletiseerder,Sensor storing,22,C,TD-07,onderdeel besteld
+2025-09-18,23:35,L2 Verpakking,Vulmachine,Materiaal op,19,C,TD-06,storing herhaalt zich
+2025-09-18,23:40,L1 Assemblage,Schroefstation,Sensor storing,25,C,TD-08,opgelost door ploeg zelf
+2025-09-19,01:40,L2 Verpakking,Krimptunnel,omstelling product,174,C,TD-08,tweede keer deze week
+2025-09-19,16:40,L2 Verpakking,Palletiseerder,sensor storing,18,B,,storing herhaalt zich
+2025-09-19,17:50,L3 Extrusie,Extruder,verstopping extruder,185,B,TD-07,monteur opgeroepen
+2025-09-22,00:30,L2 Verpakking,Krimptunnel,Sensor storing,19,C,TD-02,
+2025-09-22,05:30,L2 Verpakking,Krimptunnel,kwaliteitscontrole afkeur,31,C,TD-03,
+2025-09-22,08:35,L1 Assemblage,Robotcel,Gepland onderhoud,44,A,TD-08,opgelost door ploeg zelf
+2025-09-22,11:10,L2 Verpakking,Etiketteermachine,etiket vastgelopen,7,A,TD-01,afgehandeld volgens checklist
+2025-09-22,15:20,L3 Extrusie,Koelbad,sensor storing,22,B,,storing herhaalt zich
+2025-09-22,15:25,L1 Assemblage,Robotcel,sensorstoring,20,B,,
+2025-09-22,17:10,L2 Verpakking,Krimptunnel,Materiaal op,11,B,TD-06,
+2025-09-22,20:50,L2 Verpakking,Etiketteermachine,etiket vastgelopen,8,B,,tweede keer deze week
+2025-09-23,06:00,L3 Extrusie,Extruder,Gepland onderhoud,67,A,,
+2025-09-23,13:25,L1 Assemblage,Toevoerband,Afkeur,45,A,,
+2025-09-23,18:15,L3 Extrusie,Zaagunit,sensor defect,16,B,TD-07,
+2025-09-24,00:20,L1 Assemblage,Schroefstation,plc-storing,84,C,TD-04,monteur opgeroepen
+2025-09-24,14:00,L3 Extrusie,Extruder,Sensor storing,23,B,TD-05,onderdeel besteld
+2025-09-24,19:25,L1 Assemblage,Robotcel,sensorstoring,5,B,,
+2025-09-25,01:30,L1 Assemblage,Toevoerband,reiniging,48,C,TD-01,
+2025-09-25,02:05,L3 Extrusie,Extruder,extruder verstopt,153,C,TD-02,afgehandeld volgens checklist
+2025-09-25,18:40,L1 Assemblage,Schroefstation,Perslucht te laag,33,B,,onderdeel besteld
+2025-09-25,19:15,L2 Verpakking,Etiketteermachine,etiketstoring,15,B,TD-01,tweede keer deze week
+2025-09-25,23:55,L1 Assemblage,Testcel,luchtdruk te laag,27,C,TD-04,
+2025-09-26,05:00,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,10,C,TD-07,
+2025-09-26,07:30,L3 Extrusie,Zaagunit,omstelling product,150,A,TD-05,
+2025-09-26,16:00,L2 Verpakking,Vulmachine,Lager vervangen,139,B,TD-02,
+2025-09-26,16:10,L3 Extrusie,Extruder,Matrijswissel,,B,,
+2025-09-26,18:10,L2 Verpakking,Vulmachine,Reiniging,27,B,TD-01,
+2025-09-26,18:30,L2 Verpakking,Krimptunnel,storing besturing,120,B,TD-06,
+2025-09-26,19:50,L1 Assemblage,Toevoerband,persluchtstoring,28,B,TD-04,wachten op onderdeel
+2025-09-29,01:20,L2 Verpakking,Palletiseerder,reiniging tussen batches,29,C,TD-01,opgelost door ploeg zelf
+2025-09-29,02:45,L3 Extrusie,Zaagunit,materiaaltoevoer leeg,8,C,TD-04,opgelost door ploeg zelf
+2025-09-29,06:40,L3 Extrusie,Zaagunit,geen materiaal,30,A,,onderdeel besteld
+2025-09-29,15:00,L3 Extrusie,Trekbank,PLC storing,125,B,,
+2025-09-29,17:05,L1 Assemblage,Toevoerband,geen materiaal,,B,TD-01,"tijdelijk opgelost, melding blijft staan"
+2025-09-29,21:00,L3 Extrusie,Extruder,personeelstekort,44,B,,
+2025-09-29,21:15,L3 Extrusie,Zaagunit,lagerbreuk,154,B,,
+2025-09-30,04:05,L2 Verpakking,Krimptunnel,Reiniging,34,C,TD-07,monteur opgeroepen
+2025-09-30,04:20,L2 Verpakking,Etiketteermachine,storing besturing,116,C,TD-07,tweede keer deze week
+2025-09-30,06:35,L2 Verpakking,Etiketteermachine,Operator afwezig,60,A,TD-02,"tijdelijk opgelost, melding blijft staan"
+2025-09-30,15:10,L3 Extrusie,Zaagunit,materiaal op,26,B,TD-05,monteur opgeroepen
+2025-09-30,22:15,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,18,C,TD-05,tweede keer deze week
+2025-10-01,03:55,L3 Extrusie,Koelbad,kwaliteitscontrole afkeur,21,C,TD-01,wachten op onderdeel
+2025-10-01,06:15,L3 Extrusie,Extruder,sensor defect,7,A,TD-02,
+2025-10-01,06:30,L1 Assemblage,Testcel,reiniging,38,A,TD-05,tweede keer deze week
+2025-10-01,15:15,L3 Extrusie,Koelbad,Materiaal op,30,B,TD-02,
+2025-10-01,16:55,L1 Assemblage,Robotcel,reiniging,45,B,TD-05,"tijdelijk opgelost, melding blijft staan"
+2025-10-02,02:10,L3 Extrusie,Extruder,sensorstoring,4,C,TD-05,afgehandeld volgens checklist
+2025-10-02,04:40,L2 Verpakking,Etiketteermachine,etiket vastgelopen,9,C,TD-01,opgelost door ploeg zelf
+2025-10-02,08:05,L3 Extrusie,Extruder,extruder verstopt,203,A,TD-01,
+2025-10-02,10:10,L2 Verpakking,Etiketteermachine,etiket vastgelopen,6,A,,storing herhaalt zich
+2025-10-02,13:00,L2 Verpakking,Palletiseerder,sensor defect,18,A,TD-04,
+2025-10-02,14:15,L2 Verpakking,Palletiseerder,Sensor storing,24,B,TD-08,"tijdelijk opgelost, melding blijft staan"
+2025-10-02,18:25,L1 Assemblage,Robotcel,spanningsuitval,61,B,TD-04,monteur opgeroepen
+2025-10-03,05:25,L3 Extrusie,Extruder,Omstelling,78,C,TD-03,tweede keer deze week
+2025-10-03,05:30,L2 Verpakking,Vulmachine,luchtdruk te laag,33,C,TD-08,
+2025-10-03,16:00,L3 Extrusie,Extruder,geen materiaal,20,B,TD-01,wachten op onderdeel
+2025-10-06,07:25,L1 Assemblage,Testcel,sensor defect,22,A,TD-08,storing herhaalt zich
+2025-10-06,07:55,L1 Assemblage,Toevoerband,afkeur controle,42,A,TD-07,"tijdelijk opgelost, melding blijft staan"
+2025-10-06,17:15,L1 Assemblage,Robotcel,Materiaal op,26,B,TD-06,
+2025-10-07,05:15,L2 Verpakking,Vulmachine,reiniging tussen batches,35,C,TD-06,monteur opgeroepen
+2025-10-07,09:25,L1 Assemblage,Toevoerband,Perslucht te laag,21,A,,
+2025-10-07,10:15,L2 Verpakking,Vulmachine,geen materiaal,20,A,TD-02,afgehandeld volgens checklist
+2025-10-07,15:25,L1 Assemblage,Testcel,Sensor storing,6,B,TD-06,monteur opgeroepen
+2025-10-07,16:00,L1 Assemblage,Toevoerband,PLC storing,33,B,TD-08,wachten op onderdeel
+2025-10-07,21:15,L1 Assemblage,Schroefstation,sensorstoring,22,B,TD-01,opgelost door ploeg zelf
+2025-10-07,22:00,L3 Extrusie,Trekbank,omstelling,141,C,TD-06,
+2025-10-07,23:30,L2 Verpakking,Etiketteermachine,Gepland onderhoud,37,C,,opgelost door ploeg zelf
+2025-10-08,03:15,L2 Verpakking,Krimptunnel,omstelling,62,C,TD-05,afgehandeld volgens checklist
+2025-10-08,03:20,L3 Extrusie,Zaagunit,Sensor storing,,C,,tweede keer deze week
+2025-10-08,09:20,L3 Extrusie,Extruder,geen materiaal,20,A,TD-01,afgehandeld volgens checklist
+2025-10-08,22:55,L3 Extrusie,Extruder,sensor storing,19,C,TD-05,
+2025-10-08,23:50,L1 Assemblage,Toevoerband,Gepland onderhoud,70,C,,
+2025-10-09,02:15,L2 Verpakking,Palletiseerder,afkeur controle,56,C,TD-03,monteur opgeroepen
+2025-10-09,09:45,L1 Assemblage,Robotcel,storing besturing,48,A,TD-06,monteur opgeroepen
+2025-10-09,10:25,L1 Assemblage,Schroefstation,sensor storing,24,A,TD-05,opgelost door ploeg zelf
+2025-10-09,12:15,L1 Assemblage,Toevoerband,Reiniging,47,A,,tweede keer deze week
+2025-10-09,16:50,L1 Assemblage,Schroefstation,sensorstoring,7,B,TD-06,opgelost door ploeg zelf
+2025-10-09,18:50,L1 Assemblage,Schroefstation,spanningsuitval,82,B,TD-04,opgelost door ploeg zelf
+2025-10-09,18:50,L2 Verpakking,Krimptunnel,Omstelling,68,B,TD-04,storing herhaalt zich
+2025-10-10,06:15,L3 Extrusie,Koelbad,reiniging,23,A,TD-03,
+2025-10-10,21:10,L2 Verpakking,Vulmachine,sensorstoring,5,B,TD-08,
+2025-10-10,23:40,L2 Verpakking,Krimptunnel,materiaaltoevoer leeg,22,C,TD-03,storing herhaalt zich
+2025-10-13,04:25,L3 Extrusie,Koelbad,Besturing storing,59,C,TD-01,
+2025-10-13,07:50,L1 Assemblage,Schroefstation,afkeur controle,51,A,TD-05,
+2025-10-13,14:45,L2 Verpakking,Palletiseerder,sensor storing,17,B,TD-01,
+2025-10-13,14:55,L1 Assemblage,Toevoerband,Sensor storing,6,B,,
+2025-10-13,18:20,L3 Extrusie,Extruder,Extruder verstopt,169,B,TD-01,afgehandeld volgens checklist
+2025-10-13,21:15,L1 Assemblage,Testcel,materiaal op,29,B,TD-03,
+2025-10-14,01:05,L1 Assemblage,Robotcel,materiaal op,13,C,TD-03,
+2025-10-14,05:15,L3 Extrusie,Koelbad,Materiaal op,14,C,,
+2025-10-14,08:30,L3 Extrusie,Extruder,matrijswissel,140,A,TD-08,wachten op onderdeel
+2025-10-14,12:55,L3 Extrusie,Extruder,verstopping extruder,211,A,TD-01,
+2025-10-14,18:10,L1 Assemblage,Testcel,materiaaltoevoer leeg,21,B,TD-02,
+2025-10-14,18:25,L2 Verpakking,Palletiseerder,luchtdruk te laag,20,B,,monteur opgeroepen
+2025-10-14,21:10,L2 Verpakking,Palletiseerder,reiniging tussen batches,36,B,TD-04,wachten op onderdeel
+2025-10-15,07:45,L2 Verpakking,Palletiseerder,Omstelling,151,A,TD-06,
+2025-10-15,09:25,L3 Extrusie,Zaagunit,sensor storing,16,A,TD-03,tweede keer deze week
+2025-10-15,14:05,L2 Verpakking,Krimptunnel,omstelling product,129,B,TD-04,wachten op onderdeel
+2025-10-15,16:35,L2 Verpakking,Vulmachine,sensor storing,15,B,,
+2025-10-15,21:20,L3 Extrusie,Koelbad,sensor defect,25,B,,
+2025-10-16,00:35,L1 Assemblage,Testcel,sensorstoring,16,C,TD-07,onderdeel besteld
+2025-10-16,10:00,L2 Verpakking,Etiketteermachine,etiket vastgelopen,16,A,TD-01,
+2025-10-16,13:00,L1 Assemblage,Toevoerband,personeelstekort,33,A,TD-06,
+2025-10-16,13:10,L3 Extrusie,Zaagunit,reiniging,50,A,TD-05,
+2025-10-16,15:25,L1 Assemblage,Toevoerband,luchtdruk te laag,25,B,TD-07,afgehandeld volgens checklist
+2025-10-16,21:35,L2 Verpakking,Krimptunnel,Omstelling,118,B,TD-02,tweede keer deze week
+2025-10-17,06:25,L2 Verpakking,Krimptunnel,Materiaal op,13,A,,tweede keer deze week
+2025-10-17,11:35,L1 Assemblage,Toevoerband,Afkeur,18,A,TD-05,onderdeel besteld
+2025-10-17,18:35,L2 Verpakking,Etiketteermachine,etiket vastgelopen,6,B,,afgehandeld volgens checklist
+2025-10-17,23:15,L2 Verpakking,Krimptunnel,personeelstekort,22,C,TD-06,
+2025-10-20,01:25,L3 Extrusie,Extruder,sensorstoring,22,C,TD-05,
+2025-10-20,05:20,L3 Extrusie,Trekbank,materiaaltoevoer leeg,22,C,TD-08,
+2025-10-20,06:05,L2 Verpakking,Etiketteermachine,etiketstoring,12,A,TD-06,storing herhaalt zich
+2025-10-20,08:15,L3 Extrusie,Extruder,extruder verstopt,200,A,TD-08,onderdeel besteld
+2025-10-20,16:10,L1 Assemblage,Testcel,geen materiaal,25,B,TD-02,onderdeel besteld
+2025-10-20,20:25,L1 Assemblage,Toevoerband,Stroomuitval,76,B,TD-03,
+2025-10-21,06:50,L1 Assemblage,Schroefstation,Operator afwezig,27,A,,"tijdelijk opgelost, melding blijft staan"
+2025-10-21,10:55,L1 Assemblage,Robotcel,operator afwezig,30,A,TD-04,"tijdelijk opgelost, melding blijft staan"
+2025-10-21,11:20,L2 Verpakking,Palletiseerder,sensorstoring,7,A,TD-08,
+2025-10-21,15:00,L2 Verpakking,Etiketteermachine,etiketstoring,18,B,TD-01,tweede keer deze week
+2025-10-21,16:15,L3 Extrusie,Extruder,verstopping extruder,91,B,TD-08,onderdeel besteld
+2025-10-21,20:05,L2 Verpakking,Vulmachine,sensor defect,9,B,TD-05,
+2025-10-21,20:30,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,8,B,TD-05,
+2025-10-22,01:40,L2 Verpakking,Etiketteermachine,etiketstoring,13,C,,tweede keer deze week
+2025-10-22,06:35,L1 Assemblage,Testcel,Omstelling,83,A,TD-07,"tijdelijk opgelost, melding blijft staan"
+2025-10-22,07:15,L1 Assemblage,Schroefstation,sensorstoring,13,A,TD-06,
+2025-10-22,08:05,L1 Assemblage,Testcel,Sensor storing,5,A,,tweede keer deze week
+2025-10-22,16:00,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,16,B,TD-05,
+2025-10-22,16:40,L3 Extrusie,Extruder,Materiaal op,11,B,TD-06,
+2025-10-22,20:35,L3 Extrusie,Extruder,matrijswissel,89,B,,storing herhaalt zich
+2025-10-23,00:25,L1 Assemblage,Robotcel,persluchtstoring,21,C,,onderdeel besteld
+2025-10-23,01:25,L2 Verpakking,Krimptunnel,PLC storing,95,C,TD-05,
+2025-10-23,02:00,L3 Extrusie,Extruder,reiniging,30,C,TD-03,"tijdelijk opgelost, melding blijft staan"
+2025-10-23,06:15,L3 Extrusie,Extruder,storing besturing,87,A,TD-03,
+2025-10-23,09:10,L3 Extrusie,Koelbad,Sensor storing,12,A,TD-04,opgelost door ploeg zelf
+2025-10-23,15:10,L2 Verpakking,Vulmachine,luchtdruk te laag,18,B,,
+2025-10-23,21:05,L1 Assemblage,Schroefstation,Gepland onderhoud,55,B,TD-04,monteur opgeroepen
+2025-10-24,06:55,L3 Extrusie,Extruder,persluchtstoring,16,A,TD-03,afgehandeld volgens checklist
+2025-10-24,15:25,L2 Verpakking,Etiketteermachine,sensor defect,23,B,TD-05,storing herhaalt zich
+2025-10-24,16:50,L3 Extrusie,Trekbank,storing besturing,74,B,,
+2025-10-24,17:15,L2 Verpakking,Etiketteermachine,lager vervangen,71,B,TD-05,
+2025-10-27,05:30,L3 Extrusie,Trekbank,sensorstoring,22,C,TD-01,monteur opgeroepen
+2025-10-27,06:00,L2 Verpakking,Etiketteermachine,Gepland onderhoud,48,A,TD-07,tweede keer deze week
+2025-10-27,07:15,L2 Verpakking,Etiketteermachine,,9,A,TD-02,
+2025-10-27,07:40,L3 Extrusie,Zaagunit,reiniging,45,A,,wachten op onderdeel
+2025-10-28,02:15,L2 Verpakking,Etiketteermachine,etiketstoring,9,C,TD-07,
+2025-10-28,04:50,L3 Extrusie,Extruder,Matrijswissel,179,C,TD-08,opgelost door ploeg zelf
+2025-10-28,09:25,L1 Assemblage,Schroefstation,storing besturing,83,A,TD-03,
+2025-10-28,17:20,L2 Verpakking,Krimptunnel,Materiaal op,18,B,TD-08,
+2025-10-28,23:50,L3 Extrusie,Zaagunit,Afkeur,49,C,TD-07,
+2025-10-29,05:45,L1 Assemblage,Toevoerband,materiaaltoevoer leeg,29,C,,afgehandeld volgens checklist
+2025-10-29,08:45,L1 Assemblage,Toevoerband,Sensor storing,23,A,TD-08,
+2025-10-29,11:45,L2 Verpakking,Etiketteermachine,etiketstoring,10,A,TD-02,tweede keer deze week
+2025-10-29,12:10,L1 Assemblage,Schroefstation,PLC storing,125,A,,
+2025-10-29,12:40,L2 Verpakking,Etiketteermachine,etiket vastgelopen,5,A,TD-07,opgelost door ploeg zelf
+2025-10-29,22:00,L1 Assemblage,Testcel,sensor defect,17,C,TD-06,
+2025-10-30,11:35,L3 Extrusie,Extruder,sensor defect,24,A,TD-06,storing herhaalt zich
+2025-10-30,16:00,L3 Extrusie,Trekbank,Reiniging,26,B,TD-08,afgehandeld volgens checklist
+2025-10-30,17:50,L2 Verpakking,Etiketteermachine,storing besturing,80,B,TD-05,storing herhaalt zich
+2025-10-30,21:25,L3 Extrusie,Extruder,extruder verstopt,98,B,TD-03,
+2025-10-31,12:00,L3 Extrusie,Koelbad,persluchtstoring,40,A,TD-02,monteur opgeroepen
+2025-10-31,13:40,L1 Assemblage,Robotcel,reiniging tussen batches,31,A,TD-01,
+2025-10-31,14:35,L3 Extrusie,Trekbank,Afkeur,22,B,TD-08,wachten op onderdeel
+2025-10-31,17:05,L3 Extrusie,Koelbad,materiaaltoevoer leeg,13,B,TD-03,afgehandeld volgens checklist
+2025-10-31,17:25,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,5,B,TD-01,
+2025-10-31,17:25,L2 Verpakking,Etiketteermachine,sensor storing,15,B,TD-08,
+2025-10-31,20:30,L1 Assemblage,Toevoerband,Omstelling,137,B,,
+2025-10-31,22:50,L2 Verpakking,Etiketteermachine,etiketstoring,13,C,TD-04,storing herhaalt zich
+2025-11-03,03:40,L1 Assemblage,Schroefstation,persluchtstoring,27,C,,storing herhaalt zich
+2025-11-03,04:50,L1 Assemblage,Schroefstation,Besturing storing,57,C,TD-01,
+2025-11-03,09:40,L2 Verpakking,Vulmachine,materiaal op,17,A,TD-03,opgelost door ploeg zelf
+2025-11-03,11:20,L2 Verpakking,Krimptunnel,sensor storing,18,A,TD-03,
+2025-11-03,21:25,L1 Assemblage,Robotcel,sensorstoring,11,B,TD-06,wachten op onderdeel
+2025-11-04,01:10,L2 Verpakking,Etiketteermachine,etiket vastgelopen,6,C,TD-06,storing herhaalt zich
+2025-11-04,15:35,L3 Extrusie,Koelbad,storing besturing,79,B,TD-03,
+2025-11-04,17:45,L1 Assemblage,Toevoerband,luchtdruk te laag,27,B,,tweede keer deze week
+2025-11-04,18:20,L2 Verpakking,Vulmachine,afkeur controle,44,B,,onderdeel besteld
+2025-11-04,22:35,L2 Verpakking,Etiketteermachine,etiket vastgelopen,4,C,,
+2025-11-05,10:55,L1 Assemblage,Robotcel,personeelstekort,21,A,TD-03,monteur opgeroepen
+2025-11-05,11:00,L3 Extrusie,Zaagunit,Afkeur,42,A,TD-01,storing herhaalt zich
+2025-11-05,18:20,L3 Extrusie,Zaagunit,kwaliteitscontrole afkeur,29,B,TD-03,opgelost door ploeg zelf
+2025-11-05,21:45,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,14,B,TD-07,storing herhaalt zich
+2025-11-06,02:40,L3 Extrusie,Trekbank,afkeur controle,48,C,TD-06,tweede keer deze week
+2025-11-06,10:30,L2 Verpakking,Vulmachine,materiaal op,20,A,,opgelost door ploeg zelf
+2025-11-06,18:00,L2 Verpakking,Krimptunnel,Omstelling,182,B,TD-03,tweede keer deze week
+2025-11-06,18:00,L2 Verpakking,Palletiseerder,persluchtstoring,17,B,,opgelost door ploeg zelf
+2025-11-06,20:10,L3 Extrusie,Koelbad,smeerbeurt,41,B,TD-01,
+2025-11-06,21:35,L3 Extrusie,Extruder,Materiaal op,25,B,TD-02,
+2025-11-07,10:15,L2 Verpakking,Krimptunnel,sensorstoring,22,A,TD-06,monteur opgeroepen
+2025-11-07,11:30,L1 Assemblage,Robotcel,sensorstoring,20,A,TD-03,
+2025-11-07,13:05,L2 Verpakking,Krimptunnel,omstelling product,153,A,TD-03,opgelost door ploeg zelf
+2025-11-07,19:15,L1 Assemblage,Robotcel,kwaliteitscontrole afkeur,64,B,TD-01,
+2025-11-07,21:55,L2 Verpakking,Etiketteermachine,etiketstoring,18,B,TD-04,
+2025-11-10,06:45,L3 Extrusie,Zaagunit,sensorstoring,15,A,TD-04,opgelost door ploeg zelf
+2025-11-10,09:35,L2 Verpakking,Krimptunnel,persluchtstoring,36,A,TD-08,
+2025-11-10,14:25,L2 Verpakking,Krimptunnel,sensor storing,5,B,,storing herhaalt zich
+2025-11-10,22:05,L3 Extrusie,Trekbank,sensorstoring,22,C,TD-06,afgehandeld volgens checklist
+2025-11-10,22:35,L3 Extrusie,Koelbad,sensor storing,12,C,TD-07,
+2025-11-11,03:20,L3 Extrusie,Extruder,omstelling product,69,C,TD-07,opgelost door ploeg zelf
+2025-11-11,04:30,L1 Assemblage,Testcel,PLC storing,104,C,,
+2025-11-11,06:05,L2 Verpakking,Vulmachine,Afkeur,24,A,TD-07,tweede keer deze week
+2025-11-11,14:00,L1 Assemblage,Robotcel,Sensor storing,4,B,TD-03,onderdeel besteld
+2025-11-11,20:00,L2 Verpakking,Etiketteermachine,materiaal op,10,B,TD-04,
+2025-11-12,10:35,L3 Extrusie,Extruder,Extruder verstopt,177,A,TD-04,onderdeel besteld
+2025-11-12,15:10,L2 Verpakking,Vulmachine,sensor defect,16,B,,
+2025-11-12,16:00,L2 Verpakking,Etiketteermachine,personeelstekort,13,B,,opgelost door ploeg zelf
+2025-11-12,17:35,L3 Extrusie,Trekbank,Materiaal op,21,B,,
+2025-11-12,18:35,L2 Verpakking,Etiketteermachine,sensor defect,21,B,TD-01,opgelost door ploeg zelf
+2025-11-13,07:10,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,9,A,TD-04,afgehandeld volgens checklist
+2025-11-13,09:05,L1 Assemblage,Robotcel,omstelling,57,A,TD-05,
+2025-11-13,13:50,L3 Extrusie,Extruder,Sensor storing,7,A,TD-06,tweede keer deze week
+2025-11-14,05:35,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,7,C,TD-08,
+2025-11-14,07:15,L1 Assemblage,Robotcel,stroomstoring,44,A,TD-07,opgelost door ploeg zelf
+2025-11-14,10:50,L2 Verpakking,Palletiseerder,sensor defect,17,A,TD-04,opgelost door ploeg zelf
+2025-11-14,10:50,L3 Extrusie,Extruder,Materiaal op,19,A,TD-02,"tijdelijk opgelost, melding blijft staan"
+2025-11-14,13:15,L3 Extrusie,Trekbank,materiaaltoevoer leeg,23,A,,afgehandeld volgens checklist
+2025-11-14,20:15,L1 Assemblage,Toevoerband,Gepland onderhoud,36,B,TD-05,wachten op onderdeel
+2025-11-14,21:50,L1 Assemblage,Testcel,Materiaal op,29,B,TD-03,tweede keer deze week
+2025-11-17,08:25,L3 Extrusie,Koelbad,materiaaltoevoer leeg,29,A,TD-05,"tijdelijk opgelost, melding blijft staan"
+2025-11-17,08:45,L1 Assemblage,Toevoerband,geen materiaal,20,A,TD-01,
+2025-11-17,14:40,L3 Extrusie,Zaagunit,gepland onderhoud,32,B,TD-02,onderdeel besteld
+2025-11-17,18:15,L3 Extrusie,Extruder,extruder verstopt,107,B,TD-08,opgelost door ploeg zelf
+2025-11-18,07:25,L3 Extrusie,Trekbank,luchtdruk te laag,,A,TD-05,onderdeel besteld
+2025-11-18,12:40,L1 Assemblage,Testcel,Besturing storing,96,A,TD-04,afgehandeld volgens checklist
+2025-11-18,16:15,L3 Extrusie,Extruder,extruder verstopt,,B,,
+2025-11-18,18:35,L2 Verpakking,Etiketteermachine,sensor defect,16,B,TD-02,opgelost door ploeg zelf
+2025-11-18,19:45,L1 Assemblage,Robotcel,kwaliteitscontrole afkeur,54,B,,
+2025-11-19,01:55,L2 Verpakking,Krimptunnel,Reiniging,38,C,TD-01,monteur opgeroepen
+2025-11-19,14:40,L1 Assemblage,Schroefstation,Materiaal op,11,B,TD-08,
+2025-11-19,15:25,L1 Assemblage,Testcel,reiniging tussen batches,40,B,TD-06,
+2025-11-19,16:20,L1 Assemblage,Toevoerband,Materiaal op,19,B,TD-04,wachten op onderdeel
+2025-11-19,19:25,L3 Extrusie,Trekbank,omstelling,79,B,,tweede keer deze week
+2025-11-20,01:55,L3 Extrusie,Trekbank,omstelling,167,C,TD-08,
+2025-11-20,09:30,L1 Assemblage,Schroefstation,afkeur controle,49,A,TD-05,
+2025-11-20,09:55,L1 Assemblage,Toevoerband,sensorstoring,10,A,TD-06,opgelost door ploeg zelf
+2025-11-20,13:50,L3 Extrusie,Trekbank,sensorstoring,12,A,TD-04,
+2025-11-20,23:10,L1 Assemblage,Testcel,Operator afwezig,25,C,TD-03,
+2025-11-21,03:25,L1 Assemblage,Toevoerband,Afkeur,0,C,TD-07,
+2025-11-21,07:30,L1 Assemblage,Toevoerband,smeerbeurt,40,A,TD-04,afgehandeld volgens checklist
+2025-11-21,08:05,L1 Assemblage,Toevoerband,sensorstoring,7,A,TD-01,afgehandeld volgens checklist
+2025-11-21,13:00,L2 Verpakking,Palletiseerder,reiniging tussen batches,46,A,TD-08,onderdeel besteld
+2025-11-21,14:05,L2 Verpakking,Vulmachine,Materiaal op,5,B,,"tijdelijk opgelost, melding blijft staan"
+2025-11-21,22:35,L3 Extrusie,Trekbank,Materiaal op,15,C,TD-02,
+2025-11-21,23:25,L3 Extrusie,Trekbank,operator afwezig,24,C,TD-06,tweede keer deze week
+2025-11-21,23:50,L2 Verpakking,Palletiseerder,sensorstoring,15,C,TD-08,
+2025-11-24,08:15,L2 Verpakking,Palletiseerder,sensor defect,17,A,TD-03,
+2025-11-24,09:15,L2 Verpakking,Etiketteermachine,etiketstoring,18,A,TD-03,
+2025-11-24,14:50,L2 Verpakking,Etiketteermachine,sensorstoring,20,B,TD-02,
+2025-11-24,22:40,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,11,C,TD-08,tweede keer deze week
+2025-11-25,06:20,L1 Assemblage,Testcel,plc-storing,41,A,TD-04,afgehandeld volgens checklist
+2025-11-25,09:20,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,5,A,TD-01,onderdeel besteld
+2025-11-25,11:50,L2 Verpakking,Etiketteermachine,etiketstoring,16,A,,tweede keer deze week
+2025-11-25,16:05,L2 Verpakking,Etiketteermachine,etiket vastgelopen,8,B,TD-07,
+2025-11-25,16:15,L1 Assemblage,Robotcel,Sensor storing,5,B,TD-07,onderdeel besteld
+2025-11-25,19:55,L1 Assemblage,Testcel,smeerbeurt,70,B,TD-01,"tijdelijk opgelost, melding blijft staan"
+2025-11-25,20:05,L2 Verpakking,Vulmachine,Operator afwezig,32,B,TD-02,
+2025-11-25,21:25,L2 Verpakking,Palletiseerder,materiaaltoevoer leeg,8,B,TD-08,
+2025-11-26,00:15,L3 Extrusie,Zaagunit,sensor storing,12,C,TD-06,"tijdelijk opgelost, melding blijft staan"
+2025-11-26,01:10,L1 Assemblage,Robotcel,materiaal op,10,C,TD-06,onderdeel besteld
+2025-11-26,05:50,L2 Verpakking,Vulmachine,smeerbeurt,34,C,TD-01,afgehandeld volgens checklist
+2025-11-26,19:35,L1 Assemblage,Toevoerband,lagerbreuk,109,B,,
+2025-11-26,20:35,L2 Verpakking,Etiketteermachine,Materiaal op,17,B,,tweede keer deze week
+2025-11-27,06:30,L3 Extrusie,Trekbank,Perslucht te laag,34,A,TD-06,
+2025-11-27,10:30,L2 Verpakking,Etiketteermachine,etiket vastgelopen,17,A,TD-04,
+2025-11-27,17:40,L2 Verpakking,Etiketteermachine,etiket vastgelopen,12,B,,
+2025-11-28,02:45,L3 Extrusie,Trekbank,Operator afwezig,30,C,TD-02,wachten op onderdeel
+2025-11-28,05:30,L2 Verpakking,Etiketteermachine,reiniging tussen batches,47,C,TD-01,
+2025-11-28,07:40,L1 Assemblage,Toevoerband,sensor storing,17,A,TD-08,afgehandeld volgens checklist
+2025-11-28,18:15,L1 Assemblage,Robotcel,Besturing storing,70,B,TD-01,wachten op onderdeel
+2025-12-01,00:25,L1 Assemblage,Toevoerband,sensorstoring,21,C,TD-08,
+2025-12-01,06:25,L1 Assemblage,Toevoerband,sensor storing,8,A,TD-04,opgelost door ploeg zelf
+2025-12-01,09:45,L2 Verpakking,Etiketteermachine,Besturing storing,70,A,TD-04,monteur opgeroepen
+2025-12-01,17:45,L3 Extrusie,Trekbank,sensor storing,23,B,TD-05,
+2025-12-01,21:55,L1 Assemblage,Testcel,afkeur controle,51,B,,monteur opgeroepen
+2025-12-02,06:40,L3 Extrusie,Trekbank,materiaal op,10,A,TD-06,storing herhaalt zich
+2025-12-02,09:20,L1 Assemblage,Schroefstation,Sensor storing,16,A,,
+2025-12-02,12:10,L3 Extrusie,Extruder,Omstelling,80,A,TD-05,monteur opgeroepen
+2025-12-02,17:00,L2 Verpakking,Etiketteermachine,materiaaltoevoer leeg,15,B,TD-07,
+2025-12-02,23:30,L2 Verpakking,Krimptunnel,Besturing storing,116,C,TD-05,
+2025-12-02,23:40,L3 Extrusie,Trekbank,Lager vervangen,162,C,TD-02,afgehandeld volgens checklist
+2025-12-03,01:20,L2 Verpakking,Krimptunnel,storing besturing,100,C,TD-02,
+2025-12-03,16:35,L3 Extrusie,Extruder,extruder verstopt,145,B,TD-04,onderdeel besteld
+2025-12-03,21:50,L3 Extrusie,Extruder,sensorstoring,25,B,,
+2025-12-03,23:45,L3 Extrusie,Extruder,Materiaal op,11,C,TD-08,
+2025-12-04,01:55,L3 Extrusie,Koelbad,materiaal op,28,C,TD-02,
+2025-12-04,03:05,L3 Extrusie,Zaagunit,lager vervangen,79,C,TD-03,
+2025-12-04,06:55,L2 Verpakking,Etiketteermachine,etiketstoring,4,A,TD-05,opgelost door ploeg zelf
+2025-12-04,13:05,L3 Extrusie,Extruder,extruder verstopt,163,A,TD-05,"tijdelijk opgelost, melding blijft staan"
+2025-12-04,16:50,L1 Assemblage,Schroefstation,Operator afwezig,31,B,TD-08,onderdeel besteld
+2025-12-04,19:20,L2 Verpakking,Etiketteermachine,etiketstoring,10,B,TD-07,
+2025-12-04,23:40,L1 Assemblage,Robotcel,persluchtstoring,31,C,TD-07,
+2025-12-04,23:50,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,17,C,,tweede keer deze week
+2025-12-05,11:15,L1 Assemblage,Testcel,Omstelling,150,A,TD-07,
+2025-12-05,14:40,L1 Assemblage,Schroefstation,geen materiaal,25,B,,opgelost door ploeg zelf
+2025-12-05,16:30,L3 Extrusie,Koelbad,Gepland onderhoud,43,B,,storing herhaalt zich
+2025-12-05,17:10,L1 Assemblage,Robotcel,storing besturing,128,B,TD-08,"tijdelijk opgelost, melding blijft staan"
+2025-12-08,07:40,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,11,A,TD-04,tweede keer deze week
+2025-12-08,10:35,L3 Extrusie,Trekbank,Sensor storing,25,A,,"tijdelijk opgelost, melding blijft staan"
+2025-12-08,15:45,L3 Extrusie,Zaagunit,lagerbreuk,157,B,TD-08,"tijdelijk opgelost, melding blijft staan"
+2025-12-08,22:35,L2 Verpakking,Etiketteermachine,luchtdruk te laag,27,C,TD-06,
+2025-12-09,01:00,L3 Extrusie,Zaagunit,reiniging,29,C,TD-08,monteur opgeroepen
+2025-12-09,03:40,L3 Extrusie,Extruder,sensor defect,7,C,TD-04,
+2025-12-09,17:20,L3 Extrusie,Trekbank,geen materiaal,23,B,,monteur opgeroepen
+2025-12-10,06:50,L2 Verpakking,Vulmachine,smeerbeurt,50,A,,"tijdelijk opgelost, melding blijft staan"
+2025-12-10,13:30,L1 Assemblage,Robotcel,kwaliteitscontrole afkeur,44,A,TD-05,
+2025-12-10,16:25,L2 Verpakking,Etiketteermachine,Reiniging,49,B,TD-07,tweede keer deze week
+2025-12-11,01:25,L2 Verpakking,Krimptunnel,personeelstekort,32,C,TD-01,"tijdelijk opgelost, melding blijft staan"
+2025-12-11,06:05,L1 Assemblage,Toevoerband,operator afwezig,18,A,TD-05,monteur opgeroepen
+2025-12-11,09:30,L3 Extrusie,Extruder,matrijswissel,72,A,,onderdeel besteld
+2025-12-11,12:25,L1 Assemblage,Robotcel,geen materiaal,17,A,TD-05,
+2025-12-11,20:40,L3 Extrusie,Trekbank,sensor defect,12,B,TD-07,monteur opgeroepen
+2025-12-11,21:20,L1 Assemblage,Robotcel,afkeur controle,52,B,TD-08,opgelost door ploeg zelf
+2025-12-11,22:55,L2 Verpakking,Krimptunnel,operator afwezig,15,C,TD-02,
+2025-12-11,23:35,L2 Verpakking,Etiketteermachine,Perslucht te laag,29,C,TD-04,tweede keer deze week
+2025-12-12,03:55,L3 Extrusie,Koelbad,omstelling product,153,C,TD-01,
+2025-12-12,04:20,L3 Extrusie,Extruder,PLC storing,81,C,TD-01,
+2025-12-12,08:45,L2 Verpakking,Vulmachine,sensor defect,5,A,TD-07,afgehandeld volgens checklist
+2025-12-12,20:10,L1 Assemblage,Toevoerband,Operator afwezig,59,B,TD-04,"tijdelijk opgelost, melding blijft staan"
+2025-12-15,10:55,L3 Extrusie,Extruder,Extruder verstopt,125,A,TD-04,
+2025-12-15,13:20,L1 Assemblage,Schroefstation,materiaal op,24,A,TD-05,opgelost door ploeg zelf
+2025-12-15,18:55,L2 Verpakking,Etiketteermachine,sensorstoring,10,B,TD-04,tweede keer deze week
+2025-12-15,22:30,L1 Assemblage,Robotcel,reiniging,25,C,,
+2025-12-16,02:30,L1 Assemblage,Robotcel,sensor storing,21,C,TD-08,
+2025-12-16,03:15,L2 Verpakking,Krimptunnel,operator afwezig,41,C,TD-05,
+2025-12-16,05:50,L2 Verpakking,Etiketteermachine,etiket vastgelopen,10,C,TD-06,afgehandeld volgens checklist
+2025-12-16,07:10,L2 Verpakking,Krimptunnel,Operator afwezig,11,A,TD-05,afgehandeld volgens checklist
+2025-12-16,11:45,L1 Assemblage,Robotcel,materiaaltoevoer leeg,17,A,TD-01,
+2025-12-16,12:55,L3 Extrusie,Extruder,materiaaltoevoer leeg,9,A,,afgehandeld volgens checklist
+2025-12-16,15:20,L1 Assemblage,Schroefstation,Reiniging,34,B,,
+2025-12-17,03:40,L3 Extrusie,Koelbad,persluchtstoring,25,C,TD-06,"tijdelijk opgelost, melding blijft staan"
+2025-12-17,11:35,L3 Extrusie,Extruder,afkeur controle,50,A,TD-06,opgelost door ploeg zelf
+2025-12-17,17:05,L3 Extrusie,Zaagunit,geen materiaal,23,B,TD-01,tweede keer deze week
+2025-12-17,19:25,L3 Extrusie,Extruder,verstopping extruder,226,B,,
+2025-12-17,22:35,L2 Verpakking,Etiketteermachine,sensorstoring,12,C,TD-03,
+2025-12-18,02:05,L1 Assemblage,Testcel,Afkeur,40,C,TD-03,wachten op onderdeel
+2025-12-18,03:15,L1 Assemblage,Testcel,materiaaltoevoer leeg,13,C,TD-05,opgelost door ploeg zelf
+2025-12-18,05:10,L1 Assemblage,Toevoerband,Afkeur,65,C,TD-06,storing herhaalt zich
+2025-12-18,15:05,L1 Assemblage,Schroefstation,afkeur controle,26,B,TD-06,
+2025-12-18,15:40,L1 Assemblage,Robotcel,Sensor storing,18,B,TD-07,tweede keer deze week
+2025-12-18,19:05,L3 Extrusie,Trekbank,afkeur controle,49,B,TD-08,afgehandeld volgens checklist
+2025-12-18,20:15,L1 Assemblage,Toevoerband,sensor defect,24,B,TD-02,onderdeel besteld
+2025-12-18,22:30,L2 Verpakking,Vulmachine,gepland onderhoud,38,C,TD-04,tweede keer deze week
+2025-12-19,09:00,L3 Extrusie,Extruder,smeerbeurt,,A,TD-07,tweede keer deze week
+2025-12-19,17:15,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,8,B,TD-04,monteur opgeroepen
+2025-12-19,23:30,L2 Verpakking,Krimptunnel,kwaliteitscontrole afkeur,26,C,TD-01,
+2025-12-22,01:20,L2 Verpakking,Krimptunnel,Reiniging,45,C,TD-08,onderdeel besteld
+2025-12-22,06:45,L1 Assemblage,Robotcel,sensorstoring,12,A,,
+2025-12-22,12:55,L3 Extrusie,Koelbad,Omstelling,132,A,TD-07,
+2025-12-22,13:00,L2 Verpakking,Palletiseerder,smeerbeurt,64,A,TD-02,onderdeel besteld
+2025-12-22,18:25,L2 Verpakking,Etiketteermachine,etiket vastgelopen,18,B,TD-07,
+2025-12-22,20:45,L2 Verpakking,Palletiseerder,luchtdruk te laag,14,B,TD-02,"tijdelijk opgelost, melding blijft staan"
+2025-12-22,21:55,L2 Verpakking,Etiketteermachine,lager vervangen,142,B,TD-07,afgehandeld volgens checklist
+2025-12-23,01:40,L1 Assemblage,Robotcel,lager vervangen,68,C,TD-07,
+2025-12-23,07:10,L2 Verpakking,Etiketteermachine,etiketstoring,4,A,,
+2025-12-23,10:30,L3 Extrusie,Extruder,Reiniging,22,A,TD-03,
+2025-12-23,21:10,L3 Extrusie,Koelbad,reiniging tussen batches,27,B,TD-04,
+2025-12-24,09:25,L3 Extrusie,Extruder,matrijswissel,162,A,TD-04,onderdeel besteld
+2025-12-24,15:30,L3 Extrusie,Koelbad,operator afwezig,28,B,,
+2025-12-24,15:45,L1 Assemblage,Testcel,plc-storing,128,B,,
+2025-12-25,02:55,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,9,C,TD-01,
+2025-12-25,02:55,L2 Verpakking,Etiketteermachine,Sensor storing,24,C,TD-08,onderdeel besteld
+2025-12-25,09:30,L3 Extrusie,Trekbank,storing besturing,47,A,,afgehandeld volgens checklist
+2025-12-25,10:05,L2 Verpakking,Vulmachine,luchtdruk te laag,34,A,TD-03,monteur opgeroepen
+2025-12-26,00:20,L3 Extrusie,Extruder,Sensor storing,22,C,TD-07,storing herhaalt zich
+2025-12-26,03:05,L1 Assemblage,Robotcel,sensor defect,14,C,TD-02,afgehandeld volgens checklist
+2025-12-26,04:35,L3 Extrusie,Zaagunit,Materiaal op,13,C,TD-07,storing herhaalt zich
+2025-12-26,11:10,L2 Verpakking,Vulmachine,personeelstekort,53,A,TD-07,
+2025-12-29,12:35,L3 Extrusie,Extruder,storing besturing,116,A,TD-01,monteur opgeroepen
+2025-12-29,18:50,L2 Verpakking,Krimptunnel,materiaaltoevoer leeg,7,B,TD-08,"tijdelijk opgelost, melding blijft staan"
+2025-12-29,21:35,L3 Extrusie,Extruder,personeelstekort,32,B,,monteur opgeroepen
+2025-12-30,04:20,L1 Assemblage,Robotcel,materiaaltoevoer leeg,28,C,TD-06,"tijdelijk opgelost, melding blijft staan"
+2025-12-30,11:05,L2 Verpakking,Krimptunnel,kwaliteitscontrole afkeur,16,A,TD-02,onderdeel besteld
+2025-12-30,15:00,L3 Extrusie,Extruder,sensor storing,13,B,TD-01,onderdeel besteld
+2025-12-30,15:40,L3 Extrusie,Koelbad,Materiaal op,21,B,TD-07,tweede keer deze week
+2025-12-30,16:55,L3 Extrusie,Koelbad,Materiaal op,9,B,TD-05,onderdeel besteld
+2025-12-30,17:35,L3 Extrusie,Extruder,verstopping extruder,93,B,TD-03,
+2025-12-31,12:20,L1 Assemblage,Schroefstation,Materiaal op,11,A,TD-05,
+2025-12-31,14:30,L2 Verpakking,Etiketteermachine,etiketstoring,15,B,TD-08,
+2025-12-31,16:45,L2 Verpakking,Vulmachine,geen materiaal,11,B,TD-08,
+2026-01-01,00:00,L3 Extrusie,Extruder,sensor defect,18,C,TD-08,afgehandeld volgens checklist
+2026-01-01,01:40,L3 Extrusie,Extruder,operator afwezig,40,C,TD-07,
+2026-01-01,06:40,L1 Assemblage,Schroefstation,kwaliteitscontrole afkeur,19,A,TD-05,
+2026-01-01,10:45,L1 Assemblage,Robotcel,luchtdruk te laag,31,A,TD-06,opgelost door ploeg zelf
+2026-01-01,14:50,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,17,B,TD-04,"tijdelijk opgelost, melding blijft staan"
+2026-01-01,18:10,L2 Verpakking,Etiketteermachine,etiket vastgelopen,7,B,TD-02,opgelost door ploeg zelf
+2026-01-01,19:10,L2 Verpakking,Palletiseerder,Operator afwezig,44,B,TD-02,
+2026-01-01,23:05,L3 Extrusie,Trekbank,reiniging,50,C,TD-04,opgelost door ploeg zelf
+2026-01-02,02:45,L1 Assemblage,Robotcel,sensorstoring,21,C,,
+2026-01-02,03:55,L2 Verpakking,Palletiseerder,sensorstoring,8,C,,
+2026-01-02,06:00,L2 Verpakking,Palletiseerder,Sensor storing,24,A,TD-07,
+2026-01-02,15:55,L3 Extrusie,Zaagunit,smeerbeurt,36,B,TD-08,tweede keer deze week
+2026-01-02,21:10,L1 Assemblage,Robotcel,Sensor storing,12,B,TD-01,
+2026-01-05,02:50,L1 Assemblage,Schroefstation,Materiaal op,29,C,TD-05,opgelost door ploeg zelf
+2026-01-05,03:05,L3 Extrusie,Extruder,smeerbeurt,33,C,TD-03,opgelost door ploeg zelf
+2026-01-05,08:50,L2 Verpakking,Etiketteermachine,plc-storing,61,A,TD-04,
+2026-01-05,11:00,L3 Extrusie,Koelbad,Reiniging,36,A,TD-07,"tijdelijk opgelost, melding blijft staan"
+2026-01-05,17:25,L3 Extrusie,Koelbad,geen materiaal,9,B,,"tijdelijk opgelost, melding blijft staan"
+2026-01-05,17:30,L3 Extrusie,Extruder,operator afwezig,59,B,TD-05,onderdeel besteld
+2026-01-05,20:05,L1 Assemblage,Toevoerband,geen materiaal,30,B,TD-02,
+2026-01-05,23:25,L2 Verpakking,Etiketteermachine,etiket vastgelopen,11,C,,onderdeel besteld
+2026-01-06,01:05,L1 Assemblage,Testcel,Perslucht te laag,28,C,TD-05,
+2026-01-06,04:10,L2 Verpakking,Krimptunnel,sensor defect,6,C,TD-05,"tijdelijk opgelost, melding blijft staan"
+2026-01-06,07:40,L3 Extrusie,Trekbank,geen materiaal,25,A,TD-08,
+2026-01-06,11:15,L3 Extrusie,Trekbank,Operator afwezig,20,A,TD-02,storing herhaalt zich
+2026-01-06,13:15,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,12,A,TD-07,
+2026-01-07,04:40,L2 Verpakking,Palletiseerder,kwaliteitscontrole afkeur,44,C,,monteur opgeroepen
+2026-01-07,12:05,L3 Extrusie,Extruder,Matrijswissel,93,A,TD-01,onderdeel besteld
+2026-01-07,16:10,L2 Verpakking,Krimptunnel,PLC storing,62,B,TD-05,afgehandeld volgens checklist
+2026-01-07,22:00,L3 Extrusie,Trekbank,persluchtstoring,25,C,TD-08,
+2026-01-07,23:50,L1 Assemblage,Schroefstation,Reiniging,21,C,TD-03,
+2026-01-08,02:10,L2 Verpakking,Krimptunnel,Perslucht te laag,8,C,TD-01,
+2026-01-08,03:55,L1 Assemblage,Toevoerband,PLC storing,108,C,TD-01,monteur opgeroepen
+2026-01-08,12:25,L1 Assemblage,Robotcel,omstelling product,55,A,TD-06,
+2026-01-08,19:20,L2 Verpakking,Etiketteermachine,spanningsuitval,88,B,,
+2026-01-09,00:45,L2 Verpakking,Krimptunnel,materiaal op,17,C,TD-01,tweede keer deze week
+2026-01-09,02:50,L3 Extrusie,Zaagunit,persluchtstoring,11,C,TD-05,monteur opgeroepen
+2026-01-09,14:15,L1 Assemblage,Robotcel,Omstelling,106,B,TD-03,"tijdelijk opgelost, melding blijft staan"
+2026-01-09,20:15,L2 Verpakking,Etiketteermachine,afkeur controle,38,B,TD-07,
+2026-01-12,06:20,L1 Assemblage,Testcel,smeerbeurt,45,A,,wachten op onderdeel
+2026-01-12,10:25,L2 Verpakking,Vulmachine,Materiaal op,12,A,TD-01,afgehandeld volgens checklist
+2026-01-12,19:35,L3 Extrusie,Trekbank,omstelling product,57,B,TD-03,
+2026-01-12,22:30,L2 Verpakking,Krimptunnel,sensor storing,19,C,TD-01,monteur opgeroepen
+2026-01-13,02:50,L3 Extrusie,Zaagunit,Besturing storing,104,C,TD-07,onderdeel besteld
+2026-01-13,04:15,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,12,C,TD-05,
+2026-01-13,09:00,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,16,A,TD-03,monteur opgeroepen
+2026-01-13,10:00,L3 Extrusie,Zaagunit,reiniging,35,A,TD-01,opgelost door ploeg zelf
+2026-01-13,12:20,L3 Extrusie,Koelbad,Afkeur,47,A,TD-04,afgehandeld volgens checklist
+2026-01-14,06:00,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,10,A,TD-06,
+2026-01-14,08:05,L2 Verpakking,Krimptunnel,afkeur controle,42,A,TD-08,monteur opgeroepen
+2026-01-14,21:55,L2 Verpakking,Krimptunnel,Omstelling,148,B,TD-04,
+2026-01-15,03:10,L3 Extrusie,Zaagunit,sensor defect,6,C,TD-04,"tijdelijk opgelost, melding blijft staan"
+2026-01-15,03:40,L2 Verpakking,Palletiseerder,Materiaal op,11,C,TD-08,
+2026-01-15,04:30,L3 Extrusie,Zaagunit,sensorstoring,21,C,TD-07,
+2026-01-15,09:00,L2 Verpakking,Etiketteermachine,gepland onderhoud,44,A,TD-03,
+2026-01-15,10:45,L1 Assemblage,Robotcel,reiniging tussen batches,34,A,TD-03,tweede keer deze week
+2026-01-15,15:35,L3 Extrusie,Koelbad,sensorstoring,18,B,TD-07,afgehandeld volgens checklist
+2026-01-16,05:55,L2 Verpakking,Vulmachine,PLC storing,34,C,TD-01,"tijdelijk opgelost, melding blijft staan"
+2026-01-16,08:55,L2 Verpakking,Etiketteermachine,etiketstoring,17,A,,wachten op onderdeel
+2026-01-16,10:20,L2 Verpakking,Palletiseerder,reiniging,20,A,TD-08,
+2026-01-16,11:15,L3 Extrusie,Koelbad,reiniging tussen batches,22,A,TD-07,opgelost door ploeg zelf
+2026-01-16,12:50,L2 Verpakking,Palletiseerder,reiniging,36,A,TD-07,"tijdelijk opgelost, melding blijft staan"
+2026-01-16,22:15,L2 Verpakking,Krimptunnel,kwaliteitscontrole afkeur,30,C,,monteur opgeroepen
+2026-01-16,23:15,L2 Verpakking,Vulmachine,sensorstoring,6,C,,tweede keer deze week
+2026-01-19,12:00,L2 Verpakking,Krimptunnel,Omstelling,83,A,TD-02,afgehandeld volgens checklist
+2026-01-19,14:45,L3 Extrusie,Zaagunit,Gepland onderhoud,69,B,,wachten op onderdeel
+2026-01-19,17:15,L3 Extrusie,Koelbad,sensorstoring,24,B,TD-03,"tijdelijk opgelost, melding blijft staan"
+2026-01-19,18:50,L3 Extrusie,Trekbank,smeerbeurt,37,B,TD-06,wachten op onderdeel
+2026-01-20,06:40,L1 Assemblage,Schroefstation,Materiaal op,29,A,,
+2026-01-20,07:55,L3 Extrusie,Koelbad,materiaaltoevoer leeg,28,A,,storing herhaalt zich
+2026-01-20,08:15,L3 Extrusie,Koelbad,Operator afwezig,35,A,TD-01,
+2026-01-20,18:10,L2 Verpakking,Etiketteermachine,etiket vastgelopen,9,B,TD-03,
+2026-01-20,22:15,L2 Verpakking,Etiketteermachine,omstelling,137,C,TD-08,
+2026-01-21,00:55,L1 Assemblage,Schroefstation,materiaaltoevoer leeg,30,C,TD-01,wachten op onderdeel
+2026-01-21,02:35,L2 Verpakking,Etiketteermachine,Materiaal op,30,C,TD-05,
+2026-01-21,04:20,L2 Verpakking,Krimptunnel,reiniging,42,C,TD-05,
+2026-01-21,07:00,L2 Verpakking,Etiketteermachine,etiket vastgelopen,0,A,TD-05,opgelost door ploeg zelf
+2026-01-21,08:00,L3 Extrusie,Zaagunit,kwaliteitscontrole afkeur,25,A,TD-04,storing herhaalt zich
+2026-01-21,17:15,L2 Verpakking,Vulmachine,PLC storing,51,B,TD-05,opgelost door ploeg zelf
+2026-01-21,17:25,L2 Verpakking,Krimptunnel,reiniging,26,B,TD-06,opgelost door ploeg zelf
+2026-01-21,21:25,L2 Verpakking,Palletiseerder,omstelling product,115,B,TD-07,tweede keer deze week
+2026-01-22,06:55,L2 Verpakking,Etiketteermachine,sensor storing,22,A,TD-08,
+2026-01-22,09:15,L3 Extrusie,Extruder,matrijswissel,130,A,TD-04,
+2026-01-22,10:20,L2 Verpakking,Vulmachine,geen materiaal,18,A,TD-04,
+2026-01-22,13:25,L3 Extrusie,Koelbad,storing besturing,112,A,TD-03,tweede keer deze week
+2026-01-22,15:05,L1 Assemblage,Robotcel,omstelling product,147,B,TD-05,wachten op onderdeel
+2026-01-22,17:15,L3 Extrusie,Trekbank,sensorstoring,4,B,TD-08,
+2026-01-22,19:00,L3 Extrusie,Extruder,geen materiaal,11,B,,opgelost door ploeg zelf
+2026-01-23,00:55,L1 Assemblage,Testcel,sensor defect,9,C,TD-03,
+2026-01-23,04:00,L1 Assemblage,Toevoerband,Reiniging,44,C,TD-04,
+2026-01-23,04:45,L2 Verpakking,Palletiseerder,Besturing storing,113,C,TD-03,opgelost door ploeg zelf
+2026-01-23,09:40,L2 Verpakking,Vulmachine,sensor defect,22,A,TD-01,
+2026-01-23,14:20,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,9,B,TD-05,monteur opgeroepen
+2026-01-23,18:05,L2 Verpakking,Vulmachine,Reiniging,39,B,TD-01,monteur opgeroepen
+2026-01-23,23:55,L1 Assemblage,Testcel,omstelling product,173,C,TD-02,
+2026-01-26,09:50,L1 Assemblage,Toevoerband,Perslucht te laag,34,A,,storing herhaalt zich
+2026-01-26,14:40,L1 Assemblage,Schroefstation,materiaal op,29,B,TD-06,
+2026-01-26,21:45,L1 Assemblage,Robotcel,Operator afwezig,34,B,TD-08,
+2026-01-26,22:40,L3 Extrusie,Zaagunit,Materiaal op,25,C,TD-06,
+2026-01-27,01:40,L3 Extrusie,Zaagunit,,115,C,,onderdeel besteld
+2026-01-27,07:00,L1 Assemblage,Robotcel,luchtdruk te laag,12,A,TD-04,"tijdelijk opgelost, melding blijft staan"
+2026-01-27,20:25,L2 Verpakking,Palletiseerder,materiaaltoevoer leeg,11,B,TD-05,
+2026-01-27,20:25,L3 Extrusie,Extruder,materiaal op,11,B,,afgehandeld volgens checklist
+2026-01-28,03:30,L1 Assemblage,Toevoerband,Lager vervangen,98,C,TD-03,onderdeel besteld
+2026-01-28,04:35,L2 Verpakking,Krimptunnel,geen materiaal,5,C,TD-04,opgelost door ploeg zelf
+2026-01-28,04:40,L1 Assemblage,Testcel,Besturing storing,122,C,TD-06,storing herhaalt zich
+2026-01-28,05:05,L3 Extrusie,Koelbad,sensor defect,15,C,,
+2026-01-28,07:45,L3 Extrusie,Koelbad,geen materiaal,13,A,TD-07,storing herhaalt zich
+2026-01-28,11:35,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,7,A,TD-02,storing herhaalt zich
+2026-01-28,22:40,L2 Verpakking,Palletiseerder,geen materiaal,22,C,TD-05,tweede keer deze week
+2026-01-28,23:35,L2 Verpakking,Krimptunnel,Stroomuitval,66,C,TD-05,monteur opgeroepen
+2026-01-29,08:30,L3 Extrusie,Zaagunit,gepland onderhoud,63,A,TD-02,"tijdelijk opgelost, melding blijft staan"
+2026-01-29,10:50,L3 Extrusie,Extruder,smeerbeurt,63,A,TD-08,storing herhaalt zich
+2026-01-29,11:40,L2 Verpakking,Etiketteermachine,etiketstoring,7,A,TD-03,storing herhaalt zich
+2026-01-29,16:00,L1 Assemblage,Schroefstation,sensor defect,9,B,TD-03,
+2026-01-29,21:30,L2 Verpakking,Etiketteermachine,luchtdruk te laag,27,B,TD-05,
+2026-01-30,04:10,L2 Verpakking,Etiketteermachine,etiket vastgelopen,11,C,,monteur opgeroepen
+2026-01-30,09:50,L3 Extrusie,Koelbad,materiaaltoevoer leeg,27,A,TD-06,
+2026-01-30,12:10,L1 Assemblage,Robotcel,Sensor storing,17,A,,
+2026-01-30,16:45,L3 Extrusie,Zaagunit,sensor storing,9,B,TD-03,"tijdelijk opgelost, melding blijft staan"
+2026-01-30,20:05,L2 Verpakking,Palletiseerder,Afkeur,44,B,TD-01,monteur opgeroepen
+2026-02-02,00:15,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,11,C,TD-07,
+2026-02-02,05:10,L2 Verpakking,Krimptunnel,Sensor storing,24,C,TD-04,tweede keer deze week
+2026-02-02,18:55,L3 Extrusie,Zaagunit,Operator afwezig,51,B,TD-06,tweede keer deze week
+2026-02-03,09:15,L1 Assemblage,Robotcel,materiaaltoevoer leeg,29,A,TD-04,monteur opgeroepen
+2026-02-03,10:40,L3 Extrusie,Extruder,extruder verstopt,146,A,,
+2026-02-03,13:40,L2 Verpakking,Etiketteermachine,lagerbreuk,164,A,TD-01,afgehandeld volgens checklist
+2026-02-04,03:00,L3 Extrusie,Koelbad,Reiniging,23,C,TD-03,opgelost door ploeg zelf
+2026-02-04,07:50,L1 Assemblage,Robotcel,kwaliteitscontrole afkeur,18,A,TD-06,monteur opgeroepen
+2026-02-04,08:10,L3 Extrusie,Extruder,verstopping extruder,198,A,TD-02,wachten op onderdeel
+2026-02-04,17:55,L2 Verpakking,Etiketteermachine,Lager vervangen,95,B,TD-03,
+2026-02-04,19:10,L1 Assemblage,Toevoerband,sensor defect,5,B,TD-02,opgelost door ploeg zelf
+2026-02-04,22:20,L3 Extrusie,Zaagunit,omstelling product,98,C,TD-02,opgelost door ploeg zelf
+2026-02-05,02:00,L3 Extrusie,Trekbank,Besturing storing,45,C,TD-05,afgehandeld volgens checklist
+2026-02-05,02:55,L1 Assemblage,Testcel,sensor storing,4,C,TD-06,wachten op onderdeel
+2026-02-05,09:35,L2 Verpakking,Etiketteermachine,Lager vervangen,85,A,,"tijdelijk opgelost, melding blijft staan"
+2026-02-05,15:05,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,11,B,TD-01,
+2026-02-06,05:55,L1 Assemblage,Schroefstation,sensorstoring,4,C,TD-08,
+2026-02-06,17:15,L1 Assemblage,Toevoerband,plc-storing,96,B,,storing herhaalt zich
+2026-02-06,19:20,L3 Extrusie,Extruder,Extruder verstopt,157,B,,onderdeel besteld
+2026-02-06,21:15,L3 Extrusie,Koelbad,geen materiaal,17,B,,
+2026-02-06,23:55,L3 Extrusie,Extruder,personeelstekort,38,C,,
+2026-02-09,10:40,L1 Assemblage,Toevoerband,lager vervangen,125,A,,storing herhaalt zich
+2026-02-09,15:10,L3 Extrusie,Zaagunit,Reiniging,39,B,,
+2026-02-09,16:55,L3 Extrusie,Koelbad,persluchtstoring,22,B,TD-02,wachten op onderdeel
+2026-02-09,17:15,L1 Assemblage,Testcel,luchtdruk te laag,38,B,TD-08,opgelost door ploeg zelf
+2026-02-09,17:25,L2 Verpakking,Palletiseerder,storing besturing,97,B,TD-04,afgehandeld volgens checklist
+2026-02-09,23:20,L1 Assemblage,Toevoerband,Sensor storing,11,C,,
+2026-02-10,01:50,L2 Verpakking,Palletiseerder,sensor defect,8,C,TD-04,
+2026-02-10,07:40,L2 Verpakking,Etiketteermachine,Besturing storing,62,A,TD-01,
+2026-02-10,13:40,L3 Extrusie,Trekbank,geen materiaal,15,A,TD-02,
+2026-02-10,17:45,L1 Assemblage,Schroefstation,reiniging tussen batches,46,B,TD-05,storing herhaalt zich
+2026-02-11,01:15,L3 Extrusie,Extruder,PLC storing,38,C,TD-03,"tijdelijk opgelost, melding blijft staan"
+2026-02-11,07:45,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,10,A,,monteur opgeroepen
+2026-02-11,12:20,L3 Extrusie,Koelbad,Besturing storing,93,A,,
+2026-02-11,16:10,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,13,B,TD-08,
+2026-02-12,00:40,L2 Verpakking,Etiketteermachine,etiket vastgelopen,9,C,TD-07,
+2026-02-12,02:50,L1 Assemblage,Toevoerband,PLC storing,28,C,,
+2026-02-12,13:00,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,10,A,TD-05,"tijdelijk opgelost, melding blijft staan"
+2026-02-12,14:50,L1 Assemblage,Toevoerband,Sensor storing,19,B,TD-08,"tijdelijk opgelost, melding blijft staan"
+2026-02-13,01:55,L1 Assemblage,Robotcel,Materiaal op,6,C,,
+2026-02-13,05:20,L3 Extrusie,Koelbad,reiniging tussen batches,30,C,,onderdeel besteld
+2026-02-13,08:45,L1 Assemblage,Schroefstation,omstelling,176,A,TD-07,
+2026-02-13,12:30,L3 Extrusie,Extruder,Extruder verstopt,134,A,,
+2026-02-13,14:15,L2 Verpakking,Etiketteermachine,etiket vastgelopen,16,B,,
+2026-02-13,22:15,L2 Verpakking,Etiketteermachine,etiketstoring,10,C,TD-02,wachten op onderdeel
+2026-02-16,02:55,L2 Verpakking,Vulmachine,Sensor storing,5,C,TD-02,afgehandeld volgens checklist
+2026-02-16,09:55,L1 Assemblage,Schroefstation,afkeur controle,23,A,,
+2026-02-16,13:30,L3 Extrusie,Extruder,verstopping extruder,149,A,TD-06,
+2026-02-16,14:00,L1 Assemblage,Robotcel,Sensor storing,10,B,TD-07,wachten op onderdeel
+2026-02-16,20:10,L3 Extrusie,Extruder,sensor storing,13,B,TD-07,opgelost door ploeg zelf
+2026-02-17,05:05,L3 Extrusie,Extruder,Sensor storing,13,C,TD-05,afgehandeld volgens checklist
+2026-02-17,09:30,L1 Assemblage,Schroefstation,sensor defect,15,A,TD-01,
+2026-02-17,11:45,L2 Verpakking,Krimptunnel,sensorstoring,7,A,,
+2026-02-17,19:40,L2 Verpakking,Vulmachine,sensor storing,14,B,,"tijdelijk opgelost, melding blijft staan"
+2026-02-18,04:10,L1 Assemblage,Schroefstation,sensorstoring,11,C,TD-07,
+2026-02-18,07:40,L3 Extrusie,Zaagunit,Omstelling,105,A,,onderdeel besteld
+2026-02-18,15:25,L2 Verpakking,Etiketteermachine,sensor storing,25,B,TD-05,afgehandeld volgens checklist
+2026-02-19,09:20,L3 Extrusie,Trekbank,Omstelling,162,A,TD-06,
+2026-02-19,11:05,L2 Verpakking,Vulmachine,sensorstoring,25,A,,onderdeel besteld
+2026-02-19,12:30,L3 Extrusie,Koelbad,storing besturing,109,A,,
+2026-02-19,22:40,L3 Extrusie,Zaagunit,materiaaltoevoer leeg,28,C,,
+2026-02-20,08:45,L2 Verpakking,Etiketteermachine,etiketstoring,4,A,TD-04,opgelost door ploeg zelf
+2026-02-20,11:55,L1 Assemblage,Testcel,materiaaltoevoer leeg,21,A,TD-05,tweede keer deze week
+2026-02-20,13:35,L3 Extrusie,Extruder,reiniging tussen batches,44,A,TD-08,
+2026-02-20,19:00,L3 Extrusie,Koelbad,reiniging,35,B,TD-02,storing herhaalt zich
+2026-02-23,01:15,L2 Verpakking,Krimptunnel,Materiaal op,9,C,TD-01,monteur opgeroepen
+2026-02-23,01:40,L3 Extrusie,Koelbad,smeerbeurt,70,C,TD-08,onderdeel besteld
+2026-02-23,11:20,L3 Extrusie,Zaagunit,Besturing storing,38,A,TD-02,opgelost door ploeg zelf
+2026-02-23,19:20,L2 Verpakking,Etiketteermachine,persluchtstoring,35,B,TD-04,
+2026-02-23,22:15,L3 Extrusie,Extruder,spanningsuitval,29,C,TD-08,
+2026-02-24,00:15,L3 Extrusie,Trekbank,materiaal op,11,C,TD-03,storing herhaalt zich
+2026-02-24,00:40,L1 Assemblage,Schroefstation,Omstelling,100,C,TD-07,
+2026-02-24,03:15,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,9,C,TD-06,
+2026-02-24,04:50,L3 Extrusie,Extruder,lagerbreuk,126,C,TD-07,storing herhaalt zich
+2026-02-24,09:30,L2 Verpakking,Etiketteermachine,etiketstoring,15,A,TD-08,
+2026-02-24,12:10,L3 Extrusie,Extruder,Matrijswissel,171,A,TD-06,storing herhaalt zich
+2026-02-24,17:20,L2 Verpakking,Etiketteermachine,,11,B,TD-06,storing herhaalt zich
+2026-02-24,23:20,L1 Assemblage,Robotcel,sensor storing,9,C,,
+2026-02-25,00:30,L2 Verpakking,Etiketteermachine,etiket vastgelopen,5,C,TD-04,
+2026-02-25,10:10,L2 Verpakking,Etiketteermachine,Sensor storing,7,A,TD-01,"tijdelijk opgelost, melding blijft staan"
+2026-02-25,15:10,L1 Assemblage,Robotcel,Sensor storing,15,B,TD-08,wachten op onderdeel
+2026-02-25,22:35,L2 Verpakking,Etiketteermachine,etiketstoring,11,C,TD-04,storing herhaalt zich
+2026-02-26,00:05,L3 Extrusie,Zaagunit,sensorstoring,22,C,,monteur opgeroepen
+2026-02-26,08:25,L3 Extrusie,Extruder,Extruder verstopt,109,A,,storing herhaalt zich
+2026-02-26,09:50,L2 Verpakking,Krimptunnel,sensorstoring,25,A,TD-04,
+2026-02-26,15:45,L3 Extrusie,Extruder,sensor defect,21,B,TD-07,onderdeel besteld
+2026-02-26,22:00,L2 Verpakking,Krimptunnel,geen materiaal,18,C,TD-04,opgelost door ploeg zelf
+2026-02-27,07:25,L1 Assemblage,Toevoerband,luchtdruk te laag,20,A,TD-08,storing herhaalt zich
+2026-02-27,08:30,L3 Extrusie,Trekbank,sensor defect,11,A,TD-08,afgehandeld volgens checklist
+2026-02-27,10:05,L2 Verpakking,Etiketteermachine,etiketstoring,11,A,TD-06,onderdeel besteld
+2026-02-27,14:00,L3 Extrusie,Zaagunit,Afkeur,64,B,,afgehandeld volgens checklist
+2026-02-27,18:55,L1 Assemblage,Robotcel,geen materiaal,14,B,TD-03,
+2026-02-27,21:30,L2 Verpakking,Etiketteermachine,etiketstoring,5,B,TD-07,
+2026-03-02,10:40,L1 Assemblage,Toevoerband,Stroomuitval,74,A,,
+2026-03-02,17:30,L2 Verpakking,Krimptunnel,reiniging,47,B,TD-03,
+2026-03-02,17:30,L3 Extrusie,Extruder,Materiaal op,9,B,TD-07,wachten op onderdeel
+2026-03-02,18:50,L3 Extrusie,Extruder,geen materiaal,27,B,,
+2026-03-03,02:10,L2 Verpakking,Etiketteermachine,etiketstoring,12,C,TD-04,
+2026-03-03,04:40,L1 Assemblage,Testcel,reiniging,37,C,TD-02,tweede keer deze week
+2026-03-03,11:15,L2 Verpakking,Vulmachine,materiaaltoevoer leeg,13,A,TD-08,onderdeel besteld
+2026-03-03,13:20,L2 Verpakking,Etiketteermachine,etiket vastgelopen,13,A,TD-04,onderdeel besteld
+2026-03-04,05:30,L3 Extrusie,Extruder,verstopping extruder,179,C,,onderdeel besteld
+2026-03-04,11:20,L1 Assemblage,Robotcel,sensor storing,20,A,,"tijdelijk opgelost, melding blijft staan"
+2026-03-04,15:15,L1 Assemblage,Schroefstation,reiniging tussen batches,27,B,TD-01,wachten op onderdeel
+2026-03-04,15:45,L2 Verpakking,Krimptunnel,Afkeur,25,B,TD-07,
+2026-03-05,00:50,L1 Assemblage,Schroefstation,materiaal op,30,C,,tweede keer deze week
+2026-03-05,00:55,L1 Assemblage,Testcel,smeerbeurt,43,C,TD-08,onderdeel besteld
+2026-03-05,06:00,L3 Extrusie,Trekbank,materiaal op,5,A,,monteur opgeroepen
+2026-03-05,06:35,L1 Assemblage,Schroefstation,smeerbeurt,33,A,TD-01,
+2026-03-05,09:25,L2 Verpakking,Etiketteermachine,etiketstoring,11,A,TD-02,"tijdelijk opgelost, melding blijft staan"
+2026-03-05,16:05,L2 Verpakking,Krimptunnel,Sensor storing,11,B,,opgelost door ploeg zelf
+2026-03-05,18:05,L2 Verpakking,Krimptunnel,sensor defect,14,B,,
+2026-03-06,02:50,L1 Assemblage,Schroefstation,Perslucht te laag,32,C,TD-03,tweede keer deze week
+2026-03-06,03:35,L1 Assemblage,Testcel,Operator afwezig,57,C,TD-02,
+2026-03-06,09:20,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,14,A,TD-07,tweede keer deze week
+2026-03-06,14:05,L3 Extrusie,Trekbank,Perslucht te laag,32,B,TD-01,afgehandeld volgens checklist
+2026-03-06,20:30,L2 Verpakking,Krimptunnel,kwaliteitscontrole afkeur,16,B,TD-04,
+2026-03-09,01:00,L2 Verpakking,Palletiseerder,Reiniging,23,C,TD-04,"tijdelijk opgelost, melding blijft staan"
+2026-03-09,02:05,L2 Verpakking,Vulmachine,sensorstoring,11,C,TD-05,
+2026-03-09,10:10,L1 Assemblage,Robotcel,sensor defect,4,A,,tweede keer deze week
+2026-03-09,23:55,L2 Verpakking,Vulmachine,kwaliteitscontrole afkeur,57,C,TD-08,monteur opgeroepen
+2026-03-10,08:05,L3 Extrusie,Zaagunit,geen materiaal,5,A,TD-07,
+2026-03-10,09:00,L1 Assemblage,Schroefstation,sensor defect,11,A,TD-02,tweede keer deze week
+2026-03-10,13:00,L2 Verpakking,Krimptunnel,sensor defect,21,A,,storing herhaalt zich
+2026-03-10,14:45,L1 Assemblage,Schroefstation,personeelstekort,22,B,,tweede keer deze week
+2026-03-10,19:10,L1 Assemblage,Testcel,reiniging,37,B,,tweede keer deze week
+2026-03-11,10:20,L3 Extrusie,Koelbad,Perslucht te laag,36,A,TD-01,monteur opgeroepen
+2026-03-11,10:25,L2 Verpakking,Etiketteermachine,etiket vastgelopen,16,A,TD-04,monteur opgeroepen
+2026-03-11,12:55,L1 Assemblage,Schroefstation,kwaliteitscontrole afkeur,19,A,,opgelost door ploeg zelf
+2026-03-11,18:15,L3 Extrusie,Extruder,extruder verstopt,153,B,TD-05,
+2026-03-11,18:50,L1 Assemblage,Robotcel,Stroomuitval,25,B,TD-07,opgelost door ploeg zelf
+2026-03-11,22:00,L1 Assemblage,Toevoerband,reiniging,48,C,TD-08,"tijdelijk opgelost, melding blijft staan"
+2026-03-12,00:00,L3 Extrusie,Zaagunit,sensor storing,18,C,TD-06,tweede keer deze week
+2026-03-12,01:25,L2 Verpakking,Vulmachine,lagerbreuk,124,C,,tweede keer deze week
+2026-03-12,01:50,L3 Extrusie,Zaagunit,persluchtstoring,34,C,TD-02,
+2026-03-12,13:05,L1 Assemblage,Toevoerband,sensor storing,4,A,TD-02,tweede keer deze week
+2026-03-12,16:00,L3 Extrusie,Zaagunit,Afkeur,32,B,TD-06,
+2026-03-12,22:10,L1 Assemblage,Schroefstation,Reiniging,28,C,TD-08,
+2026-03-12,22:50,L3 Extrusie,Extruder,Extruder verstopt,202,C,TD-08,onderdeel besteld
+2026-03-13,00:45,L3 Extrusie,Zaagunit,personeelstekort,27,C,,
+2026-03-13,03:30,L2 Verpakking,Etiketteermachine,afkeur controle,39,C,TD-03,tweede keer deze week
+2026-03-13,12:00,L1 Assemblage,Toevoerband,persluchtstoring,24,A,TD-06,onderdeel besteld
+2026-03-16,03:55,L3 Extrusie,Extruder,sensor storing,16,C,TD-04,storing herhaalt zich
+2026-03-16,04:55,L2 Verpakking,Krimptunnel,Gepland onderhoud,45,C,TD-07,storing herhaalt zich
+2026-03-16,14:00,L1 Assemblage,Testcel,sensor defect,20,B,TD-08,opgelost door ploeg zelf
+2026-03-16,15:30,L3 Extrusie,Zaagunit,Besturing storing,50,B,TD-06,
+2026-03-16,22:40,L2 Verpakking,Etiketteermachine,sensorstoring,13,C,TD-01,opgelost door ploeg zelf
+2026-03-17,03:45,L2 Verpakking,Etiketteermachine,geen materiaal,5,C,TD-04,
+2026-03-17,04:30,L3 Extrusie,Koelbad,materiaaltoevoer leeg,18,C,TD-05,
+2026-03-17,06:00,L2 Verpakking,Vulmachine,reiniging tussen batches,50,A,,monteur opgeroepen
+2026-03-17,13:10,L3 Extrusie,Extruder,smeerbeurt,65,A,TD-08,onderdeel besteld
+2026-03-17,15:05,L2 Verpakking,Krimptunnel,persluchtstoring,33,B,TD-04,afgehandeld volgens checklist
+2026-03-17,20:30,L1 Assemblage,Schroefstation,geen materiaal,5,B,TD-08,"tijdelijk opgelost, melding blijft staan"
+2026-03-18,07:15,L3 Extrusie,Extruder,verstopping extruder,218,A,TD-04,
+2026-03-18,13:30,L1 Assemblage,Toevoerband,Lager vervangen,137,A,,
+2026-03-18,22:25,L2 Verpakking,Etiketteermachine,etiket vastgelopen,10,C,TD-07,afgehandeld volgens checklist
+2026-03-18,22:45,L2 Verpakking,Etiketteermachine,PLC storing,89,C,TD-04,onderdeel besteld
+2026-03-19,00:05,L3 Extrusie,Zaagunit,Perslucht te laag,36,C,TD-02,
+2026-03-19,16:05,L2 Verpakking,Etiketteermachine,Afkeur,52,B,,opgelost door ploeg zelf
+2026-03-19,16:20,L3 Extrusie,Trekbank,reiniging,47,B,TD-05,onderdeel besteld
+2026-03-20,04:10,L3 Extrusie,Zaagunit,Besturing storing,117,C,TD-04,wachten op onderdeel
+2026-03-20,11:55,L1 Assemblage,Robotcel,materiaal op,5,A,TD-02,afgehandeld volgens checklist
+2026-03-20,12:05,L2 Verpakking,Vulmachine,sensor defect,24,A,TD-06,tweede keer deze week
+2026-03-20,20:45,L3 Extrusie,Koelbad,Besturing storing,80,B,,
+2026-03-23,01:40,L3 Extrusie,Trekbank,Materiaal op,29,C,TD-07,
+2026-03-23,03:50,L3 Extrusie,Koelbad,omstelling product,92,C,,
+2026-03-23,05:10,L1 Assemblage,Toevoerband,reiniging tussen batches,33,C,TD-03,afgehandeld volgens checklist
+2026-03-23,08:25,L2 Verpakking,Etiketteermachine,etiketstoring,13,A,TD-05,
+2026-03-23,08:35,L3 Extrusie,Zaagunit,materiaaltoevoer leeg,26,A,,
+2026-03-23,09:10,L2 Verpakking,Krimptunnel,Besturing storing,64,A,TD-01,wachten op onderdeel
+2026-03-23,10:20,L2 Verpakking,Krimptunnel,Gepland onderhoud,63,A,,
+2026-03-24,03:40,L2 Verpakking,Etiketteermachine,Sensor storing,25,C,TD-04,monteur opgeroepen
+2026-03-24,07:00,L3 Extrusie,Trekbank,sensor storing,20,A,TD-08,
+2026-03-24,14:35,L1 Assemblage,Schroefstation,reiniging tussen batches,47,B,,onderdeel besteld
+2026-03-24,16:00,L3 Extrusie,Extruder,matrijswissel,152,B,TD-06,
+2026-03-24,17:30,L1 Assemblage,Testcel,Operator afwezig,41,B,TD-06,opgelost door ploeg zelf
+2026-03-25,02:40,L3 Extrusie,Extruder,gepland onderhoud,32,C,TD-04,
+2026-03-25,04:55,L3 Extrusie,Trekbank,luchtdruk te laag,33,C,TD-06,
+2026-03-25,07:40,L2 Verpakking,Etiketteermachine,sensor storing,24,A,TD-04,tweede keer deze week
+2026-03-25,09:20,L3 Extrusie,Trekbank,Gepland onderhoud,57,A,TD-04,tweede keer deze week
+2026-03-25,11:50,L2 Verpakking,Etiketteermachine,operator afwezig,57,A,TD-02,onderdeel besteld
+2026-03-25,18:30,L1 Assemblage,Schroefstation,PLC storing,117,B,TD-08,
+2026-03-26,05:05,L3 Extrusie,Koelbad,geen materiaal,26,C,,
+2026-03-26,13:40,L3 Extrusie,Extruder,verstopping extruder,132,A,TD-03,
+2026-03-26,14:50,L1 Assemblage,Robotcel,sensorstoring,24,B,TD-05,wachten op onderdeel
+2026-03-26,15:40,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,10,B,,onderdeel besteld
+2026-03-26,19:45,L2 Verpakking,Etiketteermachine,etiketstoring,8,B,,wachten op onderdeel
+2026-03-27,07:40,L1 Assemblage,Robotcel,Omstelling,154,A,,
+2026-03-27,10:50,L2 Verpakking,Vulmachine,Sensor storing,9,A,TD-05,monteur opgeroepen
+2026-03-27,12:20,L1 Assemblage,Schroefstation,gepland onderhoud,37,A,TD-01,monteur opgeroepen
+2026-03-27,13:30,L2 Verpakking,Krimptunnel,kwaliteitscontrole afkeur,36,A,TD-06,
+2026-03-27,14:10,L2 Verpakking,Vulmachine,sensor storing,24,B,,tweede keer deze week
+2026-03-30,02:25,L1 Assemblage,Robotcel,Afkeur,28,C,TD-05,"tijdelijk opgelost, melding blijft staan"
+2026-03-30,07:25,L2 Verpakking,Etiketteermachine,etiket vastgelopen,6,A,TD-06,storing herhaalt zich
+2026-03-30,10:35,L1 Assemblage,Toevoerband,plc-storing,89,A,TD-02,monteur opgeroepen
+2026-03-30,13:45,L1 Assemblage,Robotcel,afkeur controle,56,A,TD-02,afgehandeld volgens checklist
+2026-03-30,15:15,L3 Extrusie,Koelbad,geen materiaal,13,B,TD-07,
+2026-03-30,23:05,L2 Verpakking,Etiketteermachine,Sensor storing,19,C,TD-04,
+2026-03-31,00:00,L3 Extrusie,Extruder,materiaaltoevoer leeg,26,C,TD-02,storing herhaalt zich
+2026-03-31,10:25,L3 Extrusie,Extruder,sensor storing,22,A,TD-05,
+2026-03-31,14:50,L1 Assemblage,Schroefstation,Operator afwezig,10,B,,
+2026-03-31,17:50,L1 Assemblage,Toevoerband,reiniging,43,B,TD-08,
+2026-04-01,00:50,L2 Verpakking,Krimptunnel,reiniging,42,C,,afgehandeld volgens checklist
+2026-04-01,05:15,L3 Extrusie,Extruder,verstopping extruder,162,C,TD-02,opgelost door ploeg zelf
+2026-04-01,13:15,L1 Assemblage,Robotcel,luchtdruk te laag,9,A,TD-03,wachten op onderdeel
+2026-04-01,13:30,L3 Extrusie,Trekbank,luchtdruk te laag,35,A,TD-02,"tijdelijk opgelost, melding blijft staan"
+2026-04-02,04:05,L3 Extrusie,Koelbad,Materiaal op,23,C,TD-08,opgelost door ploeg zelf
+2026-04-02,09:45,L2 Verpakking,Etiketteermachine,geen materiaal,13,A,TD-08,storing herhaalt zich
+2026-04-02,09:45,L3 Extrusie,Zaagunit,lager vervangen,124,A,,
+2026-04-02,09:50,L3 Extrusie,Trekbank,materiaaltoevoer leeg,29,A,TD-06,
+2026-04-02,10:10,L2 Verpakking,Etiketteermachine,etiketstoring,5,A,TD-01,storing herhaalt zich
+2026-04-02,13:25,L1 Assemblage,Robotcel,sensorstoring,16,A,TD-03,wachten op onderdeel
+2026-04-02,17:55,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,15,B,TD-04,opgelost door ploeg zelf
+2026-04-02,19:05,L1 Assemblage,Toevoerband,personeelstekort,56,B,,wachten op onderdeel
+2026-04-03,12:45,L1 Assemblage,Testcel,sensorstoring,15,A,TD-01,
+2026-04-03,14:35,L2 Verpakking,Palletiseerder,sensorstoring,17,B,,opgelost door ploeg zelf
+2026-04-03,18:50,L1 Assemblage,Toevoerband,Sensor storing,11,B,TD-06,
+2026-04-03,22:15,L2 Verpakking,Etiketteermachine,sensorstoring,12,C,,afgehandeld volgens checklist
+2026-04-06,00:50,L2 Verpakking,Etiketteermachine,,14,C,TD-08,tweede keer deze week
+2026-04-06,05:30,L3 Extrusie,Koelbad,reiniging tussen batches,43,C,TD-08,tweede keer deze week
+2026-04-06,05:40,L3 Extrusie,Extruder,Extruder verstopt,96,C,,onderdeel besteld
+2026-04-06,07:25,L3 Extrusie,Zaagunit,persluchtstoring,29,A,TD-02,
+2026-04-06,12:20,L2 Verpakking,Etiketteermachine,etiket vastgelopen,15,A,TD-07,"tijdelijk opgelost, melding blijft staan"
+2026-04-06,19:55,L2 Verpakking,Vulmachine,materiaaltoevoer leeg,7,B,TD-02,opgelost door ploeg zelf
+2026-04-06,21:35,L1 Assemblage,Testcel,materiaal op,18,B,,monteur opgeroepen
+2026-04-06,21:50,L3 Extrusie,Koelbad,Omstelling,69,B,TD-01,
+2026-04-07,06:30,L1 Assemblage,Testcel,luchtdruk te laag,18,A,TD-02,onderdeel besteld
+2026-04-07,09:25,L1 Assemblage,Schroefstation,kwaliteitscontrole afkeur,21,A,TD-01,tweede keer deze week
+2026-04-07,11:15,L2 Verpakking,Etiketteermachine,PLC storing,110,A,TD-08,tweede keer deze week
+2026-04-07,12:35,L2 Verpakking,Etiketteermachine,etiket vastgelopen,17,A,,
+2026-04-07,17:00,L1 Assemblage,Toevoerband,Materiaal op,21,B,TD-04,
+2026-04-08,09:15,L1 Assemblage,Robotcel,luchtdruk te laag,10,A,TD-03,
+2026-04-08,15:10,L1 Assemblage,Schroefstation,sensorstoring,15,B,,
+2026-04-08,15:40,L2 Verpakking,Vulmachine,sensor defect,,B,TD-02,"tijdelijk opgelost, melding blijft staan"
+2026-04-08,19:40,L2 Verpakking,Etiketteermachine,etiketstoring,10,B,TD-06,storing herhaalt zich
+2026-04-08,21:30,L2 Verpakking,Krimptunnel,smeerbeurt,38,B,,
+2026-04-09,02:30,L2 Verpakking,Krimptunnel,omstelling product,141,C,TD-03,tweede keer deze week
+2026-04-09,05:10,L2 Verpakking,Etiketteermachine,PLC storing,40,C,TD-01,
+2026-04-09,08:10,L3 Extrusie,Trekbank,geen materiaal,17,A,TD-04,wachten op onderdeel
+2026-04-09,09:45,L1 Assemblage,Toevoerband,sensor storing,20,A,TD-04,monteur opgeroepen
+2026-04-10,00:45,L3 Extrusie,Trekbank,luchtdruk te laag,35,C,,
+2026-04-10,04:00,L2 Verpakking,Etiketteermachine,etiketstoring,9,C,TD-03,onderdeel besteld
+2026-04-10,05:35,L2 Verpakking,Palletiseerder,gepland onderhoud,64,C,,
+2026-04-10,13:00,L3 Extrusie,Trekbank,reiniging,40,A,TD-01,afgehandeld volgens checklist
+2026-04-10,17:55,L2 Verpakking,Etiketteermachine,etiketstoring,12,B,TD-02,
+2026-04-10,22:40,L1 Assemblage,Robotcel,Operator afwezig,59,C,TD-06,
+2026-04-10,23:00,L3 Extrusie,Extruder,verstopping extruder,117,C,TD-04,
+2026-04-10,23:10,L3 Extrusie,Trekbank,persluchtstoring,13,C,TD-07,onderdeel besteld
+2026-04-13,09:35,L2 Verpakking,Etiketteermachine,sensor defect,11,A,,monteur opgeroepen
+2026-04-13,12:55,L3 Extrusie,Koelbad,luchtdruk te laag,14,A,TD-07,"tijdelijk opgelost, melding blijft staan"
+2026-04-13,21:00,L2 Verpakking,Vulmachine,personeelstekort,54,B,TD-07,"tijdelijk opgelost, melding blijft staan"
+2026-04-13,22:10,L1 Assemblage,Toevoerband,materiaal op,16,C,TD-02,
+2026-04-14,00:50,L1 Assemblage,Testcel,Perslucht te laag,25,C,TD-08,
+2026-04-14,01:10,L3 Extrusie,Extruder,reiniging,43,C,TD-05,tweede keer deze week
+2026-04-14,01:30,L1 Assemblage,Toevoerband,sensorstoring,12,C,TD-01,tweede keer deze week
+2026-04-14,09:50,L1 Assemblage,Schroefstation,persluchtstoring,26,A,TD-08,storing herhaalt zich
+2026-04-14,12:50,L3 Extrusie,Extruder,geen materiaal,20,A,,
+2026-04-15,02:00,L2 Verpakking,Etiketteermachine,Perslucht te laag,33,C,TD-08,
+2026-04-15,04:05,L3 Extrusie,Koelbad,smeerbeurt,46,C,TD-04,storing herhaalt zich
+2026-04-15,06:50,L3 Extrusie,Zaagunit,Lager vervangen,138,A,TD-06,storing herhaalt zich
+2026-04-15,11:45,L2 Verpakking,Palletiseerder,PLC storing,107,A,TD-07,
+2026-04-15,20:20,L1 Assemblage,Robotcel,Perslucht te laag,11,B,TD-02,opgelost door ploeg zelf
+2026-04-15,22:45,L1 Assemblage,Toevoerband,persluchtstoring,16,C,TD-01,opgelost door ploeg zelf
+2026-04-16,05:05,L3 Extrusie,Zaagunit,sensor defect,6,C,TD-08,tweede keer deze week
+2026-04-16,06:45,L2 Verpakking,Palletiseerder,PLC storing,98,A,TD-01,afgehandeld volgens checklist
+2026-04-16,08:25,L3 Extrusie,Koelbad,materiaaltoevoer leeg,28,A,TD-08,
+2026-04-16,10:20,L2 Verpakking,Etiketteermachine,Sensor storing,17,A,TD-08,
+2026-04-16,21:25,L3 Extrusie,Koelbad,omstelling product,80,B,,wachten op onderdeel
+2026-04-16,22:45,L2 Verpakking,Palletiseerder,sensorstoring,6,C,TD-01,storing herhaalt zich
+2026-04-17,02:30,L2 Verpakking,Vulmachine,Gepland onderhoud,42,C,TD-07,storing herhaalt zich
+2026-04-17,04:40,L3 Extrusie,Trekbank,sensor defect,25,C,TD-06,
+2026-04-17,05:50,L1 Assemblage,Schroefstation,materiaal op,8,C,TD-05,wachten op onderdeel
+2026-04-17,13:10,L2 Verpakking,Etiketteermachine,etiket vastgelopen,12,A,TD-05,wachten op onderdeel
+2026-04-17,14:05,L2 Verpakking,Etiketteermachine,storing besturing,62,B,TD-01,tweede keer deze week
+2026-04-17,16:00,L2 Verpakking,Etiketteermachine,Afkeur,39,B,,wachten op onderdeel
+2026-04-17,18:25,L1 Assemblage,Testcel,materiaal op,30,B,TD-07,
+2026-04-17,22:50,L2 Verpakking,Krimptunnel,Stroomuitval,28,C,TD-02,
+2026-04-20,05:55,L2 Verpakking,Etiketteermachine,etiketstoring,12,C,TD-08,afgehandeld volgens checklist
+2026-04-20,08:40,L2 Verpakking,Vulmachine,sensorstoring,14,A,TD-01,
+2026-04-20,15:00,L2 Verpakking,Palletiseerder,plc-storing,71,B,TD-01,afgehandeld volgens checklist
+2026-04-21,00:45,L3 Extrusie,Extruder,Besturing storing,80,C,TD-04,
+2026-04-21,02:35,L3 Extrusie,Trekbank,plc-storing,103,C,TD-02,
+2026-04-21,07:55,L3 Extrusie,Trekbank,sensorstoring,7,A,TD-03,afgehandeld volgens checklist
+2026-04-21,17:00,L1 Assemblage,Schroefstation,materiaal op,23,B,TD-08,wachten op onderdeel
+2026-04-21,18:10,L3 Extrusie,Extruder,PLC storing,126,B,TD-01,wachten op onderdeel
+2026-04-22,00:20,L2 Verpakking,Palletiseerder,sensor storing,24,C,TD-02,
+2026-04-22,04:25,L2 Verpakking,Etiketteermachine,etiket vastgelopen,9,C,TD-08,tweede keer deze week
+2026-04-22,10:35,L2 Verpakking,Etiketteermachine,sensorstoring,21,A,TD-01,
+2026-04-22,23:25,L3 Extrusie,Extruder,Gepland onderhoud,30,C,TD-01,storing herhaalt zich
+2026-04-23,01:05,L2 Verpakking,Vulmachine,persluchtstoring,21,C,TD-02,"tijdelijk opgelost, melding blijft staan"
+2026-04-23,02:40,L2 Verpakking,Etiketteermachine,,15,C,TD-05,opgelost door ploeg zelf
+2026-04-23,06:05,L2 Verpakking,Krimptunnel,persluchtstoring,34,A,,
+2026-04-23,16:55,L1 Assemblage,Schroefstation,sensorstoring,7,B,TD-01,
+2026-04-23,17:15,L3 Extrusie,Extruder,materiaal op,5,B,TD-01,onderdeel besteld
+2026-04-23,18:05,L3 Extrusie,Extruder,omstelling,144,B,TD-07,storing herhaalt zich
+2026-04-23,21:25,L2 Verpakking,Krimptunnel,Perslucht te laag,36,B,,monteur opgeroepen
+2026-04-23,23:15,L3 Extrusie,Zaagunit,reiniging tussen batches,42,C,TD-08,
+2026-04-24,01:35,L2 Verpakking,Krimptunnel,Lager vervangen,116,C,TD-08,"tijdelijk opgelost, melding blijft staan"
+2026-04-24,12:35,L1 Assemblage,Schroefstation,plc-storing,113,A,TD-06,
+2026-04-24,14:30,L2 Verpakking,Vulmachine,luchtdruk te laag,21,B,TD-05,monteur opgeroepen
+2026-04-24,14:35,L3 Extrusie,Extruder,sensor storing,25,B,,tweede keer deze week
+2026-04-24,17:50,L2 Verpakking,Krimptunnel,sensor defect,4,B,TD-05,monteur opgeroepen
+2026-04-24,19:20,L3 Extrusie,Extruder,sensor storing,11,B,TD-07,
+2026-04-24,23:20,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,5,C,,
+2026-04-27,01:25,L3 Extrusie,Zaagunit,operator afwezig,44,C,,afgehandeld volgens checklist
+2026-04-27,05:45,L1 Assemblage,Schroefstation,sensor storing,14,C,TD-03,afgehandeld volgens checklist
+2026-04-27,07:45,L2 Verpakking,Palletiseerder,Sensor storing,15,A,TD-03,wachten op onderdeel
+2026-04-27,13:25,L1 Assemblage,Schroefstation,operator afwezig,25,A,,"tijdelijk opgelost, melding blijft staan"
+2026-04-27,15:05,L1 Assemblage,Testcel,Gepland onderhoud,36,B,TD-01,
+2026-04-27,19:35,L3 Extrusie,Zaagunit,personeelstekort,59,B,TD-07,tweede keer deze week
+2026-04-27,20:15,L2 Verpakking,Etiketteermachine,etiket vastgelopen,8,B,TD-05,
+2026-04-27,22:55,L2 Verpakking,Vulmachine,luchtdruk te laag,17,C,TD-06,onderdeel besteld
+2026-04-28,05:45,L3 Extrusie,Extruder,Sensor storing,21,C,TD-03,
+2026-04-28,06:15,L2 Verpakking,Etiketteermachine,operator afwezig,58,A,TD-03,"tijdelijk opgelost, melding blijft staan"
+2026-04-28,09:35,L2 Verpakking,Etiketteermachine,etiketstoring,6,A,TD-07,tweede keer deze week
+2026-04-28,20:35,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,8,B,TD-06,storing herhaalt zich
+2026-04-28,22:20,L3 Extrusie,Trekbank,persluchtstoring,23,C,TD-06,
+2026-04-28,22:25,L3 Extrusie,Zaagunit,Sensor storing,4,C,TD-04,"tijdelijk opgelost, melding blijft staan"
+2026-04-29,01:35,L3 Extrusie,Zaagunit,Gepland onderhoud,63,C,TD-08,
+2026-04-29,05:55,L1 Assemblage,Robotcel,operator afwezig,19,C,TD-03,
+2026-04-29,08:35,L2 Verpakking,Palletiseerder,geen materiaal,10,A,TD-07,onderdeel besteld
+2026-04-29,18:30,L1 Assemblage,Toevoerband,reiniging,43,B,TD-07,opgelost door ploeg zelf
+2026-04-30,04:00,L1 Assemblage,Testcel,lager vervangen,166,C,TD-04,
+2026-04-30,09:50,L3 Extrusie,Koelbad,sensor defect,8,A,,opgelost door ploeg zelf
+2026-04-30,14:55,L2 Verpakking,Krimptunnel,sensor defect,24,B,TD-06,afgehandeld volgens checklist
+2026-04-30,18:05,L1 Assemblage,Schroefstation,sensorstoring,15,B,TD-02,storing herhaalt zich
+2026-04-30,20:30,L3 Extrusie,Zaagunit,Sensor storing,6,B,TD-08,onderdeel besteld
+2026-04-30,21:15,L1 Assemblage,Testcel,materiaaltoevoer leeg,11,B,TD-08,tweede keer deze week
+2026-05-01,00:45,L1 Assemblage,Testcel,sensorstoring,9,C,TD-07,wachten op onderdeel
+2026-05-01,03:05,L3 Extrusie,Extruder,sensorstoring,18,C,TD-06,opgelost door ploeg zelf
+2026-05-01,07:25,L2 Verpakking,Palletiseerder,reiniging,20,A,TD-06,
+2026-05-01,16:55,L3 Extrusie,Zaagunit,materiaaltoevoer leeg,16,B,,onderdeel besteld
+2026-05-04,01:35,L1 Assemblage,Testcel,Sensor storing,17,C,TD-03,afgehandeld volgens checklist
+2026-05-04,05:20,L3 Extrusie,Extruder,Operator afwezig,10,C,TD-01,afgehandeld volgens checklist
+2026-05-04,12:40,L1 Assemblage,Toevoerband,Reiniging,25,A,TD-02,
+2026-05-04,13:05,L2 Verpakking,Vulmachine,materiaal op,29,A,,wachten op onderdeel
+2026-05-05,02:05,L3 Extrusie,Extruder,Materiaal op,22,C,TD-08,storing herhaalt zich
+2026-05-05,02:25,L2 Verpakking,Etiketteermachine,etiketstoring,9,C,TD-07,monteur opgeroepen
+2026-05-05,05:00,L2 Verpakking,Etiketteermachine,etiket vastgelopen,16,C,,
+2026-05-05,09:15,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,13,A,TD-06,
+2026-05-05,12:55,L2 Verpakking,Vulmachine,sensor storing,,A,TD-07,opgelost door ploeg zelf
+2026-05-05,16:20,L1 Assemblage,Testcel,sensorstoring,21,B,TD-07,"tijdelijk opgelost, melding blijft staan"
+2026-05-05,21:05,L2 Verpakking,Etiketteermachine,etiket vastgelopen,11,B,TD-05,storing herhaalt zich
+2026-05-05,23:25,L3 Extrusie,Trekbank,sensorstoring,19,C,TD-04,storing herhaalt zich
+2026-05-06,00:45,L1 Assemblage,Schroefstation,sensor storing,12,C,TD-07,
+2026-05-06,01:55,L3 Extrusie,Extruder,sensor storing,5,C,TD-06,monteur opgeroepen
+2026-05-06,03:00,L3 Extrusie,Koelbad,sensor storing,23,C,TD-03,
+2026-05-06,18:00,L3 Extrusie,Trekbank,Lager vervangen,78,B,TD-03,
+2026-05-06,19:45,L3 Extrusie,Extruder,Gepland onderhoud,31,B,TD-04,
+2026-05-07,00:35,L2 Verpakking,Palletiseerder,geen materiaal,14,C,,
+2026-05-07,06:15,L1 Assemblage,Schroefstation,materiaal op,24,A,TD-05,storing herhaalt zich
+2026-05-07,08:25,L1 Assemblage,Toevoerband,sensor storing,16,A,TD-05,opgelost door ploeg zelf
+2026-05-07,11:45,L3 Extrusie,Trekbank,Omstelling,181,A,TD-01,"tijdelijk opgelost, melding blijft staan"
+2026-05-07,16:20,L3 Extrusie,Extruder,Omstelling,133,B,,
+2026-05-07,19:30,L3 Extrusie,Extruder,verstopping extruder,197,B,TD-03,storing herhaalt zich
+2026-05-07,19:35,L2 Verpakking,Etiketteermachine,etiketstoring,8,B,,afgehandeld volgens checklist
+2026-05-07,23:10,L2 Verpakking,Palletiseerder,sensorstoring,19,C,,
+2026-05-08,02:25,L1 Assemblage,Testcel,gepland onderhoud,40,C,TD-06,monteur opgeroepen
+2026-05-08,03:10,L2 Verpakking,Krimptunnel,sensorstoring,18,C,TD-03,
+2026-05-08,05:00,L3 Extrusie,Zaagunit,luchtdruk te laag,12,C,TD-06,wachten op onderdeel
+2026-05-08,16:25,L3 Extrusie,Zaagunit,persluchtstoring,28,B,TD-04,monteur opgeroepen
+2026-05-08,17:50,L1 Assemblage,Robotcel,sensor storing,22,B,TD-06,opgelost door ploeg zelf
+2026-05-08,19:45,L3 Extrusie,Extruder,Extruder verstopt,216,B,TD-03,"tijdelijk opgelost, melding blijft staan"
+2026-05-11,02:15,L1 Assemblage,Schroefstation,sensorstoring,11,C,TD-04,
+2026-05-11,06:05,L2 Verpakking,Krimptunnel,Reiniging,28,A,TD-01,opgelost door ploeg zelf
+2026-05-11,07:50,L1 Assemblage,Schroefstation,kwaliteitscontrole afkeur,64,A,TD-03,
+2026-05-11,12:30,L3 Extrusie,Extruder,Sensor storing,24,A,TD-03,
+2026-05-11,18:05,L2 Verpakking,Palletiseerder,Materiaal op,10,B,TD-05,tweede keer deze week
+2026-05-12,00:35,L3 Extrusie,Extruder,Omstelling,98,C,TD-07,onderdeel besteld
+2026-05-12,02:05,L2 Verpakking,Krimptunnel,sensor storing,22,C,TD-03,
+2026-05-12,03:40,L3 Extrusie,Trekbank,Omstelling,181,C,TD-02,wachten op onderdeel
+2026-05-12,14:10,L2 Verpakking,Krimptunnel,persluchtstoring,35,B,TD-04,
+2026-05-12,17:30,L3 Extrusie,Zaagunit,smeerbeurt,52,B,TD-01,"tijdelijk opgelost, melding blijft staan"
+2026-05-13,06:05,L2 Verpakking,Etiketteermachine,etiket vastgelopen,18,A,TD-08,
+2026-05-13,12:00,L3 Extrusie,Extruder,Matrijswissel,94,A,TD-03,
+2026-05-13,13:35,L3 Extrusie,Koelbad,smeerbeurt,65,A,TD-01,"tijdelijk opgelost, melding blijft staan"
+2026-05-13,16:45,L3 Extrusie,Extruder,Matrijswissel,78,B,TD-03,
+2026-05-14,00:30,L2 Verpakking,Krimptunnel,sensor defect,8,C,TD-07,wachten op onderdeel
+2026-05-14,00:40,L3 Extrusie,Extruder,Matrijswissel,183,C,TD-07,"tijdelijk opgelost, melding blijft staan"
+2026-05-14,01:35,L2 Verpakking,Etiketteermachine,etiket vastgelopen,9,C,TD-02,"tijdelijk opgelost, melding blijft staan"
+2026-05-14,02:30,L2 Verpakking,Etiketteermachine,personeelstekort,52,C,TD-03,"tijdelijk opgelost, melding blijft staan"
+2026-05-14,13:40,L3 Extrusie,Trekbank,stroomstoring,70,A,,"tijdelijk opgelost, melding blijft staan"
+2026-05-15,01:00,L2 Verpakking,Vulmachine,sensor storing,25,C,TD-04,storing herhaalt zich
+2026-05-15,07:40,L2 Verpakking,Krimptunnel,personeelstekort,17,A,TD-02,opgelost door ploeg zelf
+2026-05-15,11:25,L3 Extrusie,Koelbad,Perslucht te laag,29,A,TD-01,
+2026-05-15,21:30,L3 Extrusie,Koelbad,sensor storing,10,B,TD-07,
+2026-05-18,01:10,L3 Extrusie,Zaagunit,Sensor storing,11,C,TD-08,monteur opgeroepen
+2026-05-18,01:25,L3 Extrusie,Zaagunit,materiaal op,27,C,TD-06,
+2026-05-18,01:40,L3 Extrusie,Extruder,Sensor storing,8,C,TD-05,
+2026-05-18,05:20,L1 Assemblage,Testcel,materiaal op,7,C,,monteur opgeroepen
+2026-05-18,16:55,L2 Verpakking,Vulmachine,smeerbeurt,56,B,TD-04,afgehandeld volgens checklist
+2026-05-18,19:45,L1 Assemblage,Robotcel,Perslucht te laag,21,B,TD-01,afgehandeld volgens checklist
+2026-05-19,02:05,L1 Assemblage,Robotcel,Omstelling,168,C,TD-05,storing herhaalt zich
+2026-05-19,02:50,L3 Extrusie,Extruder,Operator afwezig,43,C,TD-06,"tijdelijk opgelost, melding blijft staan"
+2026-05-19,09:35,L2 Verpakking,Krimptunnel,sensorstoring,4,A,TD-03,wachten op onderdeel
+2026-05-19,17:50,L1 Assemblage,Robotcel,PLC storing,51,B,TD-06,
+2026-05-19,18:40,L3 Extrusie,Extruder,Matrijswissel,,B,TD-05,tweede keer deze week
+2026-05-20,01:15,L2 Verpakking,Krimptunnel,storing besturing,28,C,TD-04,tweede keer deze week
+2026-05-20,01:30,L2 Verpakking,Vulmachine,Sensor storing,15,C,TD-05,afgehandeld volgens checklist
+2026-05-20,11:20,L1 Assemblage,Testcel,sensor storing,6,A,TD-03,onderdeel besteld
+2026-05-20,23:40,L3 Extrusie,Koelbad,materiaal op,6,C,TD-05,wachten op onderdeel
+2026-05-21,02:30,L1 Assemblage,Testcel,Omstelling,127,C,TD-08,
+2026-05-21,04:40,L2 Verpakking,Etiketteermachine,etiketstoring,10,C,TD-05,monteur opgeroepen
+2026-05-21,05:05,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,9,C,TD-02,afgehandeld volgens checklist
+2026-05-21,21:50,L2 Verpakking,Krimptunnel,reiniging tussen batches,31,B,TD-04,
+2026-05-22,04:25,L1 Assemblage,Robotcel,sensorstoring,12,C,,"tijdelijk opgelost, melding blijft staan"
+2026-05-22,04:25,L1 Assemblage,Testcel,Sensor storing,9,C,TD-01,
+2026-05-22,04:45,L1 Assemblage,Schroefstation,omstelling product,63,C,,wachten op onderdeel
+2026-05-22,05:35,L2 Verpakking,Etiketteermachine,materiaal op,,C,TD-02,"tijdelijk opgelost, melding blijft staan"
+2026-05-22,08:20,L1 Assemblage,Schroefstation,Perslucht te laag,10,A,TD-08,wachten op onderdeel
+2026-05-22,08:30,L1 Assemblage,Toevoerband,materiaal op,28,A,TD-01,
+2026-05-25,07:50,L2 Verpakking,Vulmachine,sensor storing,11,A,TD-02,storing herhaalt zich
+2026-05-25,13:40,L1 Assemblage,Robotcel,Afkeur,29,A,TD-03,monteur opgeroepen
+2026-05-25,18:00,L1 Assemblage,Schroefstation,materiaaltoevoer leeg,6,B,TD-08,
+2026-05-25,23:35,L1 Assemblage,Testcel,materiaal op,14,C,TD-05,afgehandeld volgens checklist
+2026-05-26,09:40,L2 Verpakking,Etiketteermachine,etiket vastgelopen,16,A,TD-06,onderdeel besteld
+2026-05-26,10:00,L3 Extrusie,Trekbank,geen materiaal,20,A,TD-05,opgelost door ploeg zelf
+2026-05-26,10:45,L2 Verpakking,Etiketteermachine,geen materiaal,29,A,,monteur opgeroepen
+2026-05-26,13:00,L3 Extrusie,Koelbad,sensorstoring,24,A,TD-08,storing herhaalt zich
+2026-05-26,14:35,L3 Extrusie,Zaagunit,Sensor storing,24,B,TD-01,opgelost door ploeg zelf
+2026-05-26,16:45,L2 Verpakking,Etiketteermachine,etiket vastgelopen,15,B,TD-04,monteur opgeroepen
+2026-05-27,01:55,L3 Extrusie,Extruder,matrijswissel,148,C,TD-02,
+2026-05-27,11:55,L2 Verpakking,Vulmachine,Materiaal op,28,A,TD-08,
+2026-05-27,14:55,L3 Extrusie,Zaagunit,sensor defect,17,B,TD-05,tweede keer deze week
+2026-05-27,20:20,L3 Extrusie,Koelbad,reiniging tussen batches,37,B,TD-07,
+2026-05-28,00:20,L3 Extrusie,Extruder,materiaaltoevoer leeg,29,C,TD-06,
+2026-05-28,01:45,L2 Verpakking,Krimptunnel,reiniging tussen batches,22,C,TD-02,tweede keer deze week
+2026-05-28,01:45,L2 Verpakking,Palletiseerder,Besturing storing,87,C,TD-02,wachten op onderdeel
+2026-05-28,18:40,L2 Verpakking,Etiketteermachine,etiketstoring,18,B,TD-04,storing herhaalt zich
+2026-05-28,18:55,L1 Assemblage,Schroefstation,reiniging tussen batches,33,B,,afgehandeld volgens checklist
+2026-05-29,01:05,L3 Extrusie,Extruder,Perslucht te laag,26,C,TD-03,monteur opgeroepen
+2026-05-29,06:35,L2 Verpakking,Vulmachine,geen materiaal,27,A,TD-02,
+2026-05-29,07:15,L3 Extrusie,Extruder,sensor storing,12,A,TD-03,
+2026-05-29,10:00,L1 Assemblage,Robotcel,smeerbeurt,62,A,TD-05,
+2026-05-29,13:20,L2 Verpakking,Etiketteermachine,etiket vastgelopen,12,A,TD-06,opgelost door ploeg zelf
+2026-05-29,20:35,L1 Assemblage,Robotcel,personeelstekort,,B,TD-03,
+2026-05-29,21:35,L3 Extrusie,Extruder,Sensor storing,25,B,TD-03,storing herhaalt zich
+2026-05-29,23:15,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,6,C,TD-06,
+2026-06-01,06:55,L2 Verpakking,Vulmachine,sensor defect,9,A,TD-07,
+2026-06-01,08:10,L2 Verpakking,Krimptunnel,persluchtstoring,24,A,TD-08,tweede keer deze week
+2026-06-01,09:10,L2 Verpakking,Palletiseerder,reiniging tussen batches,35,A,TD-03,monteur opgeroepen
+2026-06-01,11:25,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,7,A,TD-04,
+2026-06-01,18:20,L3 Extrusie,Trekbank,reiniging,43,B,TD-07,
+2026-06-01,20:20,L1 Assemblage,Robotcel,Lager vervangen,119,B,TD-04,
+2026-06-02,09:50,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,8,A,TD-03,afgehandeld volgens checklist
+2026-06-02,12:40,L3 Extrusie,Extruder,luchtdruk te laag,15,A,,tweede keer deze week
+2026-06-02,18:20,L3 Extrusie,Zaagunit,storing besturing,40,B,TD-02,
+2026-06-02,20:50,L2 Verpakking,Krimptunnel,storing besturing,75,B,TD-03,
+2026-06-03,03:45,L3 Extrusie,Koelbad,sensor defect,4,C,TD-01,
+2026-06-03,04:40,L3 Extrusie,Trekbank,sensor storing,9,C,TD-01,
+2026-06-03,05:45,L1 Assemblage,Testcel,sensor defect,14,C,TD-03,
+2026-06-03,06:35,L3 Extrusie,Extruder,Extruder verstopt,148,A,,wachten op onderdeel
+2026-06-03,09:20,L2 Verpakking,Krimptunnel,PLC storing,112,A,TD-08,
+2026-06-03,13:20,L2 Verpakking,Vulmachine,lagerbreuk,137,A,TD-04,storing herhaalt zich
+2026-06-03,17:55,L1 Assemblage,Toevoerband,materiaaltoevoer leeg,12,B,,
+2026-06-03,23:50,L1 Assemblage,Testcel,plc-storing,34,C,TD-06,wachten op onderdeel
+2026-06-04,03:15,L3 Extrusie,Koelbad,materiaal op,23,C,TD-02,wachten op onderdeel
+2026-06-04,13:20,L2 Verpakking,Krimptunnel,plc-storing,31,A,TD-05,opgelost door ploeg zelf
+2026-06-04,13:55,L3 Extrusie,Extruder,persluchtstoring,13,A,,
+2026-06-04,16:40,L3 Extrusie,Zaagunit,Omstelling,96,B,,monteur opgeroepen
+2026-06-04,16:55,L1 Assemblage,Toevoerband,lager vervangen,73,B,,storing herhaalt zich
+2026-06-04,17:45,L3 Extrusie,Koelbad,Sensor storing,22,B,TD-03,onderdeel besteld
+2026-06-05,05:10,L2 Verpakking,Etiketteermachine,Besturing storing,26,C,TD-03,
+2026-06-05,06:35,L3 Extrusie,Koelbad,materiaal op,14,A,TD-02,monteur opgeroepen
+2026-06-05,13:05,L2 Verpakking,Etiketteermachine,etiketstoring,5,A,TD-04,onderdeel besteld
+2026-06-05,22:30,L3 Extrusie,Trekbank,smeerbeurt,34,C,TD-06,
+2026-06-08,07:00,L1 Assemblage,Toevoerband,Reiniging,50,A,TD-02,
+2026-06-08,07:55,L2 Verpakking,Etiketteermachine,etiketstoring,12,A,TD-07,tweede keer deze week
+2026-06-08,08:50,L3 Extrusie,Extruder,reiniging tussen batches,31,A,TD-05,onderdeel besteld
+2026-06-08,22:05,L2 Verpakking,Krimptunnel,reiniging tussen batches,48,C,TD-08,
+2026-06-08,22:10,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,13,C,TD-01,"tijdelijk opgelost, melding blijft staan"
+2026-06-09,00:50,L2 Verpakking,Etiketteermachine,sensor storing,18,C,TD-06,
+2026-06-09,01:40,L3 Extrusie,Trekbank,lagerbreuk,102,C,TD-02,afgehandeld volgens checklist
+2026-06-09,08:20,L2 Verpakking,Etiketteermachine,persluchtstoring,10,A,TD-08,
+2026-06-09,09:30,L1 Assemblage,Toevoerband,luchtdruk te laag,18,A,TD-07,"tijdelijk opgelost, melding blijft staan"
+2026-06-09,10:15,L1 Assemblage,Testcel,persluchtstoring,18,A,TD-06,wachten op onderdeel
+2026-06-09,13:40,L1 Assemblage,Robotcel,Afkeur,46,A,TD-08,
+2026-06-09,14:50,L3 Extrusie,Extruder,sensorstoring,23,B,TD-05,
+2026-06-09,15:00,L2 Verpakking,Palletiseerder,Materiaal op,16,B,,"tijdelijk opgelost, melding blijft staan"
+2026-06-10,02:15,L3 Extrusie,Extruder,geen materiaal,6,C,TD-01,opgelost door ploeg zelf
+2026-06-10,02:20,L1 Assemblage,Schroefstation,sensor defect,21,C,TD-01,
+2026-06-10,03:10,L3 Extrusie,Zaagunit,luchtdruk te laag,33,C,TD-08,afgehandeld volgens checklist
+2026-06-10,04:25,L2 Verpakking,Krimptunnel,kwaliteitscontrole afkeur,31,C,TD-01,monteur opgeroepen
+2026-06-10,17:35,L2 Verpakking,Etiketteermachine,etiket vastgelopen,11,B,TD-03,
+2026-06-11,04:55,L3 Extrusie,Trekbank,Sensor storing,18,C,TD-04,"tijdelijk opgelost, melding blijft staan"
+2026-06-11,09:00,L2 Verpakking,Etiketteermachine,persluchtstoring,12,A,,onderdeel besteld
+2026-06-11,10:30,L3 Extrusie,Extruder,extruder verstopt,162,A,TD-06,onderdeel besteld
+2026-06-11,20:35,L1 Assemblage,Testcel,sensorstoring,4,B,TD-08,onderdeel besteld
+2026-06-12,00:20,L2 Verpakking,Etiketteermachine,etiket vastgelopen,9,C,TD-02,
+2026-06-12,11:05,L3 Extrusie,Zaagunit,materiaal op,26,A,TD-02,
+2026-06-12,13:35,L3 Extrusie,Zaagunit,omstelling product,125,A,TD-03,monteur opgeroepen
+2026-06-12,18:40,L3 Extrusie,Koelbad,plc-storing,32,B,TD-02,"tijdelijk opgelost, melding blijft staan"
+2026-06-12,22:35,L3 Extrusie,Koelbad,afkeur controle,48,C,TD-04,
+2026-06-15,03:25,L2 Verpakking,Krimptunnel,Sensor storing,14,C,TD-06,monteur opgeroepen
+2026-06-15,04:20,L1 Assemblage,Schroefstation,sensorstoring,22,C,TD-08,"tijdelijk opgelost, melding blijft staan"
+2026-06-15,04:50,L2 Verpakking,Etiketteermachine,etiket vastgelopen,11,C,TD-07,storing herhaalt zich
+2026-06-15,05:50,L1 Assemblage,Toevoerband,Operator afwezig,40,C,TD-05,wachten op onderdeel
+2026-06-15,20:40,L2 Verpakking,Etiketteermachine,Omstelling,126,B,TD-03,
+2026-06-15,23:40,L2 Verpakking,Vulmachine,luchtdruk te laag,26,C,TD-06,"tijdelijk opgelost, melding blijft staan"
+2026-06-15,23:45,L2 Verpakking,Vulmachine,sensorstoring,25,C,TD-05,wachten op onderdeel
+2026-06-16,00:10,L1 Assemblage,Schroefstation,Materiaal op,12,C,TD-04,onderdeel besteld
+2026-06-16,14:05,L3 Extrusie,Trekbank,Materiaal op,29,B,TD-07,tweede keer deze week
+2026-06-16,15:55,L3 Extrusie,Trekbank,reiniging,31,B,TD-07,"tijdelijk opgelost, melding blijft staan"
+2026-06-16,17:45,L1 Assemblage,Toevoerband,omstelling product,154,B,TD-05,opgelost door ploeg zelf
+2026-06-17,00:15,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,16,C,TD-07,monteur opgeroepen
+2026-06-17,05:55,L1 Assemblage,Toevoerband,sensorstoring,17,C,TD-02,tweede keer deze week
+2026-06-17,07:10,L3 Extrusie,Trekbank,smeerbeurt,32,A,TD-04,
+2026-06-17,11:20,L1 Assemblage,Schroefstation,PLC storing,130,A,TD-08,storing herhaalt zich
+2026-06-17,16:15,L2 Verpakking,Krimptunnel,storing besturing,25,B,TD-04,
+2026-06-17,20:15,L2 Verpakking,Krimptunnel,PLC storing,48,B,TD-07,
+2026-06-17,20:30,L1 Assemblage,Robotcel,Reiniging,26,B,TD-08,
+2026-06-18,02:00,L1 Assemblage,Testcel,omstelling product,131,C,TD-06,storing herhaalt zich
+2026-06-18,02:35,L1 Assemblage,Schroefstation,sensor storing,17,C,,tweede keer deze week
+2026-06-18,18:10,L2 Verpakking,Palletiseerder,sensorstoring,14,B,TD-08,
+2026-06-18,21:55,L2 Verpakking,Etiketteermachine,reiniging,23,B,TD-07,monteur opgeroepen
+2026-06-18,22:00,L3 Extrusie,Koelbad,sensorstoring,5,C,TD-08,storing herhaalt zich
+2026-06-19,03:55,L3 Extrusie,Extruder,sensor storing,23,C,TD-07,
+2026-06-19,04:05,L3 Extrusie,Koelbad,Materiaal op,5,C,TD-06,tweede keer deze week
+2026-06-19,05:00,L1 Assemblage,Schroefstation,Materiaal op,11,C,TD-06,onderdeel besteld
+2026-06-19,10:20,L2 Verpakking,Krimptunnel,reiniging tussen batches,49,A,TD-05,onderdeel besteld
+2026-06-19,11:05,L3 Extrusie,Trekbank,Stroomuitval,48,A,,
+2026-06-19,16:15,L2 Verpakking,Krimptunnel,Sensor storing,9,B,,opgelost door ploeg zelf
+2026-06-19,16:35,L2 Verpakking,Etiketteermachine,etiketstoring,12,B,TD-05,
+2026-06-19,20:50,L1 Assemblage,Testcel,Afkeur,56,B,TD-08,"tijdelijk opgelost, melding blijft staan"
+2026-06-22,01:00,L2 Verpakking,Vulmachine,sensor storing,20,C,TD-01,monteur opgeroepen
+2026-06-22,05:20,L3 Extrusie,Koelbad,Materiaal op,18,C,TD-05,wachten op onderdeel
+2026-06-22,07:10,L1 Assemblage,Testcel,Perslucht te laag,23,A,,monteur opgeroepen
+2026-06-22,15:25,L2 Verpakking,Etiketteermachine,etiketstoring,5,B,TD-07,
+2026-06-22,18:35,L2 Verpakking,Vulmachine,materiaaltoevoer leeg,20,B,,storing herhaalt zich
+2026-06-22,23:55,L1 Assemblage,Schroefstation,gepland onderhoud,31,C,TD-07,
+2026-06-23,01:40,L2 Verpakking,Vulmachine,Operator afwezig,52,C,TD-08,
+2026-06-23,02:35,L2 Verpakking,Vulmachine,Perslucht te laag,38,C,TD-04,monteur opgeroepen
+2026-06-23,02:55,L2 Verpakking,Etiketteermachine,Etiket vastgelopen,4,C,,storing herhaalt zich
+2026-06-23,10:25,L3 Extrusie,Extruder,sensor defect,13,A,TD-06,tweede keer deze week
+2026-06-23,23:35,L3 Extrusie,Extruder,persluchtstoring,29,C,TD-05,
+2026-06-24,08:30,L3 Extrusie,Extruder,materiaaltoevoer leeg,6,A,TD-07,
+2026-06-24,08:40,L3 Extrusie,Koelbad,Operator afwezig,38,A,TD-01,wachten op onderdeel
+2026-06-24,19:00,L1 Assemblage,Testcel,sensor defect,17,B,TD-08,"tijdelijk opgelost, melding blijft staan"
+2026-06-24,21:40,L2 Verpakking,Vulmachine,Reiniging,20,B,TD-06,monteur opgeroepen
+2026-06-25,00:55,L2 Verpakking,Etiketteermachine,Afkeur,46,C,TD-08,
+2026-06-25,03:40,L2 Verpakking,Krimptunnel,sensor storing,21,C,TD-02,afgehandeld volgens checklist
+2026-06-25,22:10,L2 Verpakking,Etiketteermachine,sensor defect,19,C,TD-05,"tijdelijk opgelost, melding blijft staan"
+2026-06-25,23:35,L2 Verpakking,Krimptunnel,plc-storing,46,C,TD-06,
+2026-06-26,05:55,L3 Extrusie,Extruder,lager vervangen,85,C,TD-01,onderdeel besteld
+2026-06-26,06:10,L3 Extrusie,Extruder,Perslucht te laag,32,A,,
+2026-06-26,20:40,L3 Extrusie,Koelbad,sensor storing,9,B,TD-02,
+2026-06-29,01:45,L3 Extrusie,Trekbank,Perslucht te laag,14,C,,storing herhaalt zich
+2026-06-29,03:45,L1 Assemblage,Testcel,lager vervangen,118,C,TD-06,wachten op onderdeel
+2026-06-29,06:45,L1 Assemblage,Toevoerband,Sensor storing,22,A,TD-07,storing herhaalt zich
+2026-06-29,13:10,L2 Verpakking,Etiketteermachine,etiket vastgelopen,11,A,,storing herhaalt zich
+2026-06-29,18:40,L1 Assemblage,Robotcel,sensor storing,22,B,TD-02,
+2026-06-30,04:30,L2 Verpakking,Etiketteermachine,etiketstoring,13,C,,
+2026-06-30,08:10,L2 Verpakking,Palletiseerder,sensorstoring,0,A,TD-02,tweede keer deze week
+2026-06-30,10:30,L2 Verpakking,Etiketteermachine,etiket vastgelopen,15,A,TD-08,wachten op onderdeel
+2026-06-30,12:05,L2 Verpakking,Vulmachine,geen materiaal,14,A,TD-07,wachten op onderdeel
+2026-06-30,15:40,L3 Extrusie,Koelbad,smeerbeurt,32,B,TD-02,
+2026-06-30,18:45,L2 Verpakking,Etiketteermachine,etiketstoring,9,B,TD-05,wachten op onderdeel
+2026-06-30,22:10,L2 Verpakking,Etiketteermachine,materiaaltoevoer leeg,13,C,,"tijdelijk opgelost, melding blijft staan"
+2026-06-30,23:25,L3 Extrusie,Extruder,gepland onderhoud,58,C,TD-05,

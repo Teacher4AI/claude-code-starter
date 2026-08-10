@@ -11,12 +11,12 @@ Gemaakt door [Teacher4AI](https://teacher4ai.net) — AI-trainingen uit Rotterda
 Deze repo geeft je een werkende startstructuur voor Claude Code:
 
 - **`CLAUDE.md`** — Template kennisbank die Claude leest bij elke sessie
-- **`skills/`** — Herbruikbare instructies met een werkend voorbeeld
+- **`skills/`** — Herbruikbare instructies, met twee werkende voorbeelden
 - **`commands/`** — Plek voor custom slash commands
 - **`hooks/`** — Pre- en post-hooks voor automatisering
 - **`.claude/`** — MCP configuratie voorbeelden (Gmail, Notion)
 - **`cases/`** — Werkmap voor je eigen projecten
-- **`data/`** — Voorbeelddata om mee te experimenteren
+- **`data/`** — Voorbeelddata per spoor, klaar om echt iets mee te doen
 
 ## Wat heb je nodig?
 
@@ -79,7 +79,27 @@ Open `CLAUDE.md` in een teksteditor (of vraag het aan Claude!) en vul in:
 - Welke tools je wilt gebruiken
 - Je eigen regels en voorkeuren
 
-### Stap 5: Koppel externe tools (optioneel)
+### Stap 5: Doe iets echts
+
+Een begroeting is leuk, maar je wilt zien wat het je oplevert. In `data/` staat
+voorbeeldmateriaal per spoor.
+
+**Techniek.** Er staat een stilstandsregistratie van een productiebedrijf klaar: drie
+lijnen, een vol jaar, ongeveer 1350 meldingen, met alle rommel die daar in het echt in zit.
+Typ in Claude Code:
+
+```
+Gebruik de stilstandsrapport skill
+```
+
+Claude leest het bestand, groept de oorzaken die in tien schrijfwijzen zijn ingevoerd,
+rekent een Pareto-analyse uit, maakt de grafiek en schrijft een rapport in
+`cases/techniek/stilstandsanalyse/`. Wissel daarna het voorbeeldbestand om voor je eigen
+export en draai hem opnieuw.
+
+**Onderwijs.** In `data/onderwijs/` staan leerlinggegevens en een rubric om mee te oefenen.
+
+### Stap 6: Koppel externe tools (optioneel)
 
 Wil je dat Claude je email kan lezen of je Notion kan doorzoeken? Zie `.claude/README.md` voor stap-voor-stap instructies om MCP servers zoals Gmail en Notion te koppelen.
 
@@ -99,7 +119,9 @@ claude-code-starter/
 │   └── settings.json      ← Project instellingen
 │
 ├── skills/                ← Herbruikbare instructies
-│   └── hello-world/       ← Werkend voorbeeld
+│   ├── hello-world/       ← Werkend voorbeeld
+│   │   └── SKILL.md
+│   └── stilstandsrapport/ ← Data-analyse met grafiek en rapport
 │       └── SKILL.md
 │
 ├── commands/              ← Custom slash commands
@@ -110,14 +132,18 @@ claude-code-starter/
 │
 ├── cases/                 ← Jouw werkbestanden
 │   ├── techniek/          ← Technische cases
-│   │   └── README.md
+│   │   ├── README.md
+│   │   └── stilstandsanalyse/  ← Resultaten van de stilstandsrapport-skill
 │   └── onderwijs/         ← Onderwijs cases
 │       └── README.md
 │
-└── data/                  ← Voorbeelddata
+└── data/                  ← Voorbeelddata per spoor
     ├── README.md
-    ├── voorbeeld-leerlingen.csv
-    └── voorbeeld-rubric.md
+    ├── techniek/
+    │   └── voorbeeld-stilstand.csv   ← ~1350 stilstandsmeldingen
+    └── onderwijs/
+        ├── voorbeeld-leerlingen.csv
+        └── voorbeeld-rubric.md
 ```
 
 ## Skills gebruiken

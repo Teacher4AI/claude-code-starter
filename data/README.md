@@ -1,19 +1,19 @@
 # data/ — Voorbeelddata
 
-Deze map bevat voorbeelddata om mee te experimenteren.
+Voorbeeldbestanden om mee te experimenteren, gesplitst per spoor. Net als `cases/`.
 
-## Bestanden
+| Map | Voor wie | Inhoud |
+|-----|----------|--------|
+| [`techniek/`](techniek/) | Technici, engineers, werkvoorbereiders | Stilstandsregistratie van een productielijn (~1350 regels) |
+| [`onderwijs/`](onderwijs/) | Docenten, opleiders | Leerlinggegevens en een beoordelingsrubric |
 
-| Bestand | Inhoud | Gebruik |
-|---------|--------|---------|
-| `voorbeeld-leerlingen.csv` | Fictieve leerlinggegevens | CSV inlezen, analyseren, filteren |
-| `voorbeeld-rubric.md` | Beoordelingsrubric | Gestructureerde tekst verwerken |
+Elke map heeft een eigen README met de kolommen en de bedoeling.
 
 ## Eigen data toevoegen
 
 Plaats hier je eigen datasets. Let op:
 
-- **Geen persoonsgegevens** van echte leerlingen/medewerkers
+- **Geen persoonsgegevens** van echte leerlingen of medewerkers
 - **Geen vertrouwelijke bedrijfsdata**
 - Gebruik fictieve of geanonimiseerde data
 - Voeg bestanden toe aan `.gitignore` als ze niet op GitHub mogen
@@ -21,6 +21,7 @@ Plaats hier je eigen datasets. Let op:
 ## Tips voor Claude
 
 Je kunt Claude vragen:
-- "Analyseer de CSV in data/"
-- "Maak een samenvatting van de rubric"
-- "Genereer vergelijkbare testdata"
+
+- "Analyseer `data/techniek/voorbeeld-stilstand.csv` en vertel me wat opvalt"
+- "Gebruik de weekrapport-stilstand skill"
+- "Genereer vergelijkbare testdata voor mijn eigen lijn"
