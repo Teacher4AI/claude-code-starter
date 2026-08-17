@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(./meldingen/**)"
+    ],
+    "ask": [
+      "Edit(./tickets/**)"
+    ],
+    "deny": [
+      "mcp__mail__send_email"
+    ]
+  }
+}

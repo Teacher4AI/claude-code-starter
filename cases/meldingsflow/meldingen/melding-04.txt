@@ -1,0 +1,7 @@
+Meldingsnummer: M-4411
+Ontvangen: 2026-08-17 09:48
+Melder: magazijn, expeditie
+Locatie: laadkuil achterzijde
+
+De deursensor van de laadkuil aan de achterzijde geeft sinds gisteren geen
+signaal meer door aan het paneel. De deur zelf gaat gewoon open en dicht.

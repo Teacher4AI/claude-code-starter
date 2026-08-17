@@ -159,6 +159,7 @@ claude-code-starter/
 │       └── README.md
 │
 ├── cases/                 ← Jouw werkbestanden
+│   ├── meldingsflow/      ← Uitgewerkte oefencase: van melding tot ticket
 │   ├── techniek/
 │   │   ├── README.md
 │   │   └── stilstandsanalyse/  ← Resultaten van de stilstandsrapport-skill
@@ -173,6 +174,12 @@ claude-code-starter/
         ├── voorbeeld-leerlingen.csv
         └── voorbeeld-rubric.md
 ```
+
+**Waarom staat `cases/meldingsflow/` niet onder techniek of onderwijs?** Dat is de enige
+map hier die geen lege werkmap is maar een uitgewerkte oefencase, met eigen skill,
+instellingen en testmeldingen. Hij is voor beide sporen geschreven (de README vertaalt
+melding → ingeleverd werk en behandelaar → docent), dus hij past in geen van de twee. Je
+start Claude Code **in die map**, niet in de hoofdmap.
 
 **Waarom staat alles onder `.claude/`?** Claude Code leest skills, commands en instellingen
 alleen daar. Een map `skills/` in de hoofdmap wordt niet gevonden.

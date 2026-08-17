@@ -1,0 +1,10 @@
+Meldingsnummer: M-4410
+Ontvangen: 2026-08-17 08:42
+Melder: receptie hoofdgebouw
+Locatie: ruimte 3
+
+De klimaatinstallatie in ruimte 3 blaast sinds vanochtend warme lucht en maakt
+een ratelend geluid. In ruimte 3 staat de serverkast en de temperatuur op de
+display loopt op: om 08:30 stond hij op 27 graden, normaal is dat 21. Kan er
+vandaag nog iemand naar kijken? Als het zo doorgaat moeten we de servers
+vanmiddag uitzetten.

@@ -1,0 +1,13 @@
+{
+  "_comment": "Optionele tweede stap. Hernoem naar .mcp.json of, makkelijker, gebruik de twee 'claude mcp add'-commando's uit README.md; dan schrijft Claude Code dit bestand zelf. Geen van beide koppelingen heeft een sleutel in dit bestand nodig: de notitie-database (tickets) logt in via /mcp in je sessie, de mailkoppeling logt in bij Google (OAuth) via een configuratiebestand buiten deze map, volgens de installatiestappen in de handleiding van dat pakket. Zet hier dus NOOIT een sleutel neer.",
+  "mcpServers": {
+    "tickets": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    },
+    "mail": {
+      "command": "npx",
+      "args": ["-y", "@gongrzhe/server-gmail-autoauth-mcp"]
+    }
+  }
+}
