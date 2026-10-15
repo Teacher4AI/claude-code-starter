@@ -1,6 +1,6 @@
 # Chunk 1: Twee vormen van onderhoud
 
-**Herkomst:** Onderhoudstechniek, hoofdstuk 3, paragraaf 3.1
+**Herkomst:** Onderhoudstechniek, hoofdstuk 3, paragraaf 3.1, p. 42-45
 **Leerdoel:** de student kan preventief en correctief onderhoud onderscheiden en van elk een voorbeeld geven.
 
 **Inhoud.** Bij correctief onderhoud wacht je tot iets kapotgaat en repareer je het dan. Bij

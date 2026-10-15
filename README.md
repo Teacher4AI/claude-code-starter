@@ -179,9 +179,9 @@ claude-code-starter/
 **Waarom staan `cases/meldingsflow/` en `cases/feedbackronde/` niet onder techniek of
 onderwijs?** Het zijn geen lege werkmappen maar uitgewerkte oefencases, met eigen skill,
 instellingen en testbestanden. De feedbackronde hoort bij de minicursus AI-feedback
-automatiseren; de meldingsflow hieronder geldt voor beide sporen. Hij is voor beide sporen geschreven (de README vertaalt
-melding → ingeleverd werk en behandelaar → docent), dus hij past in geen van de twee. Je
-start Claude Code **in die map**, niet in de hoofdmap.
+automatiseren. De meldingsflow is voor beide sporen geschreven (de README vertaalt melding →
+ingeleverd werk en behandelaar → docent), dus hij past in geen van de twee. Je start Claude
+Code **in die map**, niet in de hoofdmap.
 
 **Waarom staat alles onder `.claude/`?** Claude Code leest skills, commands en instellingen
 alleen daar. Een map `skills/` in de hoofdmap wordt niet gevonden.

@@ -1,6 +1,6 @@
 # Chunk 3: Registreren om te kunnen bijsturen
 
-**Herkomst:** Onderhoudstechniek, hoofdstuk 3, paragraaf 3.4
+**Herkomst:** Onderhoudstechniek, hoofdstuk 3, paragraaf 3.4, p. 54-57
 **Leerdoel:** de student weet welke gegevens hij in het onderhoudssysteem vastlegt om een onderhoudskeuze later te toetsen.
 
 **Inhoud.** Een onderhoudskeuze is een hypothese. Of hij klopt, zie je pas als je vastlegt

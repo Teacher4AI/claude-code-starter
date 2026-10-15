@@ -1,6 +1,6 @@
 # Chunk 2: De afweging maken
 
-**Herkomst:** Onderhoudstechniek, hoofdstuk 3, paragraaf 3.2
+**Herkomst:** Onderhoudstechniek, hoofdstuk 3, paragraaf 3.2, p. 46-49
 **Leerdoel:** de student kan de keuze tussen preventief en correctief onderbouwen met kosten van stilstand, kosten van onderhoud en veiligheid.
 
 **Inhoud.** Je weegt drie dingen. Eén: wat kost het als de installatie onverwacht stilvalt
