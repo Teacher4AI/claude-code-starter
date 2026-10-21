@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(./opdracht.md)",
+      "Read(./rubric.md)",
+      "Read(./lesstof/**)",
+      "Read(./antwoorden/**)",
+      "Read(./feedback/**)"
+    ],
+    "ask": [
+      "Edit(./feedback/**)"
+    ],
+    "deny": [
+      "Edit(./antwoorden/**)",
+      "Edit(./lesstof/**)",
+      "Edit(./rubric.md)",
+      "WebFetch",
+      "WebSearch"
+    ]
+  }
+}
